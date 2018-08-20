@@ -20,7 +20,7 @@
 
 在任何形式的参与前，请先阅读 贡献者文档。如果你希望参与贡献，欢迎 [Pull Request](https://github.com/52ABP/Documents/pulls)，或给我们 报告 [Bug](https://github.com/52ABP/Documents/issues)。
 
-> 贡献规则和详情参见[贡献说明](/Getting Involed/contributing.md)
+> 贡献规则和详情参见 [贡献说明](GettingInvoled/contributing.md)
 
 ---
 
