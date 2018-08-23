@@ -2,7 +2,7 @@
 
 首先表示欢迎！
 
-您可以到 [52ABP文档中心](https://www.52abp.com/Documents/Index) 进行浏览
+您可以到 [52ABP文档中心](https://www.52abp.com/wiki/index) 进行浏览
 
 52ABP涉及到的文档信息库。
 
@@ -12,7 +12,7 @@
 
 本文档的Markdown的原始文件全部保存在[Documents](https://github.com/52ABP/Documents)路径中，为了方便大家的管理和维护，我启用了版本管理，版本类别是对应ABP的版本号。
 
-效果查看：[52ABP文档中心](https://www.52abp.com/Documents/Index) 
+效果查看：[52ABP文档中心](https://www.52abp.com/wiki/index) 
 
 欢迎大家进行共同参与维护内容。
 
@@ -20,13 +20,13 @@
 
 在任何形式的参与前，请先阅读 贡献者文档。如果你希望参与贡献，欢迎 [Pull Request](https://github.com/52ABP/Documents/pulls)，或给我们 报告 [Bug](https://github.com/52ABP/Documents/issues)。
 
-> 贡献规则和详情参见 [贡献说明](GettingInvoled/contributing.md)
+> 贡献规则和详情参见 [贡献说明](52ABP开发人员中心/52ABP团队欢迎您的到来.md)
 
 ---
 
 Welcome!
 
-Please view this at [52ABP Wiki Center](https://www.52abp.com/Documents/Index)
+Please view this at [52ABP Wiki Center](https://www.52abp.com/wiki/index)
 
 
 
