@@ -50,7 +50,7 @@
 -   [集成Swagger UI](5.4ABP分布式服务-集成SwaggerUI.md)
 -   [ASPNET Core 集成OData](5.5ABP分布式服务-ASPNETCoreOData集成.md)
 
-## ABP表现层
+## 表现层
 
 -   [MVC Controllers](6.1ABP表现层-Mvc控制器.md)
 -   [MVC视图](6.2ABP表现层-Mvc视图.md)    
@@ -76,7 +76,7 @@
 -   [集成SignalR](8.2ABP实时服务-集成SignalR.md)
 -   [集成SignalR AspNet Core](8.3ABP实时服务-集成SignalRAspNetCore.md)
 
-## 基础设施层
+## 基础设施层(对象关系映射层)
 
 -   [集成EntityFramework](1ABP基础设施层-集成EntityFramework.md)
 -   [集成NHibernate](2ABP基础设施层-集成NHibernate.md)
@@ -97,10 +97,10 @@
 
 -   [多租户管理](AbpZero/2.1ABPZero-多租户管理.md)
 -   [版本管理](AbpZero/2.2ABPZero-版本管理.md)
-<!-- -   [用户管理](http://www.cnblogs.com/farb/p/moduleZeroUserManagement.html) -->
-<!-- -   [角色管理](http://www.cnblogs.com/farb/p/ModuleZeroRoleManagement.html) -->
+-   [用户管理](http://www.cnblogs.com/farb/p/moduleZeroUserManagement.html)
+-   [角色管理](http://www.cnblogs.com/farb/p/ModuleZeroRoleManagement.html)
 -   [组织单位管理](AbpZero/2.4ABPZero-组织单位管理.md)
-<!-- -   [权限管理](http://www.cnblogs.com/farb/p/ModuleZeroPermissonManagement.html) -->
-<!-- -   [语言管理](http://www.cnblogs.com/farb/p/ModuleZeroLanguageManagement.html) -->
+-   [权限管理](http://www.cnblogs.com/farb/p/ModuleZeroPermissonManagement.html)
+-   [语言管理](http://www.cnblogs.com/farb/p/ModuleZeroLanguageManagement.html)
  
 
