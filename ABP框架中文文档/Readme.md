@@ -97,10 +97,10 @@
 
 -   [多租户管理](AbpZero/2.1ABPZero-多租户管理.md)
 -   [版本管理](AbpZero/2.2ABPZero-版本管理.md)
--   [用户管理](http://www.cnblogs.com/farb/p/moduleZeroUserManagement.html)
--   [角色管理](http://www.cnblogs.com/farb/p/ModuleZeroRoleManagement.html)
+<!-- -   [用户管理](http://www.cnblogs.com/farb/p/moduleZeroUserManagement.html) -->
+<!-- -   [角色管理](http://www.cnblogs.com/farb/p/ModuleZeroRoleManagement.html) -->
 -   [组织单位管理](AbpZero/2.4ABPZero-组织单位管理.md)
--   [权限管理](http://www.cnblogs.com/farb/p/ModuleZeroPermissonManagement.html)
--   [语言管理](http://www.cnblogs.com/farb/p/ModuleZeroLanguageManagement.html)
+<!-- -   [权限管理](http://www.cnblogs.com/farb/p/ModuleZeroPermissonManagement.html) -->
+<!-- -   [语言管理](http://www.cnblogs.com/farb/p/ModuleZeroLanguageManagement.html) -->
  
 
