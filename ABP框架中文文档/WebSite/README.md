@@ -4,7 +4,7 @@
 
 -   [入门介绍](Introduction.md)
 
--   [[多层次架构体系](NLayer-Architecture.md)
+-   [多层次架构体系](NLayer-Architecture.md)
 -   [模块系统](Module-System.md)
 -   [启动配置](Startup-Configuration.md)
 -   [多租户](Multi-Tenancy.md)
