@@ -1,37 +1,22 @@
-# 欢迎来到52ABP文档中心
-
-首先表示欢迎！
-
-您可以到 [52ABP文档中心](https://www.52abp.com/wiki/index) 进行浏览
-
-52ABP涉及到的文档信息库。
-
-
-# ABP框架需要大家的推广和维护
-
-
-本文档的Markdown的原始文件全部保存在[Documents](https://github.com/52ABP/Documents)路径中，为了方便大家的管理和维护，我启用了版本管理，版本类别是对应ABP的版本号。
-
-效果查看：[52ABP文档中心](https://www.52abp.com/wiki/index) 
-
-欢迎大家进行共同参与维护内容。
-
-# 如何贡献?
-
-在任何形式的参与前，请先阅读 贡献者文档。如果你希望参与贡献，欢迎 [Pull Request](https://github.com/52ABP/Documents/pulls)，或给我们 报告 [Bug](https://github.com/52ABP/Documents/issues)。
-
-> 贡献规则和详情参见 [贡献说明](52ABP开发人员中心/52ABP团队欢迎您的到来.md)
+## ASP .NET Boilerplate 文档
 
 ---
 
-Welcome!
+该文档发布在 https://52abp.com/Wiki/Index 上
 
-Please view this at [52ABP Wiki Center](https://www.52abp.com/wiki/index)
+目前由站长-[梁桐铭](https://github.com/ltm0203)翻译整理而来
 
+## 目录结构简单说明
 
+- Document.md 文件为文档的导航目录
+- Readme.md 文件为整体的导言
+- 图片请放到对应的文件夹中，同时 图片请参考下图的格式
+- `![](./Wiki_abp_images/1.2.2.png)`
 
-## 特别鸣谢
+## 参与贡献
 
-本文档的原始内容来自于 `https://github.com/ABPFrameWorkGroup/AbpDocument2Chinese` 
-本来是由[ABPFrameWorkGroup](https://github.com/ABPFrameWorkGroup)他们在进行维护，但是因为过去几年来ABP框架的变化比较多。
-故我这次在这个版本的基础进行了升级，加入了版本控制，同时将中间的内容进行二次内容整理。
+如果您想为此做出贡献，请按以下步骤操作：
+
+- 如果这是一个小的改动（拼写错误或语法修正，或添加几个句子），你可以直接制作并发送一个拉请求。
+- 如果这是一个重大更改（创建新文档或向现有文档添加新部分），请创建一个描述您要进行的更改的问题。
+- 我们将评估您要求的更改。如果已被接受，您可以进行更改并发送 PR。 -请遵循当前文件的相同标准。
