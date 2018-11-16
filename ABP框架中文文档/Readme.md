@@ -79,10 +79,16 @@
 ## 基础设施层
 
 -   [集成EntityFramework](./9.1ABP基础设施层-集成EntityFramework.md)
--   [集成NHibernate](./9.2ABP基础设施层-集成NHibernate.md)
 -   [集成EntityFramework Core](./9.3ABP基础设施层-集成EntityFrameworkCore.md)
--   [集成EntityFramework MySQL](./9.4ABP基础设施层-集成EntityFrameworkMySql.md)
+-   [集成NHibernate](./9.2ABP基础设施层-集成NHibernate.md)
 -   [集成Dapper](./9.5ABP基础设施层-集成Dapper.md)
+
+## 数据库切换和集成
+-   [集成EntityFramework MySQL](./9.4ABP基础设施层-集成EntityFrameworkMySql.md)
+-   [EF Core集成 Oracle](./EF-Core-Oracle-Integration.md)
+-   [EF Core集成 MySql](./EF-Core-MySql-Integration.md)
+-   [EF Core集成 PostgreSql](./EF-Core-PostgreSql-Integration.md)
+-   [EF Core集成 Sqlite ](./EF-Core-Sqlite-Integration.md)
 
 ## Module Zero 文档
 
