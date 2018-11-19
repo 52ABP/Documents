@@ -161,7 +161,8 @@
                 },
                 {
                     "text": "ASPNETCoreOData集成",
-                    "path": "5.5ABP分布式服务-ASPNETCoreOData集成.md"
+                    "path": "5.5ABP分布式服务-ASPNETCoreOData集成.md",
+                    "isNew": true
                 }
             ]
         },
