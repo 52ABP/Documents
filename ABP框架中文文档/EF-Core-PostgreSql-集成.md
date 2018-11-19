@@ -31,7 +31,7 @@ public static class PostgreSqlDemoDbContextConfigurer
 
 #### 配置数据库连接字符串 
 
-在 **.Web.Mvc/appsettings.json** 文件中将连接字符串更改为你的 PostgreSQL 连接，例如：
+在 **.Web.Mvc/appsettings.json** 配置文件中将连接字符串更改为你的 PostgreSQL 的连接字符串，例如：
 
 ```js
 {
@@ -78,7 +78,7 @@ public class PostgreSqlDemoDbContext : AbpZeroDbContext<Tenant, Role, User, Post
 }
 ```
 
-删除 **.EntityFrameworkCore/Migrations** 文件夹，因为 `Npgsql.EntityFrameworkCore.PostgreSQL`会添加自己的 Entity Framework Core 配置。
+删除 **.EntityFrameworkCore/Migrations** 文件夹，因为 `Npgsql.EntityFrameworkCore.PostgreSQL`将添加一些自己的配置文件以便使用Entity Framework Core。
 
 开始构建数据库：
 
@@ -87,4 +87,4 @@ public class PostgreSqlDemoDbContext : AbpZeroDbContext<Tenant, Role, User, Post
 - 执行 `add-migration Initial_Migration` 命令。
 - 执行 `update-database` 命令。
 
-现在，PostgreSQL 集成现已完成，你可以使用 PostgreSQL 运行项目了。
+PostgreSQL 集成至此已经全部完成，你可以使用PostgreSQL运行你的项目了。
