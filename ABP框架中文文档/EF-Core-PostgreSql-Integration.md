@@ -1,6 +1,6 @@
 ### 下载起始模板
 
-下载带有 **ASP.NET Core** 和 **Entity Framework Core** 的起始模板， 以集成 PostgreSQL。 本文档将介绍[集成**ASP.NET Core 2.x+** 和 **Entity Framework Core** +. net 核心框架 + 身份验证的多页模板](https://aspnetboilerplate.com/Templates)。
+下载带有 **ASP.NET Core** 和 **Entity Framework Core** 的起始模板， 以集成 PostgreSQL。 本文档将介绍[集成**ASP.NET Core 2.x+** 和 **Entity Framework Core** + 身份验证的多页模板](https://aspnetboilerplate.com/Templates)。
 
 ### 安装
 
