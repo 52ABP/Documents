@@ -1,6 +1,6 @@
 ### 下载起始项目
  
-现在下载以 **ASP.NET Core** 和 **Entity Framework Core** 为模版的起始项目来实现集成SQLite. 
+现在下载以 **ASP.NET Core** 和 **Entity Framework Core** 为模版的起始项目来实现集成SQLite：
 [**ASP.NET Core 2.x** + **.NET Core Framework** + **Authentication** 的Multi-page template](https://aspnetboilerplate.com/Templates) 
 我们将以此模版来展开本文的后续实现.
 
