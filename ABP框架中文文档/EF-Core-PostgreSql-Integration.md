@@ -50,6 +50,7 @@ public static class PostgreSqlDemoDbContextConfigurer
 > **原因** : [EF Core 2.0: 设计时发生变更](https://github.com/aspnet/EntityFrameworkCore/issues/9033)
 > 
 > **解决方法** : [设计: 允许安装 IDesignTimeDbContextFactory 的 idesig-timedbcontext 模块](https://github.com/aspnet/EntityFrameworkCore/issues/9076#issuecomment-313278753)
+>
 > **注意 :** 如果不重命名 `BuildWebHost`，你将在运行时收到`BuildWebHost`方法执行错误。
 
 ### 创建数据库
