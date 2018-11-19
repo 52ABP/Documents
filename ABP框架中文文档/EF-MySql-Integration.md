@@ -15,7 +15,7 @@
     SetSqlGenerator("MySql.Data.MySqlClient", new MySql.Data.Entity.MySqlMigrationSqlGenerator()); 
 
 
-#### 配置ConnectionString
+#### 更新数据库连接字符串ConnectionString
 
 你需要更改web.config文件中的连接字符串才能使用MySql数据库。示例连接字符串如下：
 
