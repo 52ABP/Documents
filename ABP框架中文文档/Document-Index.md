@@ -1,112 +1,110 @@
-# Abp ¿ò¼ÜÖÐÎÄÎÄµµ
+# Abp æ¡†æž¶ä¸­æ–‡æ–‡æ¡£
 
-## ×ÜÌå½éÉÜ
+## æ€»ä½“ä»‹ç»
 
--   [ÈëÃÅ½éÉÜ](./1.1ABP×ÜÌå½éÉÜ-ÈëÃÅ½éÉÜ.md)
--   [¶à²ã´Î¼Ü¹¹ÌåÏµ](./1.2ABP×ÜÌå½éÉÜ-¶à²ã¼Ü¹¹ÌåÏµ.md)
--   [Ä£¿éÏµÍ³](./1.3ABP×ÜÌå½éÉÜ-Ä£¿éÏµÍ³.md)
--   [Æô¶¯ÅäÖÃ](./1.4ABP×ÜÌå½éÉÜ-Æô¶¯ÅäÖÃ.md)
--   [¶à×â»§](./1.5ABP×ÜÌå½éÉÜ-¶à×â»§.md)
--   [¼¯³ÉOWIN](./1.6ABP×ÜÌå½éÉÜ-¼¯³ÉOWIN.md)
--   [µ÷ÊÔ](./1.7ABP×ÜÌå½éÉÜ-µ÷ÊÔ.md)
+- [å…¥é—¨ä»‹ç»](./1.1ABPæ€»ä½“ä»‹ç»-å…¥é—¨ä»‹ç».md)
+- [å¤šå±‚æ¬¡æž¶æž„ä½“ç³»](./1.2ABPæ€»ä½“ä»‹ç»-å¤šå±‚æž¶æž„ä½“ç³».md)
+- [æ¨¡å—ç³»ç»Ÿ](./1.3ABPæ€»ä½“ä»‹ç»-æ¨¡å—ç³»ç»Ÿ.md)
+- [å¯åŠ¨é…ç½®](./1.4ABPæ€»ä½“ä»‹ç»-å¯åŠ¨é…ç½®.md)
+- [å¤šç§Ÿæˆ·](./1.5ABPæ€»ä½“ä»‹ç»-å¤šç§Ÿæˆ·.md)
+- [é›†æˆ OWIN](./1.6ABPæ€»ä½“ä»‹ç»-é›†æˆOWIN.md)
+- [è°ƒè¯•](./1.7ABPæ€»ä½“ä»‹ç»-è°ƒè¯•.md)
 
-## ¹«¹²½á¹¹
+## å…¬å…±ç»“æž„
 
--   [ÒÀÀµ×¢Èë](./2.1ABP¹«¹²½á¹¹-ÒÀÀµ×¢Èë.md)
--   [»á»°¹ÜÀí](./2.2ABP¹«¹²½á¹¹-»á»°¹ÜÀí.md)
--   [»º´æ¹ÜÀí](./2.3ABP¹«¹²½á¹¹-»º´æ¹ÜÀí.md)
--   [ÈÕÖ¾¹ÜÀí](./2.4ABP¹«¹²½á¹¹-ÈÕÖ¾¹ÜÀí.md)
--   [ÉèÖÃ¹ÜÀí](./2.5ABP¹«¹²½á¹¹-ÉèÖÃ¹ÜÀí.md)
--   [Ê±¼äÓëÊ±ÇøÉèÖÃ](./2.6ABP¹«¹²½á¹¹-Ê±ÇøÉèÖÃ.md)
--   [¶ÔÏóÖ®¼äµÄÓ³Éä(AutoMapper¼¯³É)](./2.7ABP¹«¹²½á¹¹-¶ÔÏóÖ®¼äµÄÓ³Éä.md)
--   [ÓÊ¼þ·¢ËÍ(MailKit¼¯³É)](./2.8ABP¹«¹²½á¹¹-ÓÊ¼þ·¢ËÍ.md)
+- [ä¾èµ–æ³¨å…¥](./2.1ABPå…¬å…±ç»“æž„-ä¾èµ–æ³¨å…¥.md)
+- [ä¼šè¯ç®¡ç†](./2.2ABPå…¬å…±ç»“æž„-ä¼šè¯ç®¡ç†.md)
+- [ç¼“å­˜ç®¡ç†](./2.3ABPå…¬å…±ç»“æž„-ç¼“å­˜ç®¡ç†.md)
+- [æ—¥å¿—ç®¡ç†](./2.4ABPå…¬å…±ç»“æž„-æ—¥å¿—ç®¡ç†.md)
+- [è®¾ç½®ç®¡ç†](./2.5ABPå…¬å…±ç»“æž„-è®¾ç½®ç®¡ç†.md)
+- [æ—¶é—´ä¸Žæ—¶åŒºè®¾ç½®](./2.6ABPå…¬å…±ç»“æž„-æ—¶åŒºè®¾ç½®.md)
+- [å¯¹è±¡ä¹‹é—´çš„æ˜ å°„(AutoMapper é›†æˆ)](./2.7ABPå…¬å…±ç»“æž„-å¯¹è±¡ä¹‹é—´çš„æ˜ å°„.md)
+- [é‚®ä»¶å‘é€(MailKit é›†æˆ)](./2.8ABPå…¬å…±ç»“æž„-é‚®ä»¶å‘é€.md)
 
-## ÁìÓò²ã
+## é¢†åŸŸå±‚
 
--   [ÊµÌå](./3.1ABPÁìÓò²ã-ÊµÌå.md)
--   [Öµ¶ÔÏó](./3.2ABPÁìÓò²ã-Öµ¶ÔÏó.md)
--   [²Ö´¢](./3.3ABPÁìÓò²ã-²Ö´¢.md)
--   [ÁìÓò·þÎñ](./3.4ABPÁìÓò²ã-ÁìÓò·þÎñ.md)
--   [¹¤×÷µ¥Ôª](./3.5ABPÁìÓò²ã-¹¤×÷µ¥Ôª.md)
--   [ÁìÓòÊÂ¼þ](./3.6ABPÁìÓò²ã-ÁìÓòÊÂ¼þ.md)
--   [Êý¾Ý¹ýÂËÆ÷](./3.7ABPÁìÓò²ã-Êý¾Ý¹ýÂËÆ÷.md)
--   [¹æÔ¼Ä£Ê½](./3.8ABPÁìÓò²ã-¹æÔ¼Ä£Ê½.md)
-    
-## Ó¦ÓÃ²ã
+- [å®žä½“](./3.1ABPé¢†åŸŸå±‚-å®žä½“.md)
+- [å€¼å¯¹è±¡](./3.2ABPé¢†åŸŸå±‚-å€¼å¯¹è±¡.md)
+- [ä»“å‚¨](./3.3ABPé¢†åŸŸå±‚-ä»“å‚¨.md)
+- [é¢†åŸŸæœåŠ¡](./3.4ABPé¢†åŸŸå±‚-é¢†åŸŸæœåŠ¡.md)
+- [å·¥ä½œå•å…ƒ](./3.5ABPé¢†åŸŸå±‚-å·¥ä½œå•å…ƒ.md)
+- [é¢†åŸŸäº‹ä»¶](./3.6ABPé¢†åŸŸå±‚-é¢†åŸŸäº‹ä»¶.md)
+- [æ•°æ®è¿‡æ»¤å™¨](./3.7ABPé¢†åŸŸå±‚-æ•°æ®è¿‡æ»¤å™¨.md)
+- [è§„çº¦æ¨¡å¼](./3.8ABPé¢†åŸŸå±‚-è§„çº¦æ¨¡å¼.md)
 
--   [Ó¦ÓÃ·þÎñ](./4.1ABPÓ¦ÓÃ²ã-Ó¦ÓÃ·þÎñ.md)
--   [Êý¾Ý´«Êä¶ÔÏó](./4.2ABPÓ¦ÓÃ²ã-Êý¾Ý´«Êä¶ÔÏó.md)
--   [Êý¾Ý´«Êä¶ÔÏóÑéÖ¤](./4.3ABPÓ¦ÓÃ²ã-Êý¾Ý´«Êä¶ÔÏóÑéÖ¤.md)
--   [È¨ÏÞÑéÖ¤](./4.4ABPÓ¦ÓÃ²ã-È¨ÏÞÈÏÖ¤.md)
--   [¹¦ÄÜ¹ÜÀí](./4.5ABPÓ¦ÓÃ²ã-¹¦ÄÜ¹ÜÀí.md)
--   [Éó¼ÆÈÕÖ¾](./4.6ABPÓ¦ÓÃ²ã-Éó¼ÆÈÕÖ¾.md)
--   [ÊµÌåÀúÊ·](./4.6ABPÓ¦ÓÃ²ã-EntityHistory.md)
+## åº”ç”¨å±‚
 
-## ·Ö²¼Ê½·þÎñ²ã
+- [åº”ç”¨æœåŠ¡](./4.1ABPåº”ç”¨å±‚-åº”ç”¨æœåŠ¡.md)
+- [æ•°æ®ä¼ è¾“å¯¹è±¡](./4.2ABPåº”ç”¨å±‚-æ•°æ®ä¼ è¾“å¯¹è±¡.md)
+- [æ•°æ®ä¼ è¾“å¯¹è±¡éªŒè¯](./4.3ABPåº”ç”¨å±‚-æ•°æ®ä¼ è¾“å¯¹è±¡éªŒè¯.md)
+- [æƒé™éªŒè¯](./4.4ABPåº”ç”¨å±‚-æƒé™è®¤è¯.md)
+- [åŠŸèƒ½ç®¡ç†](./4.5ABPåº”ç”¨å±‚-åŠŸèƒ½ç®¡ç†.md)
+- [å®¡è®¡æ—¥å¿—](./4.6ABPåº”ç”¨å±‚-å®¡è®¡æ—¥å¿—.md)
+- [å®žä½“åŽ†å²](./4.6ABPåº”ç”¨å±‚-EntityHistory.md)
 
--   [Web API Controllers](./5.1ABP·Ö²¼Ê½·þÎñ-ASP.NETWebApi.md)
--   [¶¯Ì¬WebApi²ã](./5.2ABP·Ö²¼Ê½·þÎñ-¶¯Ì¬WebApi²ã.md)
--   [¼¯³ÉOData](./5.3ABP·Ö²¼Ê½·þÎñ-¼¯³ÉOData.md)
--   [¼¯³ÉSwagger UI](./5.4ABP·Ö²¼Ê½·þÎñ-¼¯³ÉSwaggerUI.md)
--   [ASPNET Core ¼¯³ÉOData](./5.5ABP·Ö²¼Ê½·þÎñ-ASPNETCoreOData¼¯³É.md)
+## åˆ†å¸ƒå¼æœåŠ¡å±‚
 
-## ABP±íÏÖ²ã
+- [Web API Controllers](./5.1ABPåˆ†å¸ƒå¼æœåŠ¡-ASP.NETWebApi.md)
+- [åŠ¨æ€ WebApi å±‚](./5.2ABPåˆ†å¸ƒå¼æœåŠ¡-åŠ¨æ€WebApiå±‚.md)
+- [é›†æˆ OData](./5.3ABPåˆ†å¸ƒå¼æœåŠ¡-é›†æˆOData.md)
+- [é›†æˆ Swagger UI](./5.4ABPåˆ†å¸ƒå¼æœåŠ¡-é›†æˆSwaggerUI.md)
+- [ASPNET Core é›†æˆ OData](./5.5ABPåˆ†å¸ƒå¼æœåŠ¡-ASPNETCoreODataé›†æˆ.md)
 
--   [MVC Controllers](./6.1ABP±íÏÖ²ã-Mvc¿ØÖÆÆ÷.md)
--   [MVCÊÓÍ¼](./6.2ABP±íÏÖ²ã-MvcÊÓÍ¼.md)    
--   [±¾µØ»¯](./6.3ABP±íÏÖ²ã-±¾µØ»¯.md)    
--   [µ¼º½À¸](./6.4ABP±íÏÖ²ã-µ¼º½À¸.md)
--   [Òì³£´¦Àí](./6.5ABP±íÏÖ²ã-Òì³£´¦Àí.md)
--   [Javascript API](./6.6ABP±íÏÖ²ã-JavascriptAPI.md)
--   [Ç¶Èë×ÊÔ´ÎÄ¼þ](./6.7ABP±íÏÖ²ã-Ç¶Èë×ÊÔ´ÎÄ¼þ.md)
--   [ASP.NET Core](./6.8ASP.NET-Core.md)
-    -   [CSRFºÍXSRF±£»¤](./6.9CSRFºÍXSRF±£»¤.md)
-    -   [Ç¶ÈëÊ½×ÊÔ´](./6.10Ç¶ÈëÊ½×ÊÔ´.md)
+## ABP è¡¨çŽ°å±‚
 
-##  ºóÌ¨·þÎñ
+- [MVC Controllers](./6.1ABPè¡¨çŽ°å±‚-MvcæŽ§åˆ¶å™¨.md)
+- [MVC è§†å›¾](./6.2ABPè¡¨çŽ°å±‚-Mvcè§†å›¾.md)
+- [æœ¬åœ°åŒ–](./6.3ABPè¡¨çŽ°å±‚-æœ¬åœ°åŒ–.md)
+- [å¯¼èˆªæ ](./6.4ABPè¡¨çŽ°å±‚-å¯¼èˆªæ .md)
+- [å¼‚å¸¸å¤„ç†](./6.5ABPè¡¨çŽ°å±‚-å¼‚å¸¸å¤„ç†.md)
+- [Javascript API](./6.6ABPè¡¨çŽ°å±‚-JavascriptAPI.md)
+- [åµŒå…¥èµ„æºæ–‡ä»¶](./6.7ABPè¡¨çŽ°å±‚-åµŒå…¥èµ„æºæ–‡ä»¶.md)
+- [ASP.NET Core](./6.8ASP.NET-Core.md)
+  - [CSRF å’Œ XSRF ä¿æŠ¤](./6.9CSRFå’ŒXSRFä¿æŠ¤.md)
+  - [åµŒå…¥å¼èµ„æº](./6.10åµŒå…¥å¼èµ„æº.md)
 
--   [ºóÌ¨×÷ÒµºÍºóÌ¨¹¤ÈË](./7.1ABPºóÌ¨·þÎñ-ºóÌ¨×÷ÒµºÍ¹¤ÈË.md)
--   [¼¯³ÉHangfire](./7.2ABPºóÌ¨·þÎñ-¼¯³ÉHangfire.md)
--   [¼¯³ÉQuartz](./7.3ABPºóÌ¨·þÎñ-¼¯³ÉQuartz.md)
+## åŽå°æœåŠ¡
 
+- [åŽå°ä½œä¸šå’ŒåŽå°å·¥äºº](./7.1ABPåŽå°æœåŠ¡-åŽå°ä½œä¸šå’Œå·¥äºº.md)
+- [é›†æˆ Hangfire](./7.2ABPåŽå°æœåŠ¡-é›†æˆHangfire.md)
+- [é›†æˆ Quartz](./7.3ABPåŽå°æœåŠ¡-é›†æˆQuartz.md)
 
-## ÊµÊ±·þÎñ
+## å®žæ—¶æœåŠ¡
 
--   [Í¨ÖªÏµÍ³](./8.1ABPÊµÊ±·þÎñ-Í¨ÖªÏµÍ³.md)
--   [¼¯³ÉSignalR](./8.2ABPÊµÊ±·þÎñ-¼¯³ÉSignalR.md)
--   [¼¯³ÉSignalR AspNet Core](./8.3ABPÊµÊ±·þÎñ-¼¯³ÉSignalRAspNetCore.md)
+- [é€šçŸ¥ç³»ç»Ÿ](./8.1ABPå®žæ—¶æœåŠ¡-é€šçŸ¥ç³»ç»Ÿ.md)
+- [é›†æˆ SignalR](./8.2ABPå®žæ—¶æœåŠ¡-é›†æˆSignalR.md)
+- [é›†æˆ SignalR AspNet Core](./8.3ABPå®žæ—¶æœåŠ¡-é›†æˆSignalRAspNetCore.md)
 
-## »ù´¡ÉèÊ©²ã
+## åŸºç¡€è®¾æ–½å±‚
 
--   [¼¯³ÉEntityFramework](./9.1ABP»ù´¡ÉèÊ©²ã-¼¯³ÉEntityFramework.md)
--   [¼¯³ÉEntityFramework Core](./9.3ABP»ù´¡ÉèÊ©²ã-¼¯³ÉEntityFrameworkCore.md)
--   [¼¯³ÉNHibernate](./9.2ABP»ù´¡ÉèÊ©²ã-¼¯³ÉNHibernate.md)
--   [¼¯³ÉDapper](./9.5ABP»ù´¡ÉèÊ©²ã-¼¯³ÉDapper.md)
+- [é›†æˆ EntityFramework](./9.1ABPåŸºç¡€è®¾æ–½å±‚-é›†æˆEntityFramework.md)
+- [é›†æˆ EntityFramework Core](./9.3ABPåŸºç¡€è®¾æ–½å±‚-é›†æˆEntityFrameworkCore.md)
+- [é›†æˆ NHibernate](./9.2ABPåŸºç¡€è®¾æ–½å±‚-é›†æˆNHibernate.md)
+- [é›†æˆ Dapper](./9.5ABPåŸºç¡€è®¾æ–½å±‚-é›†æˆDapper.md)
 
-## Êý¾Ý¿âÇÐ»»ºÍ¼¯³É
--   [¼¯³ÉEntityFramework MySQL](./9.4ABP»ù´¡ÉèÊ©²ã-¼¯³ÉEntityFrameworkMySql.md)
--   [EF Core¼¯³É Oracle](./EF-Core-Oracle-Integration.md)
--   [EF Core¼¯³É MySql](./EF-Core-MySql-Integration.md)
--   [EF Core¼¯³É PostgreSql](./EF-Core-PostgreSql-Integration.md)
--   [EF Core¼¯³É Sqlite ](./EF-Core-Sqlite-Integration.md)
+## æ•°æ®åº“åˆ‡æ¢å’Œé›†æˆ
 
-## Module Zero ÎÄµµ
+- [é›†æˆ EntityFramework MySQL](./9.4ABPåŸºç¡€è®¾æ–½å±‚-é›†æˆEntityFrameworkMySql.md)
+- [EF Core é›†æˆ Oracle](./EF-Core-Oracle-Integration.md)
+- [EF Core é›†æˆ MySql](./EF-Core-MySql-Integration.md)
+- [EF Core é›†æˆ PostgreSql](./EF-Core-PostgreSql-Integration.md)
+- [EF Core é›†æˆ Sqlite ](./EF-Core-Sqlite-Integration.md)
 
-## ×ÜÌå½éÉÜ
+## Module Zero æ–‡æ¡£
 
--   [¸ÅÊö](./AbpZero/1.1ABPZero-¸ÅÊö.md)
--   [°²×°](./AbpZero/1.2ABPZero-°²×°.md)
--   [Æô¶¯Ä£°æ](./AbpZero/1.3ABPZero-Æô¶¯Ä£°å.md) 
--   [Æô¶¯Ä£°å(ASP.NET Core)](./AbpZero/1.4ABPZero-Æô¶¯Ä£°åCore.md)
-    
-## ¹¦ÄÜ
+## æ€»ä½“ä»‹ç»
 
--   [¶à×â»§¹ÜÀí](./AbpZero/2.1ABPZero-¶à×â»§¹ÜÀí.md)
--   [°æ±¾¹ÜÀí](/AbpZero/2.2ABPZero-°æ±¾¹ÜÀí.md)
-<!-- -   [ÓÃ»§¹ÜÀí](./http://www.cnblogs.com/farb/p/moduleZeroUserManagement.html) -->
-<!-- -   [½ÇÉ«¹ÜÀí](./http://www.cnblogs.com/farb/p/ModuleZeroRoleManagement.html) -->
--   [×éÖ¯µ¥Î»¹ÜÀí](./AbpZero/2.4ABPZero-×éÖ¯µ¥Î»¹ÜÀí.md)
-<!-- -   [È¨ÏÞ¹ÜÀí](./http://www.cnblogs.com/farb/p/ModuleZeroPermissonManagement.html) -->
-<!-- -   [ÓïÑÔ¹ÜÀí](./http://www.cnblogs.com/farb/p/ModuleZeroLanguageManagement.html) -->
- 
+- [æ¦‚è¿°](./AbpZero/1.1ABPZero-æ¦‚è¿°.md)
+- [å®‰è£…](./AbpZero/1.2ABPZero-å®‰è£….md)
+- [å¯åŠ¨æ¨¡ç‰ˆ](./AbpZero/1.3ABPZero-å¯åŠ¨æ¨¡æ¿.md)
+- [å¯åŠ¨æ¨¡æ¿(ASP.NET Core)](./AbpZero/1.4ABPZero-å¯åŠ¨æ¨¡æ¿Core.md)
 
+## åŠŸèƒ½
+
+- [å¤šç§Ÿæˆ·ç®¡ç†](./AbpZero/2.1ABPZero-å¤šç§Ÿæˆ·ç®¡ç†.md)
+- [ç‰ˆæœ¬ç®¡ç†](/AbpZero/2.2ABPZero-ç‰ˆæœ¬ç®¡ç†.md)
+  <!-- -   [ç”¨æˆ·ç®¡ç†](./http://www.cnblogs.com/farb/p/moduleZeroUserManagement.html) -->
+  <!-- -   [è§’è‰²ç®¡ç†](./http://www.cnblogs.com/farb/p/ModuleZeroRoleManagement.html) -->
+- [ç»„ç»‡å•ä½ç®¡ç†](./AbpZero/2.4ABPZero-ç»„ç»‡å•ä½ç®¡ç†.md)
+  <!-- -   [æƒé™ç®¡ç†](./http://www.cnblogs.com/farb/p/ModuleZeroPermissonManagement.html) -->
+  <!-- -   [è¯­è¨€ç®¡ç†](./http://www.cnblogs.com/farb/p/ModuleZeroLanguageManagement.html) -->
