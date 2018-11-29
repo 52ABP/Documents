@@ -1,0 +1,16 @@
+{
+    "items": [
+        {
+            "text": "52ABP团队欢迎您的到来",
+            "path": "Welcome-to-52abp.md"
+        },
+        {
+            "text": "文档排版规范",
+            "path": "Document-specification.md"
+        },
+        {
+            "text": "修改日志",
+            "path": "chang-log.md"
+        }
+    ]
+}
