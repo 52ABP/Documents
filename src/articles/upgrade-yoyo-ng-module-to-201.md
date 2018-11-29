@@ -1,4 +1,3 @@
-# 52ABP前端升级2.0.x指南
 ## 前言
 本篇内容为指导从 ` yoyo-ng-module 1.x` 升级到 `yoyo-ng-module 2.x`
 
