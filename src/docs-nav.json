@@ -8,9 +8,9 @@
             "text": "文档排版规范",
             "path": "Document-specification.md"
         },
-        {
-            "text": "修改日志",
-            "path": "chang-log.md"
-        }
+      {
+        "text": "更新日志",
+        "path": "chang-log.md"
+      }
     ]
 }
