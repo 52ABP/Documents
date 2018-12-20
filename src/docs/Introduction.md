@@ -1,11 +1,8 @@
 
-# How do you get started with the abp framework in 2019 !
-
-
-[[_TOC_]]
- 
-
 # 2019年起如何开始学习ABP框架系列文章-开篇有益
+[[_TOC_]]
+> 本系列文章推荐阅读地址为：[52ABP开发文档]( https://www.52abp.com/Wiki/52abp/latest/Welcome-to-52abp)  https://www.52abp.com/Wiki/52abp/latest/Welcome-to-52abp
+
 
 本文的目的是为了让刚刚接触ABP框架的同学或者准备接触ABP框架的同学，能够理解和搞明白ABP框架到底是怎么回事，毕竟它发展了好几年的时间。社区中有很多人做 了ABP的资料和文章包括我自己也建立了52ABP，社区中还有ABPplus等等的内容。对于很多不了解ABP框架的人，会产生无限的疑惑和不知道如何下手的痛苦。
 
@@ -76,46 +73,9 @@ ASP.NET Boilerplate 基于DDD的经典分层架构思想，实现了众多DDD的
 - 为什么你要自己做一个这个版本出来？
 
 我作为统一的回答吧，52ABP是基于ABP之上开发的一套框架，他不扎根于基础设施，他更多做的事情是让大家在开发功能的时候更加的方便。
-所以他不会和ABP框架冲突，甚至我建议大家可以直接使用52ABP框架进行开发，因为52ABP有一整套的开发设施，项目模板生成器，代码生成器、文档、视频等内容。可以节约大家的时间和精力。
+所以他不会和ABP框架冲突，甚至我建议大家可以直接使用52ABP框架进行开发，因为52ABP有一整套的开发设施，项目模板生成器，代码生成器、文档、视频等内容。可以节约大家的时间和精力。 关于52ABP我们想做的事情在https://github.com/52ABP/Home中有更加详细的说明。 
 
-## 关于52ABP更加详细的说明。https://github.com/52ABP/Home 我们已经在这里阐述了。
-
-
-
-# 快速上手
-快速启动abp的话，博客园中有很多，我就快速的将有关的文字贴出来。
- 
-
-
-
-
-52ABP和ABP官网都可以作为快速入手的路径。
-
-https://www.52abp.com/
-
-http://www.aspnetboilerplate.com
-
-# 文档
-
-
-
-# 版本的区别及关键词解释
-
-# ABP框架劝退篇
-
-初级程序员应该去补充的资料
-
-
-# 项目
-
-# 代码生成器
-
-# 收费和免费
-
-# 资料推荐
-https://www.cnblogs.com/adalovelacer/p/abp-quickly-delivery-1-catalog.html
-https://www.cnblogs.com/adalovelacer/p/speciallist-of-guang-zhou-dot-net-club.html
-https://personball.com/
+本系列文章推荐阅读地址为：[52ABP开发文档]( https://www.52abp.com/Wiki/52abp/latest/Welcome-to-52abp)  https://www.52abp.com/Wiki/52abp/latest/Welcome-to-52abp
 
 
  
