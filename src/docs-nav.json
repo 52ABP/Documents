@@ -1,16 +1,32 @@
 {
-    "items": [
-        {
-            "text": "52ABP团队欢迎您的到来",
-            "path": "Welcome-to-52abp.md"
-        },
-        {
-            "text": "文档排版规范",
-            "path": "Document-specification.md"
-        },
-      {
-        "text": "更新日志",
-        "path": "chang-log.md"
-      }
-    ]
+  "items": [
+    {
+      "text": "",
+      "path": ""
+    },
+    {
+      "text": "",
+      "path": ""
+    },
+    {
+      "text": "关于52ABP组织",
+      "path": "Home.md"
+    },
+    {
+      "text": "2019年起如何开始学习ABP框架系列文章-开篇有益",
+      "path": "Introduction.md"
+    },
+    {
+      "text": "52ABP团队欢迎您的到来",
+      "path": "Welcome-to-52abp.md"
+    },
+    {
+      "text": "文档排版规范",
+      "path": "Document-specification.md"
+    },
+    {
+      "text": "更新日志",
+      "path": "chang-log.md"
+    }
+  ]
 }
