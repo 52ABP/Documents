@@ -12,3 +12,5 @@
 * 前端支持  ng-zorro 1.8
 * 前端  yoyo-ng-module  升级到 2.0.1
 * 旧版本升级到新版本指南[升级指南](https://www.52abp.com/BlogDetails/7)
+
+[d](docs/Home.md)
