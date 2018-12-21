@@ -1,53 +1,53 @@
-# ¹ØÓÚ52ABP×éÖ¯
+# å…³äº52ABPç»„ç»‡
 
-ÎÒÃÇÊÇÒ»¸ö»ùÓÚ¿ªÔ´ÏîÄ¿Î§ÈÆÖĞ¹úÌØÉ«µÄ.NET È«Õ»¿ª·¢ÉçÇø£¬Ä¿Ç°µÄÖØĞÄÊÇÎ§ÈÆ.Net CoreºÍAngular Á½¸öÉúÌ¬£¬À´´î½¨¸ß¿ÉÓÃµÄÓ¦ÓÃ¿ª·¢¿ò¼Ü¡£
+æˆ‘ä»¬æ˜¯ä¸€ä¸ªåŸºäºå¼€æºé¡¹ç›®å›´ç»•ä¸­å›½ç‰¹è‰²çš„.NET å…¨æ ˆå¼€å‘ç¤¾åŒºï¼Œç›®å‰çš„é‡å¿ƒæ˜¯å›´ç»•.Net Coreå’ŒAngular ä¸¤ä¸ªç”Ÿæ€ï¼Œæ¥æ­å»ºé«˜å¯ç”¨çš„åº”ç”¨å¼€å‘æ¡†æ¶ã€‚
 
-ÎÒÃÇÖ¼ÔÚ¿ª·¢¸ß¿ÉÓÃ¡¢¶à¸´ÓÃµÄ¿ò¼Ü¡¢¹¤¾ßÒÔ¼°ÏµÍ³¡£
+æˆ‘ä»¬æ—¨åœ¨å¼€å‘é«˜å¯ç”¨ã€å¤šå¤ç”¨çš„æ¡†æ¶ã€å·¥å…·ä»¥åŠç³»ç»Ÿã€‚
 
-ÎÒÃÇ¶Ô·Ö²¼Ê½¼Ü¹¹/ÏµÍ³£¬Ğ¡³ÌĞò¡¢Î¢ĞÅ¡¢APP¶¼ºÜÓĞĞËÈ¤¡£
+æˆ‘ä»¬å¯¹åˆ†å¸ƒå¼æ¶æ„/ç³»ç»Ÿï¼Œå°ç¨‹åºã€å¾®ä¿¡ã€APPéƒ½å¾ˆæœ‰å…´è¶£ã€‚
 
-ÎÒÃÇµÄÄ¿Ç°ÊÇ´òÔìÒ»Ì×·ûºÏÖĞ¹úÈË¿ª·¢Ï°¹ßµÄ¿ò¼Ü£¬Ïë°üº¬AI, .NET Core, Linux, Docker, Jenkins, PostgreSql, Entity Framework Core, npm, yarn, vue, angular, redis, rabbitmq, mongodb, jexus, ElasticSearch, nginx, azure, kubernates, service fabric µÈÆóÒµ¼¶¿ÉÂäµØµÄÓ¦ÓÃ¿ò¼ÜÉúÌ¬·şÎñ¡£
+æˆ‘ä»¬çš„ç›®å‰æ˜¯æ‰“é€ ä¸€å¥—ç¬¦åˆä¸­å›½äººå¼€å‘ä¹ æƒ¯çš„æ¡†æ¶ï¼Œæƒ³åŒ…å«AI, .NET Core, Linux, Docker, Jenkins, PostgreSql, Entity Framework Core, npm, yarn, vue, angular, redis, rabbitmq, mongodb, jexus, ElasticSearch, nginx, azure, kubernates, service fabric ç­‰ä¼ä¸šçº§å¯è½åœ°çš„åº”ç”¨æ¡†æ¶ç”Ÿæ€æœåŠ¡ã€‚
 
-## Á¢¿ÌÑ§Ï°
+## ç«‹åˆ»å­¦ä¹ 
 
-- [2019ÄêÆğÈçºÎ¿ªÊ¼Ñ§Ï°ABP¿ò¼ÜÏµÁĞÎÄÕÂ-¿ªÆªÓĞÒæ](Introduction.md)
-
-
+- [2019å¹´èµ·å¦‚ä½•å¼€å§‹å­¦ä¹ ABPæ¡†æ¶ç³»åˆ—æ–‡ç« -å¼€ç¯‡æœ‰ç›Š](Introduction.md)
 
 
-## ¹Ø×¢ÎÒÃÇ
 
-* ¹Ù·½ÍøÕ¾£º[52abp.com](https://www.52abp.com/)
-* GitHub£º[52ABP](https://github.com/52abp/)
-* Î¢ĞÅ¹«ÖÚºÅ£º[½ÇÂäµÄ°×°å±¨](http://mp.weixin.qq.com/profile?src=3&timestamp=1543463624&ver=1&signature=hRm1TI4zh80GpKxR5LYIc9SyUcyUPiM1EE8qlUdm4da6auvHFsEVlvZbje-nnhQtIUEbcoMAZs0r4SD9bkcarg==) Î¢ĞÅºÅ£ºjiaoluodebaibanbao
-* ÍøÒ×ÔÆ¿ÎÌÃ£º[½ÇÂäµÄ°×°å±¨](https://study.163.com/provider/400000000309007/index.htm?share=2&shareId=400000000309007)
-* 52ABPÊÓÆµ¿Î³Ì£º[ASP.NET CoreÓëAngular6¿ìËÙ¿ª·¢](https://dwz.cn/kQydQrTe)
-* ²©¿ÍÔ°£º[½ÇÂäµÄ°×°å±¨](https://www.cnblogs.com/wer-ltm/)
-* Öªºõ×¨À¸£º[½ÇÂäµÄ°×°å±¨](https://zhuanlan.zhihu.com/52abp)
-* Öªºõ£º[½ÇÂäµÄ°×°å±¨](https://www.zhihu.com/people/52abp/activities)
-* µç×ÓÓÊ¼ş£ºltm@ddxc.org
 
-## ¿ªÔ´×éÖ¯
+## å…³æ³¨æˆ‘ä»¬
 
-ÎÒÃÇÕıÔÚ¿ª·¢ºÍ²ÎÓëµÄ¿ªÔ´ÏîÄ¿»òÉÌÒµÏîÄ¿¡£
+* å®˜æ–¹ç½‘ç«™ï¼š[52abp.com](https://www.52abp.com/)
+* GitHubï¼š[52ABP](https://github.com/52abp/)
+* å¾®ä¿¡å…¬ä¼—å·ï¼š[è§’è½çš„ç™½æ¿æŠ¥](http://mp.weixin.qq.com/profile?src=3&timestamp=1543463624&ver=1&signature=hRm1TI4zh80GpKxR5LYIc9SyUcyUPiM1EE8qlUdm4da6auvHFsEVlvZbje-nnhQtIUEbcoMAZs0r4SD9bkcarg==) å¾®ä¿¡å·ï¼šjiaoluodebaibanbao
+* ç½‘æ˜“äº‘è¯¾å ‚ï¼š[è§’è½çš„ç™½æ¿æŠ¥](https://study.163.com/provider/400000000309007/index.htm?share=2&shareId=400000000309007)
+* 52ABPè§†é¢‘è¯¾ç¨‹ï¼š[ASP.NET Coreä¸Angular6å¿«é€Ÿå¼€å‘](https://dwz.cn/kQydQrTe)
+* åšå®¢å›­ï¼š[è§’è½çš„ç™½æ¿æŠ¥](https://www.cnblogs.com/wer-ltm/)
+* çŸ¥ä¹ä¸“æ ï¼š[è§’è½çš„ç™½æ¿æŠ¥](https://zhuanlan.zhihu.com/52abp)
+* çŸ¥ä¹ï¼š[è§’è½çš„ç™½æ¿æŠ¥](https://www.zhihu.com/people/52abp/activities)
+* ç”µå­é‚®ä»¶ï¼šltm@ddxc.org
 
-### ÂëÔÆGitee×éÖ¯
+## å¼€æºç»„ç»‡
 
-* [52abpÉçÇøÅàÑµ](https://gitee.com/aiabpedu/dashboard)
-* [½ÇÂäµÄ°×°å±¨](https://gitee.com/yoyocms/)
+æˆ‘ä»¬æ­£åœ¨å¼€å‘å’Œå‚ä¸çš„å¼€æºé¡¹ç›®æˆ–å•†ä¸šé¡¹ç›®ã€‚
 
-### GitHub×éÖ¯
+### ç äº‘Giteeç»„ç»‡
+
+* [52abpç¤¾åŒºåŸ¹è®­](https://gitee.com/aiabpedu/dashboard)
+* [è§’è½çš„ç™½æ¿æŠ¥](https://gitee.com/yoyocms/)
+
+### GitHubç»„ç»‡
 
 * [52ABP](https://github.com/52ABP)
 * [SenparcCoreFramework](https://github.com/SenparcCoreFramework)
 * [yoyocms](https://github.com/yoyocms)
 * [Aiursoft](https://github.com/AiursoftWeb)
 
-# 52ABP.COM¹Ù·½ÍøÕ¾ÆÀÂÛÊÕ¼¯Òâ¼ûºÍÏë·¨µÄµØ·½
+# 52ABP.COMå®˜æ–¹ç½‘ç«™è¯„è®ºæ”¶é›†æ„è§å’Œæƒ³æ³•çš„åœ°æ–¹
 
-ÎÒÃÇÈ±ÉÙÒ»¸öÖªÊ¶ºÍĞÅÏ¢Áô´æµÄµØ·½£¬ËùÒÔÎÒ½¨ÉèÁË52ABP.COM  
-ÓĞĞËÈ¤µÄ¿ÉÒÔ¿´¿´ https://www.52abp.com/Blog/BlogDetails/3 ÎÒÔÚÀïÃæ»ù±¾¶¼ËµÁË¡£
+æˆ‘ä»¬ç¼ºå°‘ä¸€ä¸ªçŸ¥è¯†å’Œä¿¡æ¯ç•™å­˜çš„åœ°æ–¹ï¼Œæ‰€ä»¥æˆ‘å»ºè®¾äº†52ABP.COM  
+æœ‰å…´è¶£çš„å¯ä»¥çœ‹çœ‹ https://www.52abp.com/Blog/BlogDetails/3 æˆ‘åœ¨é‡Œé¢åŸºæœ¬éƒ½è¯´äº†ã€‚
 
-52ABP¹Ù·½ÉçÇøµÄIssueÊÕ¼¯¿â£¬°üÀ¨ÄãÃÇµÄÏë·¨ºÍË¼Â·¶¼¿ÉÒÔÌá¸øÎÒ£¬ÎÒÃÇÔÚÓĞ¿ÕµÄÊ±ºò£¬»áÍêÉÆËûÃÇ¡£
+52ABPå®˜æ–¹ç¤¾åŒºçš„Issueæ”¶é›†åº“ï¼ŒåŒ…æ‹¬ä½ ä»¬çš„æƒ³æ³•å’Œæ€è·¯éƒ½å¯ä»¥æç»™æˆ‘ï¼Œæˆ‘ä»¬åœ¨æœ‰ç©ºçš„æ—¶å€™ï¼Œä¼šå®Œå–„ä»–ä»¬ã€‚
 
-±Ï¾¹ÈËÈË¶¼ÊÇ²úÆ·¾­ÀíÂï¡£
+æ¯•ç«Ÿäººäººéƒ½æ˜¯äº§å“ç»ç†å˜›ã€‚
