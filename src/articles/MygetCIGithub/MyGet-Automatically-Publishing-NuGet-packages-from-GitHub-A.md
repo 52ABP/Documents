@@ -118,6 +118,9 @@ Payload Url 的来源于 MyGet 的`Hook (HTTP POST):`的 URL 链接。将 Conten
 ## 期待您参与协作开发
 
 【本文的原文发布在 github：如何在 2019 年开始使用 abp 框架?，如果您发现了错漏，欢迎参与协同哦~】
+
 协同地址：https://github.com/52ABP/Documents/blob/master/src/articles/MygetCIGithub/MyGet-Automatically-Publishing-NuGet-packages-from-GitHub-A.md
+
 我们创建的 52ABP 框架，已经开始有很多小伙伴开始使用了。如果您对这套基于.net core +angular 的前后端分离的框架感兴趣的话，欢迎来找我们哦~
+
 传送门： [2019 年起如何开始学习 ABP 框架系列文章-开篇有益](https://www.52abp.com/Wiki/52abp/latest/docs/Introduction)
