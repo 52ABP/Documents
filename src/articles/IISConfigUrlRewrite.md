@@ -35,8 +35,8 @@
 ![image.png](https://upload-images.jianshu.io/upload_images/1979022-aedd4a01c6e509f2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ### 条件中的逻辑分组处理
 首先参考上图中的逻辑分组信息。
-| 输入 |类型 |模式 |是否忽略大小写| 备注 |
-| :--- | :--: | :-----: | :--: | :--: | 
+| 输入|类型 |模式 |是否忽略大小写|备注|
+|:---|:---|:---|:---|:---|
 |{HTTPS}|与模式匹配|^OFF$|YES|此项用来匹配你的请求是HTTPS还是HTTP|
 |{HTTPS_HOST}|与模式不匹配|^(localhost)|YES|如果你是本地的`localhost`不会重定向到SSL|
 
