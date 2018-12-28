@@ -1,4 +1,6 @@
-# IIS配置Url重写实现http自动跳转https的重定向方法(100%解决)
+# 引言
+
+> 本文推荐阅读地址：https://www.52abp.com/BlogDetails/8
 
 这种文章网上可以说一搜一大把，但是我为什么还要写呢，因为一搜一把没把我气死，都是东抄西挪的东西，搞得整个文档质量太差。基本上看了几篇，连蒙带猜才配置好。
 当然我在2019都要来了的时间写这个文章，有点像49年入国军的感觉。但是改写的内容还是得写，谁叫IIS还是很好用的。
@@ -20,7 +22,9 @@
 直接选择IIS的可以配置全局，所以这里要依靠你自己的判断和选择。
 
 ## 打开Url重写工具
+
 ![image.png](https://upload-images.jianshu.io/upload_images/1979022-39609af12b31bd73.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 在右侧点击`添加`，然后选择`空白规则`，然后进行规则的配置。
 
 ## 规则命令如下
@@ -50,7 +54,7 @@
 ## 额外的内容
 本文的原文在 github，如果您发现了错漏，欢迎参与协同哦~】
 
-协同地址：(https://github.com/52ABP/Documents/blob/master/src/articles/MygetCIGithub/MyGet-Automatically-Publishing-NuGet-packages-from-GitHub-A.md)
+协同地址：[https://github.com/52ABP/Documents/blob/master/src/articles/IISConfigUrlRewrite.md](https://github.com/52ABP/Documents/blob/master/src/articles/IISConfigUrlRewrite.md)
 
 我们创建的 52ABP 框架，已经开始有很多小伙伴开始使用了。如果您对这套基于.net core +angular 的前后端分离的框架感兴趣的话，欢迎来找我们哦~
 
