@@ -79,7 +79,7 @@ MyGet 是一个 Secure DevOps 从安全的通用软件包管理
 Payload Url 的来源于 MyGet 的`Hook (HTTP POST):`的 URL 链接。将 Content 类型保留为`application / json`，单击按钮触发器以解决推送事件，然后单击 Add webhook。
 这样带来的好处是我们的 commit 一旦提交的时候，就可以自动触发 Myget 的构建环境，生成自己的独立 Myget 包文件。
 
-还可以从 Status badge:中，选择 Copy Markdown ，取得  [[站外图片上传中...(image-cb80d-1545973400619)]](https://www.myget.org/)当前仓库的构建状态信息。
+还可以从 Status badge:中，选择 Copy Markdown ，取得  [[图片上传失败...(image-cb80d-1545973400619)]](https://www.myget.org/)当前仓库的构建状态信息。
 
 通过点击 Edit 按钮，我们可以自定义版本号有关的信息，而且 Myget 的版本号是可以和 github 的 tag 标记互通。
 ![image.png](https://upload-images.jianshu.io/upload_images/1979022-d5c1b26b53fef2ff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -117,9 +117,9 @@ Payload Url 的来源于 MyGet 的`Hook (HTTP POST):`的 URL 链接。将 Conten
 
 ## 期待您参与协作开发
 
-【本文的原文发布在 github：如何在 2019 年开始使用 abp 框架?，如果您发现了错漏，欢迎参与协同哦~】
+【本文的原文在 github，如果您发现了错漏，欢迎参与协同哦~】
 
-协同地址：[MyGet-Automatically-Publishing-NuGet-packages-from-GitHub-A](https://github.com/52ABP/Documents/blob/master/src/articles/MygetCIGithub/MyGet-Automatically-Publishing-NuGet-packages-from-GitHub-A.md)
+协同地址：(https://github.com/52ABP/Documents/blob/master/src/articles/MygetCIGithub/MyGet-Automatically-Publishing-NuGet-packages-from-GitHub-A.md)
 
 我们创建的 52ABP 框架，已经开始有很多小伙伴开始使用了。如果您对这套基于.net core +angular 的前后端分离的框架感兴趣的话，欢迎来找我们哦~
 
