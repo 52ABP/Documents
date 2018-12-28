@@ -6,7 +6,7 @@
 当然我在2019都要来了的时间写这个文章，有点像49年入国军的感觉。但是改写的内容还是得写，谁叫IIS还是很好用的。
 
 # 我们先说需求场景
-使用场景：首先你的有需求，比如我们的52ABP启用了SSL全站加密，那么默认浏览器进入的地址是：http://www.52abp.com ，我需要将http://www.52abp.com自动跳转到https://www.52abp.com 的入口中去，不然还是会有没加密的路径可以进行访问。
+使用场景：首先你的有需求，比如我们的52ABP启用了SSL全站加密，那么默认浏览器进入的地址是：http://www.52abp.com ，我需要将http://www.52abp.com 自动跳转到 https://www.52abp.com 的入口中去，不然还是会有没加密的路径可以进行访问。
 
 有了需求我们再来说下需要准备的工具和环境：
 - URL ReWrite工具，下载地址：https://www.iis.net/downloads/microsoft/url-rewrite
