@@ -1,4 +1,4 @@
- # 引言
+ # 通过 Myget 从 GitHub 持续集成发布 Nuget 包-A
 
 > 本文推荐阅读地址：https://www.52abp.com/BlogDetails/8
 
