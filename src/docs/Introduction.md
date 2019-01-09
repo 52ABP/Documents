@@ -6,7 +6,8 @@
 
 本文的目的是为了让刚刚接触ABP框架的同学或者准备接触ABP框架的同学，能够理解和搞明白ABP框架到底是怎么回事，毕竟它发展了好几年的时间。社区中有很多人做 了ABP的资料和文章包括我自己也建立了52ABP，社区中还有ABPplus等等的内容。对于很多不了解ABP框架的人，会产生无限的疑惑和不知道如何下手的痛苦。
 
-包括ABP框架官方自己也有很多个版本。我作为从15年开始推广ABP框架的人之一，认为有必要将各个版本的ABP框架做出说明。以及导航为大家学习ABP框架更加详细的资料。【本文的原文发布在github：[如何在2019年开始使用abp框架?](https://github.com/52ABP/Home/blob/master/Articles/HowToGetStartedwiththeabpframeworkin2019/Introduction.md)，欢迎参与协同哦~】
+包括ABP框架官方自己也有很多个版本。我作为从15年开始推广ABP框架的人之一，认为有必要将各个版本的ABP框架做出说明。以及导航为大家学习ABP框架更加详细的资料。
+>【本文的原文发布在github：[如何在2019年开始使用abp框架?](https://github.com/52ABP/Home/blob/master/Articles/HowToGetStartedwiththeabpframeworkin2019/Introduction.md)，欢迎参与协同哦~】
 
 # 序
 
