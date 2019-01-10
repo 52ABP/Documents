@@ -1,6 +1,8 @@
 {
-  "items": [
-    {
+  "items": [{
+      "text": "52ABP开发者中心-目录",
+      "path": "Welcome-to-52abp.md"
+    }, {
       "text": "2019年起如何开始学习ABP框架系列文章-开篇有益",
       "path": "docs/Introduction.md"
     },
@@ -9,16 +11,19 @@
       "path": "docs/Home.md"
     },
     {
-      "text": "52ABP团队欢迎您的到来",
-      "path": "Welcome-to-52abp.md"
-    },
-    {
-      "text": "文档排版规范",
-      "path": "Document-specification.md"
-    },
-    {
       "text": "更新日志",
       "path": "chang-log.md"
+    },
+    {
+      "text": "参与贡献",
+      "items": [{
+        "text": "参与协同规划",
+        "path": "docs/contributors.md"
+      }, {
+        "text": "文档排版规范",
+        "path": "Document-specification.md"
+      }]
+
     }
   ]
 }
