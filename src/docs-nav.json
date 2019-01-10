@@ -5,6 +5,9 @@
     }, {
       "text": "2019年起如何开始学习ABP框架系列文章-开篇有益",
       "path": "docs/Introduction.md"
+    }, {
+      "text": "52ABP 和 ABP 框架的关系",
+      "path": "docs/abpRelationshipwith52abp.md"
     },
     {
       "text": "关于52ABP组织",
