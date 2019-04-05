@@ -1,198 +1,210 @@
 {
-    "items": [{
-            "text": "课程介绍",
-            "path": "1.Intro.md"
+  "items": [
+    {
+      "text": "ASP.NET Core MVC目录",
+
+      "items": [
+        {
+          "text": "课程介绍",
+          "path": "1.Intro.md"
         }, {
             "text": "为您的机器配置开发环境",
             "path": "2.ConfigMachine.md"
-        }, {
+          },
+          {
             "text": "VS2019创建ASP.NET Core Web程序",
             "path": "3.2Createprojectby2019.md"
-        },
-        {
+          },
+          {
             "text": "VS2017创建ASP.NET Core Web程序",
             "path": "3.1Createprojectby2017.md"
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core Web 项目文件",
             "path": "4.ProjectFile.md",
             "isNew": true
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core 中的 Main方法",
             "path": "5.MainMethod.md",
             "isNew": true
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core 进程内(InProcess)托管",
             "path": "6.In-ProcessHosting.md",
             "isNew": true
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core 进程外(out-of-process)托管",
             "path": "7.Out-of-ProcessHosting.md",
             "isNew": true
-        },
-        {
+          },
+          {
             "text": " ASP.NET Core launchsettings.json文件",
             "path": "8.launchsettingsJsonFile.md",
             "isNew": true
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core appsettings.json文件",
             "path": "9.AppsettingsjsonFile.md",
             "isNew": true
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core中的中间件",
             "path": "10.MiddlewareIntro.md",
             "isNew": true
-        },
-        {
+          },
+          {
             "text": "配置ASP.NET Core请求(Request)处理管道",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "Asp.Net Core中的静态文件",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core开发人员异常页面",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "Asp.Net Core环境变量",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "Asp.Net Core MVC教程",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "在Asp.Net Core中安装MVC",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core中 AddMvc 与 AddMvcCore的区别",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core MVC中的Model",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core的依赖注入教程",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core MVC中的控制器",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core MVC中的视图",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "在Asp.Net Core Mvc中的自定义视图",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "将数据传递到ASP.NET Core MVC中展示",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core MVC中的ViewBag",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core MVC中的强类型视图",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core MVC中的ViewModel",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core MVC中列表视图",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core MVC中的布局视图",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core MVC中的Layout页面中的局部视图",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core MVCC中的_ViewStart.cshtml",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core MVC中的_ViewImports.cshtml",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core MVC中的路由",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "ASP NET Core MVC中的属性路由",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "在ASP.NET Core中安装和使用Bootstrap",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "在Asp.Net Core中标记助手(Tag Helper)",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "为什么要使用标记助手(Tag Helper)",
             "path": "empty.md",
             "isNew": false
-        },
-        {
+          },
+          {
             "text": "ASP.NET Core Image标记助手(Tag Helper)",
             "path": "empty.md",
             "isNew": false
+          }
+      ]
+    },
+
+   
+    {
+      "text": "参与贡献",
+      "items": [
+        {
+          "text": "参与协同规划",
+          "path": "docs/contributors.md"
         },
         {
-            "text": "参与贡献",
-            "items": [{
-                "text": "参与协同规划",
-                "path": "docs/contributors.md"
-            }, {
-                "text": "文档排版规范",
-                "path": "Document-specification.md"
-            }]
-
+          "text": "文档排版规范",
+          "path": "Document-specification.md"
         }
-    ]
+      ]
+    }
+  ]
 }
