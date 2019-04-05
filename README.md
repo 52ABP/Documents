@@ -36,10 +36,13 @@ src/docs-nav.json 为文档导航菜单
 
 ## 赞赏是某种的肯定
 
- 
-<img src="https://www.52abp.com/imgs/money-QR/alipay.png" class=" border border-success   mx-auto mb-3 " style="width: 250px;height:250px">
+<p class="center">
 
-<img src="https://www.52abp.com/imgs/money-QR/wechatpay.jpg" class=" border border-success   mx-auto mb-3 " style="width: 250px;height:250px">
+<img src="https://www.52abp.com/imgs/money-QR/alipay.png" width="230">
+
+<img src="https://www.52abp.com/imgs/money-QR/wechatpay.jpg"  width="230">
+</p>
+ 
 
 ## 关注微信公众号：角落的白板报
 ![公众号：角落的白板报](https://upload-images.jianshu.io/upload_images/1979022-f19c505c18160c16.png)
