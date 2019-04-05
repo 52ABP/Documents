@@ -12,18 +12,18 @@
 - URL ReWrite工具，下载地址：https://www.iis.net/downloads/microsoft/url-rewrite
   but，2.1的版本是有bug，我之前被他们坑出翔了。所以有些时候你可能需要2.0的版本。
 2.0从哪里可以下载呢。从[Web Platform Installer](https://go.microsoft.com/fwlink/?LinkID=145510)里面进行安装吧。
-![image.png](https://upload-images.jianshu.io/upload_images/1979022-b610471b6db49d36.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/1979022-b610471b6db49d36.png)
 
 # 操作流程
 
 配置URL分为全局和非全局，下图，可以看到URL重写组件内容。
-![image.png](https://upload-images.jianshu.io/upload_images/1979022-fe68eadf1787cd08.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/1979022-fe68eadf1787cd08.png)
 选择某一个站点中的URL重写，我们称之为单独的非全局。
 直接选择IIS的可以配置全局，所以这里要依靠你自己的判断和选择。
 
 ## 打开Url重写工具
 
-![image.png](https://upload-images.jianshu.io/upload_images/1979022-39609af12b31bd73.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/1979022-39609af12b31bd73.png)
 
 在右侧点击`添加`，然后选择`空白规则`，然后进行规则的配置。
 
@@ -32,7 +32,7 @@
 
 名称：`Redirect To HTTPS `（这个名字你可以自己改）
 模式:   ```(.*)```    然后点击忽略大小写
-![image.png](https://upload-images.jianshu.io/upload_images/1979022-aedd4a01c6e509f2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/1979022-aedd4a01c6e509f2.png)
 ### 条件中的逻辑分组处理
 首先参考上图中的逻辑分组信息。
 
@@ -45,13 +45,13 @@
 
 > 这个也是网上一堆复制粘贴不写清楚的地方。
 ## 操作重定向
-![image.png](https://upload-images.jianshu.io/upload_images/1979022-16d9c66405b0ee7c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/1979022-16d9c66405b0ee7c.png)
 
 在操作属性中，重定向的URL：`https://{HTTP_HOST}/{R:1}` ，然后选中 `附加查询字符串`以及重定向类型为303 即可。
 
 ## 总结
 其实这些都不难，但是网上很多人写资料，写的不清晰也不检查，导致问了不少问题。
-![image.png](https://upload-images.jianshu.io/upload_images/1979022-0a48b056a4e9ced2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/1979022-0a48b056a4e9ced2.png)
 最终效果
 
 ## 额外的内容

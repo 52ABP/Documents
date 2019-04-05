@@ -6,7 +6,7 @@
 
 
  # 持续进化的 .NET
-![image.png](https://upload-images.jianshu.io/upload_images/1979022-801fe113610c2aaa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/1979022-801fe113610c2aaa.png)
 
 
 
@@ -108,7 +108,7 @@ Mono与微软官方的CLR一样，都是对 .NET CLI（Common Language Infrastru
 Xamarin将.NET的强大功能和生产力带入iOS和Android，重用技巧和代码，同时获得本地API和性能。
 Xamarin 是唯一能通过提供跨 iOS、Android 和 Windows Phone（Windows Phone 的本机语言已经是 C#）这三种平台可正常工作的单一语言 - C#、类库和运行时，却仍能编译性能甚至足以满足高要求游戏的本机（非解释型）应用程序的平台。
                                                 **来一张对比图**
-![image.png](https://upload-images.jianshu.io/upload_images/1979022-4a0845ef5c369abb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/1979022-4a0845ef5c369abb.png)
 
 Hybrid 是指混合开发，目前的ionic 、weex、MUI 均在此列表中。
 
@@ -219,7 +219,7 @@ ASP .NET Core 是一个跨平台的高性能开源框架，用于生成基于云
 - 部署到云或本地。
 - 在 .NET Core 或 .NET Framework 上运行。
 
-![image.png](https://upload-images.jianshu.io/upload_images/1979022-662d018b7b771f30.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/1979022-662d018b7b771f30.png)
 
 
 >注1：随着.NET技术的发展，时至今日，广义的 .NET指包含.NET Framework，.NET Core，Mono在内，是基于.NET技术的整个产品系列。而在过去的习惯中，.NET通常特指.NET Framework这一个最正统的框架。
@@ -264,7 +264,7 @@ Windows上的全功能集成开发环境（IDE），用于构建各种类型的.
 顺带一提，您如果在文章中看到一些错误和疏漏，还请指出，或者到github上进行修改提交PR。非常感谢。
 
 
-![image.png](https://upload-images.jianshu.io/upload_images/1979022-9d486f356944f856.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/1979022-9d486f356944f856.png)
 
 
 我们再回过头来看这张图是不是清晰了很多呢。

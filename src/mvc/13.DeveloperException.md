@@ -27,5 +27,5 @@
 
 
 ## 关注微信公众号：角落的白板报
-![公众号：角落的白板报](https://upload-images.jianshu.io/upload_images/1979022-f19c505c18160c16.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![公众号：角落的白板报](https://upload-images.jianshu.io/upload_images/1979022-f19c505c18160c16.png)
 
