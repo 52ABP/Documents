@@ -22,57 +22,57 @@
           {
             "text": "ASP.NET Core Web 项目文件",
             "path": "4.ProjectFile.md",
-            "isNew": true
+            "isNew": false
           },
           {
             "text": "ASP.NET Core 中的 Main方法",
             "path": "5.MainMethod.md",
-            "isNew": true
+            "isNew": false
           },
           {
             "text": "ASP.NET Core 进程内(InProcess)托管",
             "path": "6.In-ProcessHosting.md",
-            "isNew": true
+            "isNew": false
           },
           {
             "text": "ASP.NET Core 进程外(out-of-process)托管",
             "path": "7.Out-of-ProcessHosting.md",
-            "isNew": true
+            "isNew": false
           },
           {
             "text": " ASP.NET Core launchsettings.json文件",
             "path": "8.launchsettingsJsonFile.md",
-            "isNew": true
+            "isNew": false
           },
           {
             "text": "ASP.NET Core appsettings.json文件",
             "path": "9.AppsettingsjsonFile.md",
-            "isNew": true
+            "isNew": false
           },
           {
             "text": "ASP.NET Core中的中间件",
             "path": "10.MiddlewareIntro.md",
-            "isNew": true
+            "isNew": false
           },
           {
             "text": "配置ASP.NET Core请求(Request)处理管道",
             "path": "empty.md",
-            "isNew": false
+            "isNew": true
           },
           {
             "text": "Asp.Net Core中的静态文件",
             "path": "empty.md",
-            "isNew": false
+            "isNew": true
           },
           {
             "text": "ASP.NET Core开发人员异常页面",
             "path": "empty.md",
-            "isNew": false
+            "isNew": true
           },
           {
-            "text": "Asp.Net Core环境变量",
+            "text": "Asp.Net Core中的环境变量",
             "path": "empty.md",
-            "isNew": false
+            "isNew": true
           },
           {
             "text": "Asp.Net Core MVC教程",
