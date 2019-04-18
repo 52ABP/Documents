@@ -51,4 +51,14 @@
 
 ## 关注微信公众号：角落的白板报
 
+# 文章说明
+
+> 如果您觉得我的文章质量还不错，欢迎打赏，也可以订阅我的视频哦 </br>
+> 未得到授权不得擅自转载本文内容,52abp.com 保留版权 </br>
+> 【收费】腾讯课堂https://ke.qq.com/course/392589?tuin=2522cdf3 </br>
+> 【免费】youtube 视频专区：http://t.cn/Ei0F2EB </br>
+> 感谢您对我的支持
+
+## 关注微信公众号：角落的白板报
+
 ![公众号：角落的白板报](https://upload-images.jianshu.io/upload_images/1979022-f19c505c18160c16.png)
