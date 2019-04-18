@@ -18,6 +18,8 @@ mvc/mvc-nav.json 为文档导航菜单
 
 src/docs-nav.json 为文档导航菜单
 
+# 关注我们
+
 > 如果您觉得我的文章质量还不错，欢迎打赏，也可以订阅我的视频哦 </br>
 > 未得到授权不得擅自转载本文内容,52abp.com 保留版权</br>
 > 交流 QQ 群：952387474 点击链接加入 QQ 群[《微软 MVP 带你学 ASP.NET CORE》](https://jq.qq.com/?_wv=1027&k=5nq4PFQ)</br>
