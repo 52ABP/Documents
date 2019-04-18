@@ -4,11 +4,9 @@
 
 您可以到 [52ABP 文档中心](https://www.52abp.com/wiki/index) 进行浏览
 
-本仓库是 52ABP 整理或者 写的文字和电子书存档。以及收集一些有价值和有意义的文档。
-
 52ABP 涉及到的文档信息库。
 
-## 从零开始学 ASP.NET Core MVC 电子书目录
+- src 目录下为 52ABP 的相关文档
 
 在线查看地址： [https://www.52abp.com/Wiki/mvc/latest/1.Intro](https://www.52abp.com/Wiki/mvc/latest/1.Intro) </br>
 
@@ -39,7 +37,6 @@ src/docs-nav.json 为文档导航菜单
 
 <img src="https://www.52abp.com/imgs/money-QR/wechatpay.jpg"  width="230">
 </p>
-
 
 ## 关注微信公众号：角落的白板报
 
