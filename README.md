@@ -26,8 +26,8 @@ src/docs-nav.json 为文档导航菜单
 
 ## 视频专区
 
-> 【收费】腾讯课堂:[https://ke.qq.com/course/392589?tuin=2522cdf3](https://ke.qq.com/course/392589?tuin=2522cdf3) </br>
-> 【免费】youtube 视频专区：[http://t.cn/Ei0F2EB](http://t.cn/Ei0F2EB) </br>
+> 【收费】腾讯课堂:[[https://ke.qq.com/course/392589?tuin=2522cdf3](https://ke.qq.com/course/392589?tuin=2522cdf3)]([https://ke.qq.com/course/392589?tuin=2522cdf3](https://ke.qq.com/course/392589?tuin=2522cdf3)) </br>
+> 【免费】youtube 视频专区：[[http://t.cn/Ei0F2EB](http://t.cn/Ei0F2EB)]([http://t.cn/Ei0F2EB](http://t.cn/Ei0F2EB)) </br>
 > 【免费】B 站: [https://space.bilibili.com/2954671](https://space.bilibili.com/2954671) </br>
 > 免费的更新慢，收费的更新快，仅此而已。就这样。 </br>
 
