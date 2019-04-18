@@ -1,4 +1,4 @@
- # 通过 Myget 从 GitHub 持续集成发布 Nuget 包-A
+# 通过 Myget 从 GitHub 持续集成发布 Nuget 包-A
 
 > 本文推荐阅读地址：https://www.52abp.com/BlogDetails/8
 
@@ -76,10 +76,10 @@ MyGet 是一个 Secure DevOps 从安全的通用软件包管理
 
 ![image.png](https://upload-images.jianshu.io/upload_images/1979022-ad49e1ce236dc1d7.png)
 
-Payload Url 的来源于 MyGet 的`Hook (HTTP POST):`的 URL 链接。将 Content 类型保留为`application / json`，单击按钮触发器以解决推送事件，然后单击 Add webhook。
+Payload Url 的来源于 MyGet 的`Hook (HTTP POST):`的 URL 链接。将 Content 类型保留为`application/json`，单击按钮触发器以解决推送事件，然后单击 Add webhook。
 这样带来的好处是我们的 commit 一旦提交的时候，就可以自动触发 Myget 的构建环境，生成自己的独立 Myget 包文件。
 
-还可以从 Status badge:中，选择 Copy Markdown ，取得  [[图片上传失败...(image-cb80d-1545973400619)]](https://www.myget.org/)当前仓库的构建状态信息。
+还可以从 Status badge:中，选择 Copy Markdown ，取得 [[图片上传失败...(image-cb80d-1545973400619)]](https://www.myget.org/)当前仓库的构建状态信息。
 
 通过点击 Edit 按钮，我们可以自定义版本号有关的信息，而且 Myget 的版本号是可以和 github 的 tag 标记互通。
 ![image.png](https://upload-images.jianshu.io/upload_images/1979022-d5c1b26b53fef2ff.png)
@@ -105,10 +105,8 @@ Payload Url 的来源于 MyGet 的`Hook (HTTP POST):`的 URL 链接。将 Conten
 在`包管理器设置`中，将其添加为包源。我只是在开发和测试包时添加它然后禁用它（因此它不会与“官方”NuGet 服务器混淆）。您可以通过这种方式轻松地在私有包和公有包之间来进行切换。
 ![image.png](https://upload-images.jianshu.io/upload_images/1979022-eff9d6678414eff1.png)
 
-
 测试下，打开解决方案，Nuget 包管理，然后选择数据源为`myget_52abp`，搜素 yoyo，可以看到对应的版本内容信息。
 ![image.png](https://upload-images.jianshu.io/upload_images/1979022-22ff21a521421f7c.png)
-
 
 ## 小总结
 
