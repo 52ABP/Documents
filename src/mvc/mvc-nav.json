@@ -58,86 +58,86 @@
         {
           "text": "配置ASP.NETCore请求(Request)处理管道",
           "path": "11.ConfigRequsetPipeline.md",
-          "isNew": true
+          "isNew": false
         },
         {
           "text": "Asp.Net Core中的静态文件",
           "path": "12.StaticFile.md",
-          "isNew": true
+          "isNew": false
         },
         {
           "text": "ASP.NET Core开发人员异常页面",
           "path": "13.DeveloperException.md",
-          "isNew": true
+          "isNew": false
         },
         {
           "text": "Asp.Net Core中的环境变量",
           "path": "14.EnviromentVariables.md",
-          "isNew": true
+          "isNew": false
         },
         {
           "text": "Asp.Net CoreMVC教程",
           "path": "15.MVCTurorial.md",
-          "isNew": true
+          "isNew": false
         },
         {
           "text": "在Asp.Net Core中安装MVC",
           "path": "16.SetupMVC.md",
-          "isNew": true
+          "isNew": false
         },
         {
           "text": "ASP.NET Core中AddMvc与AddMvcCore的区别",
           "path": "17.AddMvcVsAddMvcCore.md",
-          "isNew": true
+          "isNew": false
         },
         {
           "text": "ASP.NET CoreMVC中的Model",
-          "path": "empty.md",
-          "isNew": false
+          "path": "18.ModelInMVC.md",
+          "isNew": true
         },
         {
           "text": "ASP.NETCore的依赖注入教程",
-          "path": "empty.md",
-          "isNew": false
+          "path": "19.Dependency-Injection.md",
+          "isNew": true
         },
         {
           "text": "ASP.NET CoreMVC中的控制器",
-          "path": "empty.md",
-          "isNew": false
+          "path": "20.ControllerInMVc.md",
+          "isNew": true
         },
         {
           "text": "ASP.NET CoreMVC中的视图",
-          "path": "empty.md",
-          "isNew": false
+          "path": "21.ViewsInMVc.md",
+          "isNew": true
         },
         {
           "text": "在Asp.Net CoreMvc中的自定义视图",
-          "path": "empty.md",
-          "isNew": false
+          "path": "22.CustomizeViewInMVC.md",
+          "isNew": true
         },
         {
           "text": "将数据传递到ASP.NET CoreMVC中展示",
-          "path": "empty.md",
-          "isNew": false
+          "path": "23.PassingDataToView.md",
+          "isNew": true
         },
         {
           "text": "ASP.NET CoreMVC中的ViewBag",
-          "path": "empty.md",
-          "isNew": false
+          "path": "24.ViewBag-in-ASP.NET-Core-MVC.md",
+          "isNew": true
         },
         {
           "text": "ASP.NET CoreMVC中的强类型视图",
-          "path": "empty.md",
-          "isNew": false
+          "path": "25.StronglyTypedView-in-ASP.NET-Core-MVC.md",
+          "isNew": true
         },
         {
           "text": "ASP.NET CoreMVC中的ViewModel",
-          "path": "empty.md",
-          "isNew": false
+          "path": "26.ViewModel-in-ASP.NET-Core-MVC.md",
+          "isNew": true
         },
         {
           "text": "ASP.NET CoreMVC中列表视图",
-          "path": "empty.md",
+          "path": "27.List-view-in-asp.net-core-mvc.md",
           "isNew": false
         },
         {
