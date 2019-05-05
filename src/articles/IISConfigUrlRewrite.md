@@ -14,12 +14,16 @@
 - URL ReWrite 工具，下载地址：https://www.iis.net/downloads/microsoft/url-rewrite
   but，2.1 的版本是有 bug，我之前被他们坑出翔了。所以有些时候你可能需要 2.0 的版本。
   2.0 从哪里可以下载呢。从[Web Platform Installer](https://go.microsoft.com/fwlink/?LinkID=145510)里面进行安装吧。
-  ![image.png](https://upload-images.jianshu.io/upload_images/1979022-b610471b6db49d36.png)
+
+![I I S Config Url Rewrite 1](images/IISConfigUrlRewrite-1.png)
+ 
 
 # 操作流程
 
 配置 URL 分为全局和非全局，下图，可以看到 URL 重写组件内容。
-![image.png](https://upload-images.jianshu.io/upload_images/1979022-fe68eadf1787cd08.png)
+
+![I I S Config Url Rewrite 2](images/IISConfigUrlRewrite-2.png)
+ 
 选择某一个站点中的 URL 重写，我们称之为单独的非全局。
 直接选择 IIS 的可以配置全局，所以这里要依靠你自己的判断和选择。
 
@@ -35,7 +39,8 @@
 
 名称：`Redirect To HTTPS`（这个名字你可以自己改）
 模式: `(.*)` 然后点击忽略大小写
-![image.png](https://upload-images.jianshu.io/upload_images/1979022-aedd4a01c6e509f2.png)
+
+![I I S Config Url Rewrite 3](images/IISConfigUrlRewrite-3.png) 
 
 ### 条件中的逻辑分组处理
 
@@ -49,15 +54,17 @@
 > 这个也是网上一堆复制粘贴不写清楚的地方。
 
 ## 操作重定向
-
-![image.png](https://upload-images.jianshu.io/upload_images/1979022-16d9c66405b0ee7c.png)
+![I I S Config Url Rewrite 4](images/IISConfigUrlRewrite-4.png) 
 
 在操作属性中，重定向的 URL：`https://{HTTP_HOST}/{R:1}` ，然后选中 `附加查询字符串`以及重定向类型为 303 即可。
 
 ## 总结
 
 其实这些都不难，但是网上很多人写资料，写的不清晰也不检查，导致问了不少问题。
-![image.png](https://upload-images.jianshu.io/upload_images/1979022-0a48b056a4e9ced2.png)
+
+![I I S Config Url Rewrite 5](images/IISConfigUrlRewrite-5.png)
+
+
 最终效果
 
 ## 额外的内容
