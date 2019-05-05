@@ -142,52 +142,52 @@
         },
         {
           "text": "ASP.NET CoreMVC中的布局视图",
-          "path": "empty.md",
+          "path": "28.Layout-view-in-asp.net-core-mvc.md",
           "isNew": false
         },
         {
           "text": "ASP.NET CoreMVC中的Layout页面中的局部视图",
-          "path": "empty.md",
+          "path": "29.Sections-in-layout-page-in-ASP.NET-Core-MVC.md",
           "isNew": false
         },
         {
           "text": "ASP.NET CoreMVCC中的_ViewStart.cshtml",
-          "path": "empty.md",
+          "path": "30.ViewStart.cshtml-in-ASP.NET-Core-MVCC.md",
           "isNew": false
         },
         {
           "text": "ASP.NET CoreMVC中的_ViewImports.cshtml",
-          "path": "empty.md",
+          "path": "31._ViewImports.cshtml-in-ASP.NET-Core-MVC.md",
           "isNew": false
         },
         {
           "text": "ASP.NET CoreMVC中的路由",
-          "path": "empty.md",
+          "path": "32.Routing-in-ASP.NET-Core-MVC.md",
           "isNew": false
         },
         {
           "text": "ASPNETCoreMVC中的属性路由",
-          "path": "empty.md",
+          "path": "33.Attribute-Routing-in-ASP-NET-Core-MVC.md",
           "isNew": false
         },
         {
           "text": "在ASP.NET Core中安装和使用Bootstrap",
-          "path": "empty.md",
+          "path": "34.Install-and-use-Bootstrap-in-ASP.NET-Core.md",
           "isNew": false
         },
         {
           "text": "在Asp.Net Core中标记助手(TagHelper)",
-          "path": "empty.md",
+          "path": "35.Tag-helpers-in-asp.net-core.md",
           "isNew": false
         },
         {
           "text": "为什么要使用标记助手(TagHelper)",
-          "path": "empty.md",
+          "path": "36.Why-use-tag-helpers.md",
           "isNew": false
         },
         {
           "text": "ASP.NET CoreImage标记助手(TagHelper)",
-          "path": "empty.md",
+          "path": "37.ASP.NET-Core-Image-tag-helper.md",
           "isNew": false
         }
       ]
