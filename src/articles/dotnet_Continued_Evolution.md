@@ -4,8 +4,8 @@
 这篇文章的更多目的和意义在于科普，俗称“传教”。
 
 # 持续进化的 .NET
+![Dotnet Continued Evolution 3](images/dotnet-continued-evolution-3.png)
 
-![image.png](https://upload-images.jianshu.io/upload_images/1979022-801fe113610c2aaa.png)
 
 这张图即是一个学习的路线图同样他也是 .NET 平台的进化图。也是代表着 未来.NET 的发展方向。
 今天的故事呢，就会根据上图中的名词一个个的解释下来。让各位更好的了解.NET 。
@@ -100,7 +100,9 @@ Mono 与微软官方的 CLR 一样，都是对 .NET CLI（Common Language Infras
 Xamarin 将.NET 的强大功能和生产力带入 iOS 和 Android，重用技巧和代码，同时获得本地 API 和性能。
 Xamarin 是唯一能通过提供跨 iOS、Android 和 Windows Phone（Windows Phone 的本机语言已经是 C#）这三种平台可正常工作的单一语言 - C#、类库和运行时，却仍能编译性能甚至足以满足高要求游戏的本机（非解释型）应用程序的平台。
 **来一张对比图**
-![image.png](https://upload-images.jianshu.io/upload_images/1979022-4a0845ef5c369abb.png)
+
+![Dotnet Continued Evolution 1](images/dotnet-continued-evolution-1.png)
+ 
 
 Hybrid 是指混合开发，目前的 ionic 、weex、MUI 均在此列表中。
 
@@ -209,8 +211,8 @@ ASP .NET Core 是一个跨平台的高性能开源框架，用于生成基于云
 - 在 Windows、macOS 和 Linux 上使用喜爱的开发工具。
 - 部署到云或本地。
 - 在 .NET Core 或 .NET Framework 上运行。
+![Dotnet Continued Evolution 2](images/dotnet-continued-evolution-2.png)
 
-![image.png](https://upload-images.jianshu.io/upload_images/1979022-662d018b7b771f30.png)
 
 > 注 1：随着.NET 技术的发展，时至今日，广义的 .NET 指包含.NET Framework，.NET Core，Mono 在内，是基于.NET 技术的整个产品系列。而在过去的习惯中，.NET 通常特指.NET Framework 这一个最正统的框架。
 
@@ -250,8 +252,8 @@ Windows 上的全功能集成开发环境（IDE），用于构建各种类型的
 所以 2018 全面扑腾到 .NET CORE 吧 !
 
 顺带一提，您如果在文章中看到一些错误和疏漏，还请指出，或者到 github 上进行修改提交 PR。非常感谢。
+![Dotnet Continued Evolution 3](images/dotnet-continued-evolution-3.png)
 
-![image.png](https://upload-images.jianshu.io/upload_images/1979022-9d486f356944f856.png)
 
 我们再回过头来看这张图是不是清晰了很多呢。
 
