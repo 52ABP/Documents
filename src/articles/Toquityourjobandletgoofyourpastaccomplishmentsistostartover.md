@@ -61,4 +61,4 @@
 
 ## 关注微信公众号：角落的白板报
 
-![公众号：角落的白板报](https://upload-images.jianshu.io/upload_images/1979022-f19c505c18160c16.png)
+![公众号：角落的白板报](images/jiaoluowechat.png)
