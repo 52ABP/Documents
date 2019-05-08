@@ -29,7 +29,7 @@
 - 出一个系列的书(从零开始学.NET CORE 系列、 MVC CORE、RAZOR PAGES、EF CORE，最后到 MPA 版的 ABP 框架 从 0 开始搭建的过程 )
 - Gitee 的操作视频 （目前在国内最好用的中小型团队项目管理平台，尤其在推出了项目视图之后）
 - 完善视频材料
-- 推出 52ABP-PRO 的 MPA 和 VUE 版本
+- 推出 52ABP-PRO 的 MPA   版本
 
 说声抱歉，中间答应了很多朋友的事情，因为辞职的事情，导致拖拖拉拉的没有完成。
 
@@ -55,10 +55,10 @@
 
 > 如果您觉得我的文章质量还不错，欢迎打赏，也可以订阅我的视频哦 </br>
 > 未得到授权不得擅自转载本文内容,52abp.com 保留版权 </br>
-> 【收费】腾讯课堂:https://ke.qq.com/course/392589?tuin=2522cdf3 </br>
-> 【免费】youtube 视频专区：http://t.cn/Ei0F2EB </br>
+> 【收费】腾讯课堂:[https://ke.qq.com/course/392589?tuin=2522cdf3](https://ke.qq.com/course/392589?tuin=2522cdf3) </br>
+> 【免费】youtube 视频专区：[http://t.cn/Ei0F2EB](http://t.cn/Ei0F2EB) </br>
 > 感谢您对我的支持
 
 ## 关注微信公众号：角落的白板报
 
-![公众号：角落的白板报](https://upload-images.jianshu.io/upload_images/1979022-f19c505c18160c16.png)
+![公众号：角落的白板报](images/jiaoluowechat.png)
