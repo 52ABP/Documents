@@ -14,6 +14,5 @@
 ### 微信关注我们不走丢
 
 <img src="https://raw.githubusercontent.com/52ABP/Documents/V0.16/src/mvc/images/jiaoluowechat.png" class="img-fluid text-center " alt="公众号：角落的白板报" style="
-    height: 80;
-    width: 250px;
-">
+    height: 80px;
+    width: 250px;"/>

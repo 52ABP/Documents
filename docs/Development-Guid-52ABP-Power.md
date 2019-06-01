@@ -98,7 +98,7 @@
 
 
 
-## 最终效果
+## 最终运行效果
 
 
 ![Development Guid 52Abp Power 2](images/Development-Guid-52abp-Power-2.png)
