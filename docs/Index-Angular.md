@@ -1,9 +1,18 @@
-# 52ABP-PRO文档
+# 52ABP-PRO ASP.NET CORE和Angular项目文档
+
+> 本文作者：52ABP开发团队 </br>
+> 本文出处：https://www.52abp.com/wiki/common/latest </br>
+> 源代码： https://www.github.com/52abp </br>
 
 本文档是用于服务52ABP-PRO的项目。如果您已经[购买](https://www.52abp.com/Purchase)了52ABP-PRO，那么它会提高您的开发体验和工作效率。
 
+本文档适用于“ASP.NET Core 后端和Angular UI”项目类型。查看[其他项目类型](Getting-Started.md)。
+
+
+
+
  
-## [目录](Getting-Started-Angular-Index.md) 
+## [目录](Index-Angular.md) 
 
 - 启动项目
   - [5分钟快速入门](Getting-Started-Angular.md)
@@ -77,3 +86,12 @@
 - [Free模板和52ABP-PRO的功能对比    ]()
 - [额外链接    ]()
  
+
+来文档中心了解更多：https://www.52abp.com/wiki/ 
+
+### 微信关注我们不走丢
+
+<img src="https://raw.githubusercontent.com/52ABP/Documents/V0.16/src/mvc/images/jiaoluowechat.png" class="img-fluid text-center " alt="公众号：角落的白板报" style="
+    height: 80;
+    width: 250px;
+">
