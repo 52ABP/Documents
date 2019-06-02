@@ -1,6 +1,7 @@
 # 在Visual Studio2017/2019中使用52ABP代码生成器开发使用指南
 
 > 本文作者：52ABP开发团队 </br>
+> 文章会随着版本进行更新，关注我们获取最新版本 </br>
 > 本文出处：https://www.52abp.com/wiki/common/latest </br>
 > 源代码： https://www.github.com/52abp </br>
 
@@ -67,7 +68,7 @@
 - IDemoBookManager.cs
 - DemoBookAppPermissions.cs
 - DemoBookAuthorizationProvider.cs
-- Readme.md
+- Readme .md
 
 #### Application层：
 
@@ -79,7 +80,6 @@
 - DemoBookEditDto.cs
 - GetDemoBookForEditOutput.cs
 - GetDemoBooksInput.cs
-- Readme.md
 
 #### EntityFrameworkCore层：
 

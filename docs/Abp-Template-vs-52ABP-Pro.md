@@ -1,6 +1,7 @@
 # ABP(ASP.NET Boilerplate)和52ABP的对比表,52ABP和ABP的关系
 
 > 本文作者：52ABP开发团队 </br>
+> 文章会随着版本进行更新，关注我们获取最新版本 </br>
 > 本文出处：https://www.52abp.com/wiki/common/latest </br>
 > 源代码： https://www.github.com/52abp </br>
 
@@ -8,8 +9,11 @@
 ## 52ABP和ABP的关系
  
 ASP.NET Boilerplate是一个开源Web应用程序框架，提供了免费的启动模板。
+
 52ABP是一款基于ABP之上开发出来的适用于国内的市场和环境的项目模板。
+
 它不扎根于基础设施，他更多做的事情是让大家在开发功能的时候更加的方便。
+
 所以他不会和 ABP 框架冲突，建议大家可以直接使用 52ABP 框架进行开发，因为 52ABP 有一整套的开发设施，项目模板生成器，代码生成器、文档、视频等内容。可以节约大家的时间和精力。
  
  ![Abp-Template-vs-52ABP-Pro-1](images/Abp-Template-vs-52ABP-Pro-1.png)
@@ -22,9 +26,12 @@ ASP.NET Boilerplate是一个开源Web应用程序框架，提供了免费的启�
 
 在这里，您可以看到ASP.NET Boilerplate的免费模板和52ABP-PRO之间的差异。
 
+
 <div class="container space-4">
-      <table class="table" id="TemplateComparisonTable">
-        <thead>
+
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下表</font></font><strong style="color: red"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">仅显示差异，而不是所有功能</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<table class="table" id="TemplateComparisonTable">
+ <thead>
         <tr>
           <th>
             功能表</th>
@@ -98,9 +105,7 @@ ASP.NET Boilerplate是一个开源Web应用程序框架，提供了免费的启�
         <td>用户个人资料/个人资料图片/更改密码	</td>
         <td><i class="fa fa-minus text-secondary"></i></td>
         <td><i class="fa fa-check text-success"></i></td></tr>
-        <tr>        
-          
-        <td>显示登录足迹</td>
+        <tr>   <td>显示登录足迹</td>
         <td><i class="fa fa-minus text-secondary"></i></td>
         <td><i class="fa fa-check text-success"></i></td></tr>
         <tr>
@@ -142,8 +147,7 @@ ASP.NET Boilerplate是一个开源Web应用程序框架，提供了免费的启�
         <td>示例租户仪表板</td>
         <td>仅限客户端</td>
         <td>服务器端集成</td>
-          </tr>
-        
+</tr>     
           
 <tr>
 <td>SaaS应用程序的版本和功能管理</td>
@@ -254,7 +258,7 @@ ASP.NET Boilerplate是一个开源Web应用程序框架，提供了免费的启�
 
 ### 微信关注我们不走丢
 
- <img src="https://raw.githubusercontent.com/52ABP/Documents/V0.16/src/mvc/images/jiaoluowechat.png" class="img-fluid text-center " alt="公众号：角落的白板报" style="
-    height: 80px;
+ <img src="https://raw.githubusercontent.com/52ABP/Documents/V0.16/src/mvc/images/jiaoluowechat.png" class="img-fluid   " alt="公众号：角落的白板报" style="
+    height: 80;
     width: 250px;
 " />

@@ -22,11 +22,11 @@
 ## 目录
 
 
-- [ ] [代码生成器使用介绍](52ABP-Power-Tools-Intro.md)
+- [x] [代码生成器使用介绍](52ABP-Power-Tools-Intro.md)
 - [ ] [更新日志](Change-Logs.md)
 - [ ] [版本对比表](Version-Differences.md)
 - [ ] [路线图](Road-Map.md)
-- [ ] [ABP和52ABP的不同](Abp-Template-vs-52ABP-Pro.md)
+- [x] [ABP和52ABP的不同](Abp-Template-vs-52ABP-Pro.md)
 
 
 
@@ -34,6 +34,7 @@
 来文档中心了解更多：https://www.52abp.com/wiki/ 
 
 ### 微信关注我们不走丢
+
 
 <img src="https://raw.githubusercontent.com/52ABP/Documents/V0.16/src/mvc/images/jiaoluowechat.png" class="img-fluid text-center " alt="公众号：角落的白板报" style="
     height: 80;
