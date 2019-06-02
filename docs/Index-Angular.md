@@ -1,6 +1,7 @@
 # 52ABP-PRO ASP.NET CORE和Angular项目文档
 
 > 本文作者：52ABP开发团队 </br>
+> 文章会随着版本进行更新，关注我们获取最新版本 </br>
 > 本文出处：https://www.52abp.com/wiki/common/latest </br>
 > 源代码： https://www.github.com/52abp </br>
 
@@ -9,7 +10,22 @@
 本文档适用于“ASP.NET Core 后端和Angular UI”项目类型。查看[其他项目类型](Getting-Started.md)。
 
 
+## 启动项目
 
+[快速入门](Getting-Started-Angular.md)可以帮助您创建项目，并在5分钟运行项目成功。
+
+
+## 视频课程
+
+
+如果您想系统性的学习并在短时间内学会52ABP进行开发，可以购买我们在网易上的课程：
+
+- [52ABP教程ASP.NET Core与Angular快速开发视频](https://study.163.com/course/courseMain.htm?courseId=1006191011&share=2&shareId=400000000309007)
+- 更多课程，可以查看：https://www.52abp.com/College
+
+ 
+
+<a href="https://study.163.com/course/courseMain.htm?courseId=1006191011&share=2&shareId=400000000309007" target="_blank"><img src="https://edu-image.nosdn.127.net/0300916b-24c4-491b-9665-a0d367ac0b9e.jpg?imageView&quality=100&crop=0_0_1920_1077&thumbnail=450y250" class="img-fluid" alt="52ABP-PRO 视频课程"></a>
 
  
 ## [目录](Index-Angular.md) 

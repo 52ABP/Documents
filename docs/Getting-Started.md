@@ -1,6 +1,7 @@
 # 52ABP-PRO文档
 
 > 本文作者：52ABP开发团队 </br>
+> 文章会随着版本进行更新，关注我们获取最新版本 </br>
 > 本文出处：https://www.52abp.com/wiki/common/latest </br>
 > 源代码： https://www.github.com/52abp </br>
 
@@ -16,8 +17,8 @@
 
 您可以根据您的项目类型，参考对应的文档
 
-- [ASP.NET Core 和 Angular](Getting-Started-Angular.md)
-- [ASP.NET Core MVC和 jQuery](Getting-Started-Core.md) 
+- [ASP.NET Core 和 Angular类型文档](Getting-Started-Angular.md)
+- [ASP.NET Core MVC和 jQuery文档](Getting-Started-Core.md) 
 
 ## 目录
 
