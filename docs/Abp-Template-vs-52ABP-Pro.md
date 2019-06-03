@@ -198,12 +198,12 @@ ASP.NET Boilerplate是一个开源Web应用程序框架，提供了免费的启�
 <tr>
 
 <td>UI 主题</td>
-<td>BSB Admin (免费主题)</td>
+<td>HtmlStream (免费主题)</td>
 <td>Keen (高级主题)</td>
   </tr>
   <tr>      
     <td>Angular UI 主题</td>
-    <td>BSB Admin (免费主题)</td>
+    <td>Ng-Alain (免费主题)</td>
     <td>Ng-Alain-Pro(高级主题)</td>
       </tr>
 <tr>
