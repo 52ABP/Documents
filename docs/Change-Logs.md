@@ -2,7 +2,7 @@
 
 > 本文作者：52ABP开发团队 </br>
 > 文章会随着版本进行更新，关注我们获取最新版本 </br>
-> 本文出处：https://www.52abp.com/wiki/common/latest </br>
+> 本文出处：[https://www.52abp.com/wiki/common/latest](https://www.52abp.com/wiki/common/latest) </br>
 > 源代码： https://www.github.com/52abp </br>
 
 
