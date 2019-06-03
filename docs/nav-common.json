@@ -4,10 +4,9 @@
         "text": "入门文档",
         "path": "Getting-Started.md"
       },
-      {
-        "text": "52ABP开发者中心-目录",
-        "path": "Welcome-to-52abp.md"
-      }, {
+      {"text":"52ABP-PRO ASP.NET CORE和Angular项目文档","path":"Index-Angular.md"},
+
+     {
         "text": "2019年起如何开始学习ABP框架系列文章-开篇有益",
         "path": "Introduction.md"
       },

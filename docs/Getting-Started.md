@@ -23,10 +23,10 @@
 ## 目录
 
 
-- [x] [代码生成器使用介绍](52ABP-Power-Tools-Intro.md)
-- [x] [更新日志](Change-Logs.md)
-- [x] [路线图](Road-Map.md)
-- [x] [ABP和52ABP的功能对比表](Abp-Template-vs-52ABP-Pro.md)
+-  [代码生成器使用介绍](52ABP-Power-Tools-Intro.md)
+-  [更新日志](Change-Logs.md)
+-  [路线图](Road-Map.md)
+- [ABP和52ABP的功能对比表](Abp-Template-vs-52ABP-Pro.md)
 
 
 
