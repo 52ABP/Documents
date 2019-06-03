@@ -4,27 +4,33 @@
         "text": "入门文档",
         "path": "Getting-Started.md"
       },
-      {"text":"52ABP-PRO ASP.NET CORE和Angular项目文档","path":"Index-Angular.md"},
-
+      {"text":"52ABP-PRO ASP.NET CORE和Angular项目文档",
+        "path":"Index-Angular.md",
+        "isNew": true},
      {
         "text": "2019年起如何开始学习ABP框架系列文章-开篇有益",
-        "path": "Introduction.md"
+        "path": "Introduction.md",
+        "isNew": false
       },
       {
         "text": "代码生成器介绍",
-        "path": "52ABP-Power-Tools-Intro.md"
+        "path": "52ABP-Power-Tools-Intro.md",
+        "isNew": true
       },
       {
         "text": "更新日志",
-        "path": "Change-Logs.md"
+        "path": "Change-Logs.md",
+        "isNew": true
       },
       {
         "text": "ABP(ASP.NET Boilerplate)和52ABP的功能对比表",
-        "path": "Abp-Template-vs-52ABP-Pro.md"
+        "path": "Abp-Template-vs-52ABP-Pro.md",
+        "isNew": true
       },
       {
         "text": "路线图",
-        "path": "Road-Map.md"
+        "path": "Road-Map.md",
+        "isNew": true
       }
    
      
