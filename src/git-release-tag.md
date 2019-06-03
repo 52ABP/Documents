@@ -17,7 +17,7 @@ git tag  //查看当前的tag标签信息
 
 git tag V0.17.0 //快速打标签
 
-git tag -d ///*删除本地tag*/
+git tag -d V0.17.0 ///*删除本地tag*/
 
 git push origin --delete tag 0.1.1 //删除远程服务器上的TAG
 
@@ -37,5 +37,23 @@ v1.4
 v1.4-lw
 v1.5
 ```
+
+## 个人操作流程
+
+```
+git push origin --delete tag V0.17.0
+
+git tag -d V0.17.0 
+
+git tag V0.17.0
+
+git push origin V0.17.0 
+
+
+
+
+```
+
+
 
 
