@@ -17,8 +17,8 @@
 
 您可以根据您的项目类型，参考对应的文档
 
-- [ASP.NET Core 和 Angular类型文档](Getting-Started-Angular.md)
-- [ASP.NET Core MVC和 jQuery文档](Getting-Started-Core.md) 
+- [52ABP-PRO ASP.NET Core 和 Angular类型文档](Getting-Started-Angular.md)
+- [A52ABP-PRO SP.NET Core MVC和 jQuery文档](Getting-Started-Core.md) 
 
 ## 目录
 

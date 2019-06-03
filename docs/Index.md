@@ -20,6 +20,7 @@
 
 52ABP有多种类型的架构选项，选择符合你的业务场景：
 
+- [52ABP文档-目录](Getting-Started.md)
 
 - [ASP.NET Core 和 Angular](Getting-Started-Angular.md)
 - [ASP.NET Core MVC和 jQuery](Getting-Started-Core.md)

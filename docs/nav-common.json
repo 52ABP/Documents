@@ -20,35 +20,14 @@
         "path": "Change-Logs.md"
       },
       {
-        "text": "版本对比表",
-        "path": "Version-Differences.md"
+        "text": "ABP(ASP.NET Boilerplate)和52ABP的功能对比表",
+        "path": "Abp-Template-vs-52ABP-Pro.md"
       },
       {
         "text": "路线图",
         "path": "Road-Map.md"
       },
-  
-      {
-        "text": "Other",
-        "items": [
-          {
-            "text": "ASP.NET Boilerplate vs ASP.NET Zero",
-            "path": "Abp-Template-vs-AspNet-Zero.md"
-          }
-        ]
-      },
-      {
-        "text": "External Links",
-        "items": [
-          {
-            "text": "ASP.NET Boilerplate",
-            "path": "https://aspnetboilerplate.com/Pages/Documents"
-          },
-          {
-            "text": "Metronic Theme",
-            "path": "http://www.keenthemes.com/preview/metronic/"
-          }
-        ]
-      }
+   
+     
     ]
   }

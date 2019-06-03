@@ -14,7 +14,7 @@
 
 
 
- ## 文档
+ ## 使用文档
 
 - [在Visual Studio2017/2019中使用52ABP代码生成器](Development-Guid-52ABP-Power.md)
 
