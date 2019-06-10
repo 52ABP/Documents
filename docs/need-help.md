@@ -9,9 +9,9 @@
                                                                       
 ```
 
-这篇文档还没有完成.....但是!
+# 这篇文档还没有完成.....但是!
 
-# 你可以
+## 你可以
 
 ><span class="u-divider u-divider--xs u-divider--text">
 >   <a class="btn btn-google " href="#moneyPayModal" data-modal-target="#moneyPayModal" data-modal-effect="fadein">
@@ -19,6 +19,6 @@
 >    </a>
 ></span>
 
-# 或者
+## 或者
 
-> [参与公共编辑](https://github.com/52ABP/Documents/issues)
+> [参与公共编辑](https://github.com/52ABP/Documents/issues) ✏
