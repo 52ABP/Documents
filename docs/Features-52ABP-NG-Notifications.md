@@ -9,7 +9,7 @@
 
 ## 通知设置
 
-**设置**链接打开通知设置对话框。
+点击**设置**链接打开通知设置对话框。
 
 ![](images/Features-52ABP-NG-Notifications-2.png)
 
