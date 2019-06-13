@@ -41,7 +41,7 @@
     - [基于令牌的认证](Features-52ABP-NG-Token-Based-Authentication.md)
   - [注册](Features-52ABP-NG-Sign-Up.md)
     - [邮箱激活](Features-52ABP-NG-Email-Activation.md)
-    <!-- - [短信激活](Features-52ABP-NG-SMS-Activation.md) -->
+    - [短信激活](Features-52ABP-NG-SMS-Activation.md)
   - [租户注册](Features-52ABP-NG-Tenant-Sign-Up.md)
   - [主菜单和布局](Features-52ABP-NG-Main-Menu-Layout.md)
   - [版本管理](Features-52ABP-NG-Edition-Management.md)
