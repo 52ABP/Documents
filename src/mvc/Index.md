@@ -8,7 +8,6 @@
 
 我们将详细讨论和学习:
 
-- .NET 平台
 - ASP.NET Core
 - ASP.NET Core MVC
 - ASP.NET Identity Core
@@ -24,16 +23,16 @@
 
 - [1.课程介绍](1.Intro.md)
 - [2.为您的机器配置开发环境](2.ConfigMachine.md)
-- [3.2VS2019 创建 ASP.NETCoreWeb 程序](3.2Createprojectby2019.md)
-- [3.1VS2017 创建 ASP.NETCoreWeb 程序](3.1Createprojectby2017.md)
-- [4.ASP.NETCoreWeb 项目文件](4.ProjectFile.md)
-- [5.ASP.NETCore 中的 Main 方法](5.MainMethod.md)
-- [6.ASP.NETCore 进程内(InProcess)托管](6.In-ProcessHosting.md)
-- [7.ASP.NETCore 进程外(out-of-process)托管](7.Out-of-ProcessHosting.md)
-- [8.ASP.NETCore launchsettings.json 文件](8.launchsettingsJsonFile.md)
-- [9.ASP.NETCore appsettings.json 文件](9.AppsettingsjsonFile.md)
-- [10.ASP.NETCore 中的中间件](10.MiddlewareIntro.md)
-- [11.配置 ASP.NETCore 请求(Request)处理管道](11.ConfigRequsetPipeline.md)
+- [3.2VS2019 创建 ASP.NET Core Web 程序](3.2Createprojectby2019.md)
+- [3.1VS2017 创建 ASP.NET Core Web 程序](3.1Createprojectby2017.md)
+- [4.ASP.NET Core Web 项目文件](4.ProjectFile.md)
+- [5.ASP.NET Core 中的 Main 方法](5.MainMethod.md)
+- [6.ASP.NET Core 进程内(InProcess)托管](6.In-ProcessHosting.md)
+- [7.ASP.NET Core 进程外(out-of-process)托管](7.Out-of-ProcessHosting.md)
+- [8.ASP.NET Core launchsettings.json 文件](8.launchsettingsJsonFile.md)
+- [9.ASP.NET Core appsettings.json 文件](9.AppsettingsjsonFile.md)
+- [10.ASP.NET Core 中的中间件](10.MiddlewareIntro.md)
+- [11.配置 ASP.NET Core 请求(Request)处理管道](11.ConfigRequsetPipeline.md)
 - [12.Asp.Net Core 中的静态文件](12.StaticFile.md)
 - [13.ASP.NET Core 开发人员异常页面](13.DeveloperException.md)
 - [14.Asp.Net Core 中的环境变量](14.EnviromentVariables.md)
@@ -41,7 +40,7 @@
 - [16.在 Asp.Net Core 中安装 MVC](16.SetupMVC.md)
 - [17.ASP.NET Core 中 AddMvc 与 AddMvcCore 的区别](17.AddMvcVsAddMvcCore.md)
 - [18.ASP.NET CoreMVC 中的 Model](18.ModelInMVC.md)
-- [19.ASP.NETCore 的依赖注入教程](19.Dependency-Injection.md)
+- [19.ASP.NET Core 的依赖注入教程](19.Dependency-Injection.md)
 - [20.ASP.NET CoreMVC 中的控制器](20.ControllerInMVc.md)
 - [21.ASP.NET CoreMVC 中的视图](21.ViewsInMVc.md)
 - [22.在 Asp.Net CoreMvc 中的自定义视图](22.CustomizeViewInMVC.md)
