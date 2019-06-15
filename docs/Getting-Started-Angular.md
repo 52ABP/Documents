@@ -13,7 +13,7 @@
 首先[登录](https://www.52abp.com/Account/Login)52ABP.COM，输入您的账号和密码。在[下载页面](https://www.52abp.com/Download/Index)上，选择企业版，您可以看到如下的表单内容。
  ![Getting Started Angular 1](images/Getting-Started-Angular-1.png)
 
-选择项目类型为“**ASP.NET CORE&Angular**”，填写您项目名称(为了演示方便，我们使用**YoyoSoft.PhoneBookDemo**作为我们的项目名称)以及其他信息。
+选择项目类型为“**ASP .NET CORE&Angular**”，填写您项目名称(为了演示方便，我们使用**YoyoSoft.PhoneBookDemo**作为我们的项目名称)以及其他信息。
 
 你的项目将会在一分钟内完成下载。
 然后打开ZIP压缩包后，您可以看到两个文件夹：
@@ -34,6 +34,9 @@ phonebookdemo为您的项目名称，项目结构为前后端分离。
 - [Typescript 3.0+](https://www.typescriptlang.org/#download-links)
 - [Node.js 10.16.0+ with NPM 3.10+](https://nodejs.org/zh-cn/)
 - [Yarn](https://yarnpkg.com/zh-Hant/)
+- [.Net Core SDK VS2017补丁包](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.2.107-windows-x64-installer)
+- [.NET CORE 2.2以上SDK](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.2.300-windows-x64-installer)
+
 
 ## ASP.NET Core 应用程序
 
@@ -47,7 +50,7 @@ phonebookdemo为您的项目名称，项目结构为前后端分离。
 
 ### 数据库
 
-因为我们采用CodeFirst的模式开发，所以我们不需要sql文件。
+因为我们采用CodeFirst的模式开发，所以我们不需要sql文件。你如果还不会Codefirst的开发模式，可以系统性的学习一次Asp.net Core ，推荐观看我们的教程：[跨平台开发实战掌握ASP.NET Core 与EntityFramework Core](https://www.52abp.com/Wiki/mvc/latest)
 
 #### 连接字符串
 
@@ -57,18 +60,18 @@ phonebookdemo为您的项目名称，项目结构为前后端分离。
 "Default": "Server=.; Database=PhoneBookDemo_db; Trusted_Connection=True;"
 ```
 
-#### 迁移数据库
+### 迁移数据库
 
 我们有两种方式来创建或者迁移数据库到最新的版本。
 
 
-##### 使用52ABP-PRO的迁移工具
+#### 使用52ABP-PRO的迁移工具
 
-52ABP-PRO的提供了一个迁移工具，在解决方案中**tools**文件中（YoyoSoft.PhoneBookDemo.Migrator），您可以在开发和生产环境中，使用这个工具为您的数据库进行迁移。您可以查看[迁移数据库控制台](Migrator-Console-Application.md)来了解更多详细。
+52ABP-PRO的提供了一个迁移工具，在解决方案中**tools**文件中（YoyoSoft.PhoneBookDemo.Migrator），您可以在开发和生产环境中，使用这个工具为您的数据库进行迁移。您可以查看[迁移数据库控制台文档](Migrator-Console-Application.md)来了解更多详细。
 
 
 
-##### EntityFramework Core迁移命令
+#### EntityFramework Core迁移命令
 
 您还可以使用**EntityFramework Core**内置的工具，进行数据库的迁移。打开**程序包管理控制台**。然后设置**YoyoSoft.PhoneBookDemo.EntityFramework**为默认项目，然后输入`Update-database`命令来更新数据库。
 
@@ -86,7 +89,7 @@ phonebookdemo为您的项目名称，项目结构为前后端分离。
 请注意**Migror.exe**支持同时在多个数据库中运行迁移，这在**多租户应用程序**的**开发/生产环境中**很有用。
 
 
-#### 配置多租户
+### 配置多租户
 
 
 52ABP-PRO支持多租户和单租户应用程序。多租户默认为启用状态。
@@ -98,7 +101,7 @@ phonebookdemo为您的项目名称，项目结构为前后端分离。
 
 
 
-#### 运行可视化API
+### 可视化的SwaggerUI，查看动态Webapi
 
 完成以上配置后，您可以运行应用程序。服务端只包含API。当项目运行后会默认打开SwaggerUI。
 
@@ -110,11 +113,15 @@ phonebookdemo为您的项目名称，项目结构为前后端分离。
 
 ## Angular UI应用
 
+我们的Angular应用采用的是 [Ng Alain Pro](https://e.ng-alain.com/theme/pro) 版本，如果您已经购买了我们的企业版，可以放心使用，无须再次购买版权。
+
 ### 还原包
 
-打开**angular**文件夹，然后使用命令行工具，运行``yarn``命令来还原包。
+打开**angular**文件夹，然后使用**命令行工具**，运行``yarn``命令来还原包。
 
 因为NPM还原包的速度比较慢，并且不够稳定，所以我们采用``yarn``来进行包的还原。而且yarn和NPM是兼容的。
+
+
 
 ### 运行应用程序
 
@@ -122,9 +129,10 @@ phonebookdemo为您的项目名称，项目结构为前后端分离。
 
 ``npm start``
 
-项目就会进行编译，一旦编译成功后。您可以通过浏览器访问 [[localhost:8080](http://localhost:8080)](http://localhost:8080/) 来查看项目。
+项目就会进行编译，一旦编译成功后。您可以通过浏览器访问 [localhost:8080](http://localhost:8080/) 来查看项目。
 
 当然我们也配套了（HMR）热模块替换的启用。
+
 您可以使用：
 ``npm run hmr``
 来运行。
@@ -135,10 +143,11 @@ phonebookdemo为您的项目名称，项目结构为前后端分离。
 
 ![Getting Started Angular 7](images/Getting-Started-Angular-7.png)
 
-如果您启用了多租户，在这里能够看到有一个租户注册。以及切换租户的功能。我们默认创建了一个default的租户信息。如果您保留为空，则会进入主机管理员的身份登录。
+如果您启用了多租户，在这里能够看到有一个**租户注册**。以及切换租户的功能。我们默认创建了一个default的租户信息。如果您保留为空，则会进入**宿主管理员**的身份登录。
+
 ### 账号和密码
-默认的管理员账号为：admin
-默认密码为:bb123456
+默认的管理员账号为：admin <br/>
+默认密码为:bb123456<br/>
 为了您系统的安全，请及时更改你的密码。
 
 
