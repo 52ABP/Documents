@@ -51,7 +51,7 @@
   - 宿主工作台
   - [组织单元](Features-52ABP-NG-Organization-Units.md)
   - [角色管理](Features-52ABP-NG-Role-Management.md)
-  - 用户管理
+  - [用户管理](Features-52ABP-NG-User-Management.md)
   - 语言管理
   - 审计日志
   - 实体历史 
