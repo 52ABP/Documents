@@ -31,7 +31,7 @@
 ## [目录](Index-Angular.md) 
 
 - 启动项目
-  - [5分钟快速入门](Getting-Started-Angular.md)
+  - [5分钟快速入门](Getting-Started-Angular.md)  
   - [52ABP-Pro设计概述](Overview-Angular.md)
 - [功能介绍](Features-Angular.md)
   - [登录](Features-52ABP-NG-Login.md)
