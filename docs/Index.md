@@ -74,7 +74,7 @@
   - [迁移数据库控制台   ](Migrator-Console-Application.md)
   - 门户网站
   - Web.Host项目
-  - Swagger UI  
+- Swagger UI
 - 发布和部署
   - 发布到Azure 
   - 发布到IIS
