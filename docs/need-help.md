@@ -22,3 +22,6 @@
 ## 或者
 
 > [参与公共编辑](https://github.com/52ABP/Documents/issues) ✏
+> 
+> [如何参与52ABP贡献](Contributors-to-52abp.md)
+

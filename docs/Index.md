@@ -46,7 +46,7 @@
     - 短信激活
   - 租户注册
   - 主菜单和布局
-  - 版本管理
+  - [版本管理](Features-52ABP-NG-Edition-Management.md)
   - 租户管理
   - 宿主工作台
   - [组织单元](Features-52ABP-NG-Organization-Units.md)
@@ -71,7 +71,7 @@
   - 内部通讯聊天
   - 用户菜单 
   - 安装应用页面
-  - [迁移数据库控制台   ](Migrator-Console-Application.md)
+  - [迁移数据库控制台](Migrator-Console-Application.md)
   - 门户网站
   - Web.Host项目
 - Swagger UI

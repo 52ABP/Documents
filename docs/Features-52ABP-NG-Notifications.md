@@ -1,5 +1,14 @@
 # 通知
 
+> 本文作者：52ABP开发团队 </br>
+> 文章会随着版本进行更新，关注我们获取最新版本 </br>
+> 本文出处：[https://www.52abp.com/wiki/52abp/latest](https://www.52abp.com/wiki/52abp/latest) </br>
+> 源代码： https://www.github.com/52abp </br>
+
+
+
+
+
 通知图标位于语言选择按钮旁边。
 用户可以通过单击此图标查看最近的未读通知。
 
@@ -11,7 +20,7 @@
 
 点击**设置**链接打开通知设置对话框。
 
-![](images/Features-52ABP-NG-Notifications-2.png)
+![通知设置](images/Features-52ABP-NG-Notifications-2.png)
 
 在此对话框中，有一个全局设置供用户启用/禁用接收通知。
 
@@ -38,3 +47,13 @@ context.Manager.Add(
 ## 下一章
 
  -  [迁移数据库控制台](Migrator-Console-Application.md)
+
+
+来文档中心了解更多：https://www.52abp.com/wiki/ 
+
+### 微信关注我们不走丢
+
+<img src="https://raw.githubusercontent.com/52ABP/Documents/V0.16/src/mvc/images/jiaoluowechat.png" class="img-fluid text-center " alt="公众号：角落的白板报" style="
+    height: 80;
+    width: 250px;"/>
+
