@@ -1,0 +1,78 @@
+{
+    "items": [
+      {
+        "text": "5分钟快速入门",
+        "path": "Getting-Started-Angular.md"
+      },
+      {
+        "text": "52ABP-Pro设计概述",
+        "path": "Overview-Angular.md"
+      },
+      {
+        "text": "功能介绍",
+        "items":[
+          {
+          "text":"功能介绍导航",
+          "path":"Features-Angular"
+        },
+        {
+          "text": "登录",
+          "path": "Features-Angular-Login.md",
+          "items": [
+            {
+              "text": "社交和外部登录",
+              "path": "Features-Angular-Social-Logins.md"
+            },
+            {
+              "text": "双因素身份验证",
+              "path": "Features-Angular-Two-Factor-Authentication.md"
+            },
+            {
+              "text": "找回密码",
+              "path": "Features-Angular-Forgot-Password.md"
+            },
+            {
+              "text": "基于令牌（Token）的身份验证",
+              "path": "Features-Angular-Token-Based-Authentication.md"
+            }
+          ]
+        }
+
+
+
+
+      ]
+      },
+      {
+        "text": "版本对比表",
+        "path": "Version-Differences.md"
+      },
+      {
+        "text": "路线图",
+        "path": "Road-Map.md"
+      },
+  
+      {
+        "text": "Other",
+        "items": [
+          {
+            "text": "ASP.NET Boilerplate vs ASP.NET Zero",
+            "path": "Abp-Template-vs-AspNet-Zero.md"
+          }
+        ]
+      },
+      {
+        "text": "External Links",
+        "items": [
+          {
+            "text": "ASP.NET Boilerplate",
+            "path": "https://aspnetboilerplate.com/Pages/Documents"
+          },
+          {
+            "text": "Metronic Theme",
+            "path": "http://www.keenthemes.com/preview/metronic/"
+          }
+        ]
+      }
+    ]
+  }

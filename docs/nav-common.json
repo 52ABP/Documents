@@ -1,0 +1,237 @@
+{
+  "items": [
+    {
+      "text": "5分钟快速入门",
+      "path": "Getting-Started.md"
+    },
+    {
+      "text": "52ABP-PRO 前后端分离架构概述",
+      "path": "Overview-Angular.md"
+    },
+    {
+      "text": "功能介绍",
+      "items": [
+        {
+          "text": "功能介绍导航",
+          "path": "Features-Angular.md"
+        },
+        {
+          "text": "登录",
+          "items": [
+            {
+              "text": "账号密码登录",
+              "path": "Features-52ABP-NG-Login.md"
+            },
+            {
+              "text": "社交和外部登录"
+            },
+            {
+              "text": "双因素身份验证"
+            },
+            {
+              "text": "找回密码"
+            },
+            {
+              "text": "基于令牌（Token）的身份验证",
+              "path": "Features-Angular-Token-Based-Authentication.md"
+            }
+          ]
+        },
+        {
+          "text": "注册",
+          "items": [
+            {
+              "text": "注册",
+              "path": "Features-52ABP-NG-Sign-Up.md"
+            },
+            { "text": "邮箱激活" },
+            { "text": "短信激活" }
+          ]
+        },
+
+        { "text": "租户注册", "path": "" },
+        { "text": "租户管理", "path": "" },
+        {
+          "text": "租户设置",
+          "path": "",
+          "items": [
+            { "text": "维护", "path": "" },
+            { "text": "租户工作台", "path": "" }
+          ]
+        },
+        { "text": "主菜单和布局", "path": "" },
+        { "text": "宿主工作台", "path": "" },
+        { "text": "宿主设置", "path": "" },
+        {
+          "text": "版本管理",
+          "path": "Features-52ABP-NG-Edition-Management.md"
+        },
+        {
+          "text": "组织单元",
+          "path": "Features-52ABP-NG-Organization-Units.md"
+        },
+        { "text": "角色管理", "path": "Features-52ABP-NG-Role-Management.md" },
+        { "text": "用户管理", "path": "Features-52ABP-NG-User-Management.md" },
+        { "text": "语言管理", "path": "" },
+        { "text": "审计日志", "path": "" },
+        { "text": "实体历史", "path": "" },
+        { "text": "订阅", "path": "" },
+        {
+          "text": "支付功能",
+          "items": [
+            { "text": "微信支付", "path": "" },
+            { "text": "支付宝", "path": "" }
+          ]
+        },
+        {
+          "text": "验证码",
+          "items": [
+            { "text": "谷歌验证码集成", "path": "" },
+            { "text": "极验验证码集成", "path": "" },
+            { "text": "图形验证码集成", "path": "" }
+          ]
+        },
+        { "text": "通知管理", "path": "" },
+        { "text": "内部通讯聊天", "path": "" },
+        { "text": "用户菜单", "path": "" },
+        { "text": "安装应用程序页面", "path": "" },
+        {
+          "text": "迁移数据库控制台",
+          "path": "Migrator-Console-Application.md"
+        },
+        { "text": "门户网站", "path": "" },
+        { "text": "Web.Host 项目", "path": "" },
+        { "text": "Swagger UI", "path": "" }
+      ]
+    },
+    {
+      "text": "发布和部署",
+      "path": "",
+      "items": [
+        { "text": "发布到 Azure", "path": "" },
+        { "text": "发布到 IIS", "path": "" },
+        { "text": "发布到 Docker", "path": "" }
+      ]
+    },
+    {
+      "text": "2019年起如何开始学习ABP框架系列文章-开篇有益",
+      "path": "Introduction.md",
+      "isNew": false
+    },
+    {
+      "text": "代码生成器",
+      "isNew": true,
+      "items": [
+        { "text": "代码生成器介绍", "path": "52ABP-Power-Tools-Intro.md" },
+        {
+          "text": "使用 52ABP 代码生成器开发",
+          "path": "Development-Guid-52ABP-Power.md"
+        }
+      ]
+    },
+    {
+      "text": "基础设施和概念",
+      "isNew": false,
+      "items": [
+        { "text": "NPM 包管理", "path": "" },
+        { "text": "Yarn 包管理", "path": "" },
+        { "text": "Angular CLI & WebPack", "path": "" },
+        { "text": "NSwag", "path": "" },
+        { "text": "本地化", "path": "" },
+        { "text": "异常拦截", "path": "" },
+        { "text": "授权", "path": "" },
+        { "text": "产品功能", "path": "" },
+        { "text": "设置", "path": "" },
+        { "text": "SignalR 集成", "path": "" },
+        { "text": "渗透测试报告", "path": "" },
+        { "text": "使用的包和库", "path": "" }
+      ]
+    },
+    {
+      "text": "教程",
+      "isNew": false,
+      "items": [
+        {
+          "text": "Web应用开发",
+          "items": [
+            { "text": "入门开发实例", "path": "" },
+            { "text": "实体的扩展", "path": "" },
+            { "text": "将创建/编辑模态窗口转换为页面", "path": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "更新日志",
+      "path": "Change-Logs.md",
+      "isNew": true
+    },
+    {
+      "text": "Free 模板和 52ABP-PRO 的功能对比",
+      "path": "Abp-Template-vs-52ABP-Pro.md",
+      "isNew": true
+    },
+    {
+      "text": "路线图",
+      "path": "Road-Map.md",
+      "isNew": true
+    },
+    {
+      "text": "如何参与 52ABP 贡献",
+      "path": "Contributors-to-52abp.md",
+      "isNew": true
+    },
+    {
+      "text": "扩展链接",
+      "items": [
+        {
+          "text": "Github源代码",
+          "path": "https://github.com/52abp",
+          "isNew": false
+        },
+        {
+          "text": "码云",
+          "path": "https://gitee.com/aiabpedu/",
+          "isNew": false
+        },
+        {
+          "text": "52ABP实训营",
+          "path": "https://www.52abp.com/College",
+          "isNew": false
+        },
+        {
+          "text": "代码生成器下载地址",
+          "path": "https://marketplace.visualstudio.com/items?itemName=werltm.52ABPCodeGenerator",
+          "isNew": false
+        },
+        {
+          "text": "网易云课堂",
+          "path": "https://study.163.com/instructor/1025359868.htm?_trace_c_p_k2_=df4a03dfd0684f7b933fc91fa64a33ec",
+          "isNew": false
+        },
+        {
+          "text": "知乎",
+          "path": "https://www.zhihu.com/people/52abp/activities",
+          "isNew": false
+        },
+        {
+          "text": "B 站",
+          "path": "https://space.bilibili.com/2954671",
+          "isNew": false
+        },
+        {
+          "text": "微信公众号：角落的白板报",
+          "path": "https://weixin.sogou.com/weixin?p=01030402&query=%E8%A7%92%E8%90%BD%E7%9A%84%E7%99%BD%E6%9D%BF%E6%8A%A5&type=2&ie=utf8",
+          "isNew": false
+        },
+        {
+          "text": "52ABP快速创建项目",
+          "path": "https://www.52abp.com/Download",
+          "isNew": false
+        }
+      ],
+      "isNew": true
+    },
+    { "text": "文档汇总目录", "path": "Index-Angular.md", "isNew": true }
+  ]
+}
