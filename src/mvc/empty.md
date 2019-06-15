@@ -2,8 +2,11 @@
 
 # 目录
 
-> 本文出自[《从零开始学 ASP.NET CORE MVC》目录](https://www.52abp.com/wiki/mvc/0.1.4/1.Intro) </br>
-> 视频课程：[从零开始学 Asp.Net Core MVC](https://study.163.com/course/courseMain.htm?courseId=1209215803&share=2&)
+> 本文作者：梁桐铭- 微软最有价值专家（Microsoft MVP） </br>
+> 文章会随着版本进行更新，关注我获取最新版本 </br>
+> 本文出自[《从零开始学 ASP.NET Core 与 EntityFramework Core》目录](https://www.52abp.com/Wiki/mvc/latest) </br>
+> 视频课程效果更佳：[跨平台开发实战掌握 ASP.NET Core 与 EntityFramework Core
+> ](https://www.52abp.com/College/Course/1) </br>
 
 知识是应该付费的，创作不易，开源不等于免费，如果您是本书读者并手头宽裕，可以点击下面打赏按钮打赏；
 
@@ -16,7 +19,6 @@
                         <span>激励作者</span>
                     </a>
                 </span>
-
 
 # 文章说明
 
