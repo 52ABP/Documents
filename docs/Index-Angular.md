@@ -53,56 +53,55 @@
   - [用户管理](Features-52ABP-NG-User-Management.md)
   - [语言管理](Features-52ABP-NG-Language-Management.md)
   - [审计日志](Features-52ABP-NG-Audit-Logs.md)
-  - [实体历史  ](Features-52ABP-NG-Entity-History.md)
-  - [订阅](Features-52ABP-NG-Subscription.md)
-  - 支付
+  <!-- - [实体历史](Features-52ABP-NG-Entity-History.md) -->
+  <!-- - [订阅](Features-52ABP-NG-Subscription.md) -->
+  <!-- - 支付
     - [微信支付](Features-52ABP-NG-Subscription-WeChat-Integration.md)
-    - [支付宝  ](Features-52ABP-NG-Subscription-AliPay-Integration.md) 
-  - [宿主设置  ](Features-52ABP-NG-Host-Settings.md)
-  - [租户设置  ](Features-52ABP-NG-Tenant-Settings.md)
+    - [支付宝](Features-52ABP-NG-Subscription-AliPay-Integration.md)  -->
+  - [宿主设置](Features-52ABP-NG-Host-Settings.md)
+  - [租户设置](Features-52ABP-NG-Tenant-Settings.md)
     - [维护](Features-52ABP-NG-Maintenance.md)
     - [租户工作台](Features-52ABP-NG-Tenant-Dashboard.md)
-  - 验证码
+  <!-- - 验证码
     - [谷歌验证码集成](Features-Google-Verification-Code-Integration.md)
     - [极验验证码集成](Features-Jiyan-Verification-Code-Integration.md)
-    - [图形验证码集成](Features-GUI-Verification-Code-Integration.md)
+    - [图形验证码集成](Features-GUI-Verification-Code-Integration.md) -->
   - [通知](Features-52ABP-NG-Notifications.md)
-  - [内部通讯聊天](Features-52ABP-NG-Chat.md)
-  - [用户菜单  ](Features-52ABP-NG-User-Menu.md)
-  - [安装应用页面](Features-52ABP-NG-Setup-Page.md)
-  - [迁移数据库控制台   ](Migrator-Console-Application.md)
+  <!-- - [内部通讯聊天](Features-52ABP-NG-Chat.md) -->
+  <!-- - [用户菜单](Features-52ABP-NG-User-Menu.md) -->
+  <!-- - [安装应用页面](Features-52ABP-NG-Setup-Page.md) -->
+  - [迁移数据库控制台](Migrator-Console-Application.md)
   - [门户网站](Features-Mvc-Core-Web-Portal-Project.md)
-  - Web.Host项目
-  - [Swagger UI ](Features-52ABP-NG-Swagger-UI.md)
-  - [GraphQL API](Features-52ABP-NG-GraphQL-API.md)
-- [发布和部署  ](Deployment-Angular.md)
-  - [发布到Azure ](Deployment-Angular-Publish-Azure.md)
-  - [发布到IIS ](Deployment-Angular-Publish-IIS.md)
-  - [发布到Docker](Deployment-Angular-Docker.md)
+  - [Swagger UI](Features-52ABP-NG-Swagger-UI.md)
+  <!-- - [GraphQL API](Features-52ABP-NG-GraphQL-API.md) -->
+- [发布和部署](Deployment-Angular.md)
+  - [发布到Azure](Deployment-Angular-Publish-Azure.md)
+  - [发布到IIS](Deployment-Angular-Publish-IIS.md)
+  <!-- - [发布到Docker](Deployment-Angular-Docker.md) -->
 - [代码生成器](52ABP-Power-Tools-Intro.md)
-- [基础设施和概念 ]()
-  - [NPM包管理]()  
+- [基础设施和概念]()
+  - [NPM包管理]()
   - [Yarn包管理]()
-  - [Angular CLI & WebPack  ]()
+  - [Angular CLI & WebPack]()
   - [NSwag]()
-  - [本地化    ]()
-  - [异常拦截  ]()
+  - [本地化]()
+  - [异常拦截]()
   - [授权]()
-  - [产品功能  ]()
+  - [产品功能]()
   - [设置]()
-  - [SignalR集成 ]()
+  - [SignalR集成]()
   - [渗透测试报告]()
   - [使用过包和库]()
-- [教程  ]()
-  - [WEB应用程序 ]()
+- [教程]()
+  - [WEB应用程序]()
     - [一步步开发]()
-- [创建一个项目  ]()
+- [创建一个项目]()
     - [实体的扩展]()
-    - [将创建/编辑模态窗口转换为页面 ]()
-- [更新日志    ]()
+    - [将创建/编辑模态窗口转换为页面]()
+- [更新日志]()
 - [路线图]()
-- [Free模板和52ABP-PRO的功能对比    ]()
-- [额外链接    ]()
+- [Free模板和52ABP-PRO的功能对比 ]()
+- [额外链接]()
  
 
 来文档中心了解更多：https://www.52abp.com/wiki/ 
