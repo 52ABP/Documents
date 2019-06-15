@@ -1,9 +1,13 @@
 {
   "items": [
     {
-      "text": "ASP.NETCoreMVC目录",
+      "text": "从零开始学 ASP.NET Core 与 EntityFramework Core目录",
 
       "items": [
+        {
+          "text": "目录",
+          "path": "Index.md"
+        },
         {
           "text": "课程介绍",
           "path": "1.Intro.md"
