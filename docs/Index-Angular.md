@@ -7,12 +7,14 @@
 
 本文档是用于服务52ABP-PRO的项目。如果您已经[购买](https://www.52abp.com/Purchase)了52ABP-PRO，那么它会提高您的开发体验和工作效率。
 
-本文档适用于“ASP.NET Core 后端和Angular UI”项目类型。查看[其他项目类型](Getting-Started.md)。
+本文档适用于“ASP.NET Core 后端和Angular UI”前后端分离的项目类型。
+
+您还可以通过查看[其他项目类型](Getting-Started.md)。
 
 
 ## 启动项目
 
-[快速入门](Getting-Started-Angular.md)可以帮助您创建项目，并在5分钟运行项目成功。
+查看[快速入门](Getting-Started-Angular.md)可以帮助您创建项目，并在5分钟运行项目成功。
 
 
 ## 视频课程
@@ -22,7 +24,6 @@
 
 - [52ABP教程ASP.NET Core与Angular快速开发视频](https://study.163.com/course/courseMain.htm?courseId=1006191011&share=2&shareId=400000000309007)
 - 更多课程，可以查看：https://www.52abp.com/College
-
  
 
 <a href="https://study.163.com/course/courseMain.htm?courseId=1006191011&share=2&shareId=400000000309007" target="_blank"><img src="https://edu-image.nosdn.127.net/0300916b-24c4-491b-9665-a0d367ac0b9e.jpg?imageView&quality=100&crop=0_0_1920_1077&thumbnail=450y250" class="img-fluid" alt="52ABP-PRO 视频课程"></a>
@@ -33,7 +34,7 @@
 - 启动项目
   - [5分钟快速入门](Getting-Started-Angular.md)  
   - [52ABP-Pro设计概述](Overview-Angular.md)
-- [功能介绍](Features-Angular.md)
+- [功能介绍](Features-Angular.md)1
   - [登录](Features-52ABP-NG-Login.md)
     - [社交和外部登录](Features-52ABP-NG-Social-Logins.md)
     - [双因素身份验证](Features-52ABP-NG-Two-Factor-Authentication.md)
