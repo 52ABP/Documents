@@ -1,24 +1,4 @@
-## 文章内容还在准备中。。。请耐心等待。。
-
 # 目录
-
-> 本文作者：梁桐铭- 微软最有价值专家（Microsoft MVP） </br>
-> 文章会随着版本进行更新，关注我获取最新版本 </br>
-> 本文出自[《从零开始学 ASP.NET Core 与 EntityFramework Core》目录](https://www.52abp.com/Wiki/mvc/latest) </br>
-> 视频课程效果更佳：[跨平台开发实战掌握 ASP.NET Core 与 EntityFramework Core
-> ](https://www.52abp.com/College/Course/1) </br>
-
-知识是应该付费的，创作不易，开源不等于免费，如果您是本书读者并手头宽裕，可以点击下面打赏按钮打赏；
-
-当然，如果您囊中羞涩，您也可以阅读本书，但我对您有个小小的要求，希望您在阅读的过程中能积极参与到本书的纠错以及未完成内容的创作上来，也算是有所付出。
-
-目前网站全职维护中，您可以通过打赏按钮激励我。
-
-<span class="u-divider u-divider--xs u-divider--text">
-                    <a class="btn btn-google " href="#moneyPayModal" data-modal-target="#moneyPayModal" data-modal-effect="fadein">
-                        <span>激励作者</span>
-                    </a>
-                </span>
 
 ## 文章说明
 
