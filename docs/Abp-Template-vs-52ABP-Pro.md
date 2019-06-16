@@ -31,6 +31,7 @@ ASP.NET Boilerplate是一个开源Web应用程序框架，提供了免费的启�
 <div class="container space-4">
 
 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下表</font></font><strong style="color: red"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">仅显示差异，而不是所有功能</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+
 <table class="table" id="TemplateComparisonTable">
  <thead>
         <tr>
