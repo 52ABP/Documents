@@ -30,6 +30,7 @@
 
   - [5 分钟快速入门](Getting-Started-Angular.md)
   - [52ABP-PRO 前后端分离架构概述](Overview-Angular.md)
+  - [企业版激活流程说明](Active_Your_Gitee.md)
 
 - [功能介绍](Features-Angular.md)
 

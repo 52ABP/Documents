@@ -1,4 +1,4 @@
-# 激活码云账户信息
+# 52ABP-PRO 激活信息
 
 首先感谢您对我们的支持，购买我们的企业版，支持我们长久的发展。
 
@@ -32,9 +32,11 @@
 
 如果您还没有码云账号,可以到这里注册：https://gitee.com/signup
 
-申请地址：
+最后麻烦您填写下申请信息：
 https://docs.qq.com/form/fill/DQXVwZ3FyTVlkakFE?_w_tencentdocx_form=1
 
 如果您访问不了，说明没有加入其中，可以联系我们。
 
 如有疑问，可以添加微信号：wer_ltm ，联系客服。
+
+                                        梁桐铭 2019年6月23日
