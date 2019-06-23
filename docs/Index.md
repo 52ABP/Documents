@@ -27,8 +27,10 @@
 ## [目录](Index-Angular.md)
 
 - 启动项目
+
   - [5 分钟快速入门](Getting-Started-Angular.md)
   - [52ABP-PRO 前后端分离架构概述](Overview-Angular.md)
+
 - [功能介绍](Features-Angular.md)
 
   - 登录
@@ -52,7 +54,7 @@
 
   - [组织单元](Features-52ABP-NG-Organization-Units.md)
 
-  -[角色管理](Features-52ABP-NG-Role-Management.md)
+  - [角色管理](Features-52ABP-NG-Role-Management.md)
 
   - [用户管理](Features-52ABP-NG-User-Management.md)
   - 语言管理
