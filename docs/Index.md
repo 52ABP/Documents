@@ -36,7 +36,8 @@
 
   - 登录
     - [账号密码登录](Features-52ABP-NG-Login.md)
-    - 社交和外部登录
+    - [社交登陆](Features-52ABP-External-Login.md)
+        - [Facebook社交登陆应用配置](Features-52ABP-External-Login-Facebook.md)
     - 双因素身份验证
     - 找回密码
     - [基于令牌的认证](Features-52ABP-NG-Token-Based-Authentication.md)
