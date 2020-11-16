@@ -172,6 +172,6 @@ phonebookdemo为您的项目名称，项目结构为前后端分离。
 
 ### 微信关注我们不走丢
 
-<img src="https://raw.githubusercontent.com/52ABP/Documents/V0.16/src/mvc/images/jiaoluowechat.png" class="img-fluid text-center " alt="公众号：角落的白板报" style="
+<img src="https://www.52abp.com/imgs/money-QR/jiaoluo_wechat_QR.jpg" class="img-fluid text-center " alt="公众号：角落的白板报" style="
     height: 80;
     width: 250px;"/>

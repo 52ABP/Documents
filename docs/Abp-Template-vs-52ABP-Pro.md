@@ -259,7 +259,7 @@ ASP.NET Boilerplate是一个开源Web应用程序框架，提供了免费的启�
 
 ### 微信关注我们不走丢
 
- <img src="https://raw.githubusercontent.com/52ABP/Documents/V0.16/src/mvc/images/jiaoluowechat.png" class="img-fluid   " alt="公众号：角落的白板报" style="
+ <img src="https://www.52abp.com/imgs/money-QR/jiaoluo_wechat_QR.jpg" class="img-fluid   " alt="公众号：角落的白板报" style="
     height: 80;
     width: 250px;
 " />
