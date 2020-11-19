@@ -58,5 +58,5 @@
 
 
 
-![公众号：角落的白板报](images/jiaoluowechat.png)
+![公众号：角落的白板报](https://git.imweb.io/werltm/picturebed/raw/master/yoyomooc/aspnet/jiaoluowechat.png)
 

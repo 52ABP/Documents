@@ -53,4 +53,4 @@ src/docs-nav.json 为文档导航菜单
 
 ## 关注微信公众号：角落的白板报
 
-![公众号：角落的白板报](images/jiaoluowechat.png)
+![公众号：角落的白板报](https://git.imweb.io/werltm/picturebed/raw/master/yoyomooc/aspnet/jiaoluowechat.png)
