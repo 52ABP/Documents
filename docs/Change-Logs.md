@@ -8,6 +8,23 @@
 本文介绍的52ABP-PRO的更新日志记录的摘要。
 详细的发布说明在企业仓库中共享，（仅供客户使用）。
 
+## V3.7.0 (2020年11月24日)
+
+- 补充完整的Docker-compose的文件
+- 多租户可通过配置文件进行启动
+- 在线课程，章节页面可以进行折叠。
+- 扩展appsettings配置内容 [757a66](https://code.52abp.com/52abp/pro/52ABP-Enterprise/-/merge_requests/85/diffs?commit_id=757a66e60b7eea89dc587bbe701e855613fa1bff)
+- 修复批量删除用户的bug
+- 增强后端添加用户的激活逻辑
+- angular端引入qq自定义登录
+- 补充markdown的剪贴板粘贴事件
+- 优化审计日志的查询性能
+- 更新博客模块内容
+- 引入sample-table前端表格内容
+- 配置文件增加数据库驱动类型和驱动证书选项[a9b4a438ce211160202634e3a35f8aff5e1d9a8c](https://code.52abp.com/52abp/pro/52ABP-Enterprise/-/merge_requests/85/diffs?commit_id=a9b4a438ce211160202634e3a35f8aff5e1d9a8c)
+- 增加c-simplemde用于粘贴上传图片
+- 增加用户头像组件/修改用户页面
+- 更新博客 列表 详情，增加tag标记查询
 
 ## V3.6.1 (2020年8月27日)
 
