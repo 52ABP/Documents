@@ -7,7 +7,7 @@
 
 本文档是用于服务52ABP-PRO的项目。如果您已经[购买](https://www.52abp.com/Purchase)了52ABP-PRO，那么它会提高您的开发体验和工作效率。
 
-本文档适用于“ASP.NET Core 后端和Angular UI”前后端分离的项目类型。
+本文档适用于“**ASP.NET Core 后端和Angular UI**”前后端分离的项目类型。
 
 您还可以通过查看[其他项目类型](Getting-Started.md)。
 
@@ -79,29 +79,29 @@
   - [发布到IIS](Deployment-Angular-Publish-IIS.md)
   <!-- - [发布到Docker](Deployment-Angular-Docker.md) -->
 - [代码生成器](52ABP-Power-Tools-Intro.md)
-- [基础设施和概念]()
-  - [NPM包管理]()
-  - [Yarn包管理]()
-  - [Angular CLI & WebPack]()
-  - [NSwag]()
-  - [本地化]()
-  - [异常拦截]()
-  - [授权]()
-  - [产品功能]()
-  - [设置]()
-  - [SignalR集成]()
-  - [渗透测试报告]()
-  - [使用过包和库]()
-- [教程]()
-  - [WEB应用程序]()
-    - [一步步开发]()
-- [创建一个项目]()
-    - [实体的扩展]()
-    - [将创建/编辑模态窗口转换为页面]()
-- [更新日志]()
-- [路线图]()
-- [Free模板和52ABP-PRO的功能对比 ]()
-- [额外链接]()
+- 基础设施和概念
+  - NPM 包管理
+  - Yarn 包管理
+  - Angular CLI & WebPack
+  - NSwag
+  - 本地化
+  - 异常拦截
+  - 授权
+  - 产品功能
+  - 设置
+  - SignalR 集成
+  - 渗透测试报告
+  - 使用过包和库
+- 教程
+  - WEB 应用程序
+    - 一步步开发
+    - 创建一个项目
+    - 实体的扩展
+    - 将创建/编辑模态窗口转换为页面
+- [更新日志](Change-Logs.md)
+- [路线图](Road-Map.md)
+- [Free模板和52ABP-PRO的功能对比 ](Abp-Template-vs-52ABP-Pro.md)
+
  
 
 来文档中心了解更多：https://www.52abp.com/wiki/ 

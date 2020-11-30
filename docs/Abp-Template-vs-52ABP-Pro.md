@@ -1,4 +1,4 @@
-# ABP(ASP.NET Boilerplate)和52ABP的功能对比表,52ABP和ABP的关系
+# ABP(ASP.NET Boilerplate)和52ABP的功能对比表
 
 > 本文作者：52ABP开发团队 </br>
 > 文档会随着版本进行更新，关注[52ABP.com](https://www.52abp.com)获取最新版本 </br>
@@ -242,8 +242,8 @@ ASP.NET Boilerplate是一个开源Web应用程序框架，提供了免费的启�
 <td><i class="fa fa-check text-success"></i></td></tr>
 <tr>
 <td>&nbsp;</td>
-<td><a class="btn btn-primary text-center   btn-sm" ref="https://www.52abp.com/Download/Index" target="_blank">下载使用</a></td>
-<td><a class="btn btn-success text-center btn-sm" ref="https://www.52abp.com/Purchase">价格</a></td>
+<td><a class="btn btn-primary text-center  text-white    btn-sm" ref="https://www.52abp.com/Download/Index" target="_blank">下载使用</a></td>
+<td><a class="btn btn-success text-center text-white    btn-sm" ref="https://www.52abp.com/Purchase">价格</a></td>
 </tr>
 </tbody>
 </table>

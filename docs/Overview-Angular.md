@@ -66,7 +66,7 @@ Angular UI 项目一个可单独部署的项目，它不依赖于后端 ASP .NET
 
 - AdminServerRootAddress 是服务端运行的 Web.Host 应用程序的地址。
 - WebSiteClientRootAddress 客户端 Angular 应用程序的 URL 地址。
-- CorsOrigins 则是管理允许哪些 Url 地址向 Web.Host 应用程序提出跨源请求的 URL。
+- CorsOrigins 则是管理允许哪些 Url 地址向 Web.Host 应用程序提出跨域请求的 URL。
 
 有关配置 Web.host 应用程序的详细信息，请查看[Web.Host 项目介绍](Features-Mvc-Core-Web-Host-Project.md).
 
@@ -94,6 +94,7 @@ Angular UI 项目一个可单独部署的项目，它不依赖于后端 ASP .NET
 而在设置 CorsOrigins 值的时候，可以使用\*来代表允许所有子域进行访问。例如：
 
 ```json
+
 "CorsOrigins": "http://*.app.52abp.com/"
 
 ```
@@ -113,7 +114,10 @@ Angular UI 项目一个可单独部署的项目，它不依赖于后端 ASP .NET
 
 52ABP-PRO 采用的是[NG-Alian-Pro](https://e.ng-alain.com/theme/pro)作为 Angular 的前端模板，[购买 52ABP-PRO](https://www.52abp.com/Purchase)会自动获得此授权无须再单独购买[NG-Alian-Pro](https://e.ng-alain.com/theme/pro)。
 
-Angular 解决方案的入口是`src\main.ts` 。它的作用是用于引导 Angular 的根模块（RootModule）。解决方案的基本模板如下图所示：
+Angular 解决方案的入口是`src\main.ts` 。它的作用是用于引导 Angular 的根模块（RootModule）。
+
+
+解决方案的基本模板如下图所示：
 
 ![Overview-Angular-3](images/Overview-Angular-3.png)
 
@@ -150,7 +154,7 @@ Angular 解决方案包含 `src/assets/appconfig.dev.json`以及`src/assets/appc
 
 `portalBaseUrl`已配置，因为我们使用它来定义 URL 的格式。如果我们想将租户名称用作多租户应用程序的子域名，那么我们可以将`appBaseUrl`定义为
 
-```
+```bash
 http://{TENANCY_NAME}.mydomain.com
 ```
 
