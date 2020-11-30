@@ -24,8 +24,10 @@
 
 来文档中心了解更多：https://www.52abp.com/wiki/ 
 
-### 微信关注我们不走丢
+## 微信扫码关注我们
 
-<img src="https://www.52abp.com/imgs/money-QR/jiaoluo_wechat_QR.jpg" class="img-fluid text-center " alt="公众号：角落的白板报" style="
+<div class="text-center ">
+ <img src="https://www.52abp.com/imgs/money-QR/jiaoluo_wechat_QR.jpg" class="img-fluid text-center " alt="公众号：角落的白板报" style="
     height: 80;
     width: 250px;"/>
+</div>

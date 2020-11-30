@@ -2,7 +2,7 @@
 
 [[_TOC_]]
 
-> 本系列文章推荐阅读地址为：[52ABP 开发文档](https://www.52abp.com/Wiki/52abp/latest/Welcome-to-52abp) https://www.52abp.com/Wiki/52abp/latest/Welcome-to-52abp
+> 本系列文章推荐阅读地址为：[52ABP 开发文档](https://www.52abp.com/wiki/52abp/latest//Welcome-to-52abp) https://www.52abp.com/wiki/52abp/latest//Welcome-to-52abp
 
 本文的目的是为了让刚刚接触 ABP 框架的同学或者准备接触 ABP 框架的同学，能够理解和搞明白 ABP 框架到底是怎么回事，毕竟它发展了好几年的时间。社区中有很多人做 了 ABP 的资料和文章包括我自己也建立了 52ABP，社区中还有 ABPplus 等等的内容。对于很多不了解 ABP 框架的人，会产生无限的疑惑和不知道如何下手的痛苦。
 
@@ -72,4 +72,4 @@ ASP.NET Boilerplate 基于 DDD 的经典分层架构思想，实现了众多 DDD
 
 判断标准很简单把项目案例下载下来了之后，看看能够正常的玩明白。
 
-本系列文章推荐阅读地址为：[52ABP 开发文档](https://www.52abp.com/Wiki/52abp/latest/Welcome-to-52abp) https://www.52abp.com/Wiki/52abp/latest/Welcome-to-52abp
+本系列文章推荐阅读地址为：[52ABP 开发文档](https://www.52abp.com/wiki/52abp/latest//Welcome-to-52abp) https://www.52abp.com/wiki/52abp/latest//Welcome-to-52abp

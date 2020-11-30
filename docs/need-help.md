@@ -14,14 +14,14 @@
 ## 你可以
 
 ><span class="u-divider u-divider--xs u-divider--text">
->   <a class="btn btn-google " href="#moneyPayModal" data-modal-target="#moneyPayModal" data-modal-effect="fadein">
+>   <a class="btn btn-soft-danger " href="#moneyPayModal" data-target="#moneyPayModal" data-toggle="modal">
 >        <span>送我们一杯护肝咖啡 ☕️ </span>
 >    </a>
 ></span>
 
 ## 或者
 
-> [参与公共编辑](https://github.com/52ABP/Documents/issues) ✏
+> [参与公共编辑](https://code.52abp.com/52abp/Documents/-/issues) ✏
 > 
 > [如何参与52ABP贡献](Contributors-to-52abp.md)
 

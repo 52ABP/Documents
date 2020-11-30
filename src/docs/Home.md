@@ -40,7 +40,7 @@
 - [yoyocms](https://github.com/yoyocms)
 - [Aiursoft](https://github.com/AiursoftWeb)
 
-# 52ABP.COM 官方网站评论收集意见和想法的地方
+## 52ABP.COM 官方网站评论收集意见和想法的地方
 
 我们缺少一个知识和信息留存的地方，所以我建设了 52ABP.COM  
 有兴趣的可以看看 https://www.52abp.com/Blog/BlogDetails/3 我在里面基本都说了。

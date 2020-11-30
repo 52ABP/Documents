@@ -12,7 +12,7 @@
 目前网站全职维护中，您可以通过打赏按钮激励我。
 
 <span class="u-divider u-divider--xs u-divider--text">
-                    <a class="btn btn-google " href="#moneyPayModal" data-modal-target="#moneyPayModal" data-modal-effect="fadein">
+                    <a class="btn btn-soft-danger " href="#moneyPayModal" data-target="#moneyPayModal" data-toggle="modal">
                         <span>激励作者</span>
                     </a>
                 </span>
