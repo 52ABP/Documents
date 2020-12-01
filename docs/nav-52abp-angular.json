@@ -45,14 +45,15 @@
       "items": [
         {
           "text": "入门开发实例",
+          "path": "Developing-Step-By-Step/Introduction.md",
           "items": [
             {
               "text": "开发实例介绍",
-              "path": "Developing-Step-By-Step-NG/Intro.md"
+              "path": "Developing-Step-By-Step/Introduction.md"
             },
             {
               "text": "创建并运行项目",
-              "path": ""
+              "path": "Developing-Step-By-Step/Angular/1.Creating-Running-Project.md"
             },
             {
               "text": "添加一个菜单",
