@@ -21,19 +21,19 @@
           "items": [
             {
               "text": "社交和外部登录",
-              "path": "Features-Angular-Social-Logins.md"
+              "path": "Features/Angular/NG-Social-Logins.md"
             },
             {
               "text": "双因素身份验证",
-              "path": "Features-Angular-Two-Factor-Authentication.md"
+              "path": "Features/Angular/NG-Two-Factor-Authentication.md"
             },
             {
               "text": "找回密码",
-              "path": "Features-Angular-Forgot-Password.md"
+              "path": "Features/Angular/NG-Forgot-Password.md"
             },
             {
               "text": "基于令牌（Token）的身份验证",
-              "path": "Features-Angular-Token-Based-Authentication.md"
+              "path": "Features/Angular/NG-Token-Based-Authentication.md"
             }
           ]
         }
