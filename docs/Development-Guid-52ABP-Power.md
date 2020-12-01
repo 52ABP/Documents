@@ -28,6 +28,7 @@
 ## 如何使用呢？
 
 在您的项目中，在项目中的Core层上，选择一个实体，进行右键。点击**52ABP代码生成器**，运行后弹出界面。
+
 ![Development Guid 52Abp Power 4 0](images/Development-Guid-52abp-Power-4-0.png)
 
 
@@ -64,11 +65,12 @@
 ### 服务端
 
 #### Core层：
+
 - DemoBookManager.cs
 - IDemoBookManager.cs
 - DemoBookAppPermissions.cs
 - DemoBookAuthorizationProvider.cs
-- Readme .md
+- Readme.md
 
 #### Application层：
 

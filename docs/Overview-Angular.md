@@ -152,7 +152,7 @@ Angular 解决方案包含 `src/assets/appconfig.dev.json`以及`src/assets/appc
 - uploadApiUrl:用于处理像后端统一上传的路径。默认值："/api/File/Upload"
 - ngZorroLocaleMappings：用于映射 ngZorro 的本地化配置信息
 
-`portalBaseUrl`已配置，因为我们使用它来定义 URL 的格式。如果我们想将租户名称用作多租户应用程序的子域名，那么我们可以将`appBaseUrl`定义为
+`portalBaseUrl`已配置，因为我们使用它来定义 URL 的格式。如果我们想将租户名称用作多租户应用程序的子域名，那么我们可以将`remoteServiceBaseUrl`定义为
 
 ```bash
 http://{TENANCY_NAME}.mydomain.com
@@ -164,9 +164,9 @@ http://{TENANCY_NAME}.mydomain.com
 - 我们应该配置 IIS 以将此静态 IP 绑定到我们的应用程序。
 - 至于 LINUX 的玩法，需要配合 Nginx 使用。
 
-### 在进行多租户开发时，您不需要为租户配置子域名来进行开发， 你可以使用**切换租户**的功能来进行开发，使用“租户开关”对话框用于在租户之间手动切换。
+> 在进行多租户开发时，您不需要为租户配置子域名来进行开发， 你可以使用**切换租户**的功能来进行开发，使用“租户开关”对话框用于在租户之间手动切换。
 
-## AppComponentBase
+## AppComponentBase 组件说明
 
 如果从 **AppComponentBase** 类继承组件，则可以预先注入许多常用服务（如本地化，权限检查器，功能检查器，UI 通知/消息，设置等等）。例如; 你可以在组件类中使用 this.l（...）函数进行本地化。在视图中，您可以使用 localize pipe。请参阅预构建的组件，例如用法。
 

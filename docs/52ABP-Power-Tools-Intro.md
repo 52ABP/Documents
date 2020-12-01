@@ -14,15 +14,16 @@
 
 
 
- ## 使用文档
+## 使用文档
 
 - [在Visual Studio2017/2019中使用52ABP代码生成器](Development-Guid-52ABP-Power.md)
 
 
- ## 视频演示
+## 视频演示
 
 // todo:等待补充
 
+ 
 
 
  
@@ -31,6 +32,7 @@
 ## 微信扫码关注我们
 
 <div class="text-center ">
+
  <img src="https://www.52abp.com/imgs/money-QR/jiaoluo_wechat_QR.jpg" class="img-fluid text-center " alt="公众号：角落的白板报" style="
     height: 80;
     width: 250px;"/>

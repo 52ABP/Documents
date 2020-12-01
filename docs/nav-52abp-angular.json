@@ -1,23 +1,23 @@
 {
-    "items": [
-      {
-        "text": "5分钟快速入门",
-        "path": "Getting-Started-Angular.md"
-      },
-      {
-        "text": "52ABP-Pro设计概述",
-        "path": "Overview-Angular.md"
-      },
-      {
-        "text": "功能介绍",
-        "items":[
-          {
-          "text":"功能介绍导航",
-          "path":"Features-Angular"
+  "items": [
+    {
+      "text": "5分钟快速入门",
+      "path": "Getting-Started-Angular.md"
+    },
+    {
+      "text": "52ABP-Pro架构概述",
+      "path": "Overview-Angular.md"
+    },
+    {
+      "text": "功能介绍",
+      "items": [
+        {
+          "text": "功能介绍导航",
+          "path": "Features-Angular"
         },
         {
           "text": "登录",
-          "path": "Features-Angular-Login.md",
+          "path": "Features-52ABP-NG-Login.md",
           "items": [
             {
               "text": "社交和外部登录",
@@ -37,42 +37,33 @@
             }
           ]
         }
-
-
-
-
       ]
-      },
-      {
-        "text": "版本对比表",
-        "path": "Version-Differences.md"
-      },
-      {
-        "text": "路线图",
-        "path": "Road-Map.md"
-      },
-  
-      {
-        "text": "Other",
-        "items": [
-          {
-            "text": "ASP.NET Boilerplate vs ASP.NET Zero",
-            "path": "Abp-Template-vs-AspNet-Zero.md"
-          }
-        ]
-      },
-      {
-        "text": "External Links",
-        "items": [
-          {
-            "text": "ASP.NET Boilerplate",
-            "path": "https://aspnetboilerplate.com/Pages/Documents"
-          },
-          {
-            "text": "Metronic Theme",
-            "path": "http://www.keenthemes.com/preview/metronic/"
-          }
-        ]
-      }
-    ]
-  }
+    },
+    {
+      "text": "代码生成器",
+      "isNew": true,
+      "items": [
+        {
+          "text": "代码生成器介绍",
+          "path": "52ABP-Power-Tools-Intro.md"
+        },
+        {
+          "text": "使用 52ABP 代码生成器开发",
+          "path": "Development-Guid-52ABP-Power.md"
+        }
+      ]
+    },
+    {
+      "text": "版本对比表",
+      "path": "Version-Differences.md"
+    },
+    {
+      "text": "路线图",
+      "path": "Road-Map.md"
+    },
+    {
+      "text": "Free 模板和 52ABP-PRO 的功能对比",
+      "path": "Abp-Template-vs-52ABP-Pro.md"
+    }
+  ]
+}
