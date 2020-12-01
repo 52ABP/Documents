@@ -40,6 +40,63 @@
       ]
     },
     {
+      "text": "教程",
+      "isNew": false,
+      "items": [
+        {
+          "text": "入门开发实例",
+          "items": [
+            {
+              "text": "开发实例介绍",
+              "path": "Developing-Step-By-Step-NG/Intro.md"
+            },
+            {
+              "text": "创建并运行项目",
+              "path": ""
+            },
+            {
+              "text": "添加一个菜单",
+              "path": ""
+            },
+            {
+              "text": "创建PhoneBook组件",
+              "items": [
+                {
+                  "text": "创建Person实体",
+                  "path": ""
+                },
+                {
+                  "text": "Person类的数据库迁移",
+                  "path": ""
+                },
+                {
+                  "text": "创建Person服务的单元测试",
+                  "path": ""
+                },
+                {
+                  "text": "Using GetPeople Method From Angular Component",
+                  "path": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "WEB应用开发",
+          "items": [
+            {
+              "text": "实体的扩展",
+              "path": ""
+            },
+            {
+              "text": "将创建/编辑模态窗口转换为页面",
+              "path": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "text": "代码生成器",
       "isNew": true,
       "items": [
