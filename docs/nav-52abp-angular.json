@@ -13,7 +13,7 @@
       "items": [
         {
           "text": "功能介绍导航",
-          "path": "Features-Angular"
+          "path": "Features/Angular/Features-Angular.md"
         },
         {
           "text": "登录",
@@ -45,29 +45,32 @@
       "items": [
         {
           "text": "入门开发实例",
-          "path": "Developing-Step-By-Step/Introduction.md",
           "items": [
             {
               "text": "开发实例介绍",
-              "path": "Developing-Step-By-Step/Introduction.md"
+              "path": "Developing-Step-By-Step/Angular-Introduction.md"
             },
             {
               "text": "创建并运行项目",
               "path": "Developing-Step-By-Step/Angular/1.Creating-Running-Project.md"
             },
             {
-              "text": "添加一个菜单",
-              "path": ""
+              "text": "添加菜单导航",
+              "path": "Developing-Step-By-Step/Angular/2.Adding-New-Menu-Item.md"
             },
             {
-              "text": "创建PhoneBook组件",
+              "text": "添加PhoneBook的组件及服务代码",
               "items": [
+                {
+                  "text": "添加PhoneBook的组件服务",
+                  "path": ""
+                },
                 {
                   "text": "创建Person实体",
                   "path": ""
                 },
                 {
-                  "text": "Person类的数据库迁移",
+                  "text": "在数据库中创建Person表的迁移",
                   "path": ""
                 },
                 {
@@ -75,7 +78,7 @@
                   "path": ""
                 },
                 {
-                  "text": "Using GetPeople Method From Angular Component",
+                  "text": "在前端组件中使用GetPeople方法",
                   "path": ""
                 }
               ]
@@ -90,7 +93,7 @@
               "path": ""
             },
             {
-              "text": "将创建/编辑模态窗口转换为页面",
+              "text": "如何将编辑状态的模态窗转换为页面",
               "path": ""
             }
           ]
@@ -99,7 +102,7 @@
     },
     {
       "text": "代码生成器",
-      "isNew": true,
+      "isNew": false,
       "items": [
         {
           "text": "代码生成器介绍",
