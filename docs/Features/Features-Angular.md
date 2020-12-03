@@ -37,13 +37,13 @@
   - [租户设置  ](Angular/NG-Tenant-Settings.md)
     - [维护](Angular/NG-Maintenance.md)
     - [租户工作台](Angular/NG-Tenant-Dashboard.md)
-  - 验证码
+  <!-- - 验证码
     - [谷歌验证码集成](Features-Google-Verification-Code-Integration.md)
     - [极验验证码集成](Features-Jiyan-Verification-Code-Integration.md)
-    - [图形验证码集成](Features-GUI-Verification-Code-Integration.md)
+    - [图形验证码集成](Features-GUI-Verification-Code-Integration.md) -->
   - [通知](Angular/NG-Notifications.md)
   - [内部通讯聊天](Angular/NG-Chat.md)
-  - [用户菜单  ](Angular/NG-User-Menu.md)
+  - [用户菜单](Angular/NG-User-Menu.md)
   - [安装应用页面](Angular/NG-Setup-Page.md)
   - [迁移数据库控制台](/docs/Migrator-Console-Application.md)
   - [门户网站](Features-Mvc-Core-Web-Portal-Project.md)

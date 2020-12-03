@@ -46,6 +46,60 @@
       ]
     },
     {
+      "text": "基础设施和概念",
+      "isNew": false,
+      "items": [
+        {
+          "text": "NPM 包管理",
+          "path": ""
+        },
+        {
+          "text": "Yarn 包管理",
+          "path": ""
+        },
+        {
+          "text": "Angular CLI & WebPack",
+          "path": ""
+        },
+        {
+          "text": "NSwag",
+          "path": ""
+        },
+        {
+          "text": "本地化",
+          "path": ""
+        },
+        {
+          "text": "异常拦截",
+          "path": ""
+        },
+        {
+          "text": "授权",
+          "path": ""
+        },
+        {
+          "text": "产品功能",
+          "path": ""
+        },
+        {
+          "text": "设置",
+          "path": ""
+        },
+        {
+          "text": "SignalR 集成",
+          "path": ""
+        },
+        {
+          "text": "渗透测试报告",
+          "path": ""
+        },
+        {
+          "text": "使用的包和库",
+          "path": ""
+        }
+      ]
+    },
+    {
       "text": "更新日志",
       "path": "Change-Logs.md",
       "isNew": true
@@ -53,7 +107,7 @@
     {
       "text": "Free 模板和 52ABP-PRO 的功能对比",
       "path": "Abp-Template-vs-52ABP-Pro.md",
-      "isNew": false
+      "isNew": true
     },
     {
       "text": "路线图",
@@ -74,12 +128,12 @@
           "isNew": false
         },
         {
-          "text": "付费用户仓库",
-          "path": "https://code.52abp.com/commercial",
+          "text": "码云",
+          "path": "https://gitee.com/aiabpedu/",
           "isNew": false
         },
         {
-          "text": "52ABP学院",
+          "text": "52ABP实训营",
           "path": "https://www.52abp.com/College",
           "isNew": false
         },
@@ -94,7 +148,12 @@
           "isNew": false
         },
         {
-          "text": "免费视频课程",
+          "text": "知乎",
+          "path": "https://www.zhihu.com/people/52abp/activities",
+          "isNew": false
+        },
+        {
+          "text": "B 站",
           "path": "https://space.bilibili.com/2954671",
           "isNew": false
         },

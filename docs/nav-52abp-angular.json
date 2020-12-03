@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "text": "5分钟快速入门",
+      "text": "5分钟快速启动52ABP框架",
       "path": "Getting-Started-Angular.md"
     },
     {
@@ -113,10 +113,6 @@
           "path": "Development-Guid-52ABP-Power.md"
         }
       ]
-    },
-    {
-      "text": "版本对比表",
-      "path": "Version-Differences.md"
     },
     {
       "text": "路线图",

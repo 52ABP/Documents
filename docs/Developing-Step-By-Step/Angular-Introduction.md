@@ -13,8 +13,7 @@
 
 本文档适用于**ASP.NET Core 后端和Angular UI**前后端分离的项目类型。
 
-您还可以通过查看其他项目类型。
-
+ 
 
 您还可以通过查看[其他项目类型文档](/docs/Getting-Started.md)。
 

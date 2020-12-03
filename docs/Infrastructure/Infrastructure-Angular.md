@@ -1,4 +1,4 @@
-## Infrastructure
+<!-- ## Infrastructure
 
 The following topics will be covered in this section:
 
@@ -12,4 +12,4 @@ The following topics will be covered in this section:
 - [Setting](Angular-Setting.md)
 - [SignalR Integration](Angular-SignalR-Integration.md)
 - [Used Libraries & Frameworks](Angular-Used-Libraries-Frameworks.md)
-- [Penetration Test](Security-Report-Angular.md)
+- [Penetration Test](Security-Report-Angular.md) -->
