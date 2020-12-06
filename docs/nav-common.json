@@ -1,30 +1,12 @@
 {
   "items": [
     {
-      "text": "5分钟快速入门",
+      "text": "导航目录",
       "path": "Getting-Started.md"
     },
     {
       "text": "52ABP-PRO 前后端分离架构概述",
       "path": "Overview-Angular.md"
-    },
-    {
-      "text": "发布和部署",
-      "path": "",
-      "items": [
-        {
-          "text": "发布到 Azure",
-          "path": ""
-        },
-        {
-          "text": "发布到 IIS",
-          "path": ""
-        },
-        {
-          "text": "发布到 Docker",
-          "path": ""
-        }
-      ]
     },
     {
       "text": "2019年起如何开始学习ABP框架系列文章-开篇有益",
