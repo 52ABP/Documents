@@ -47,3 +47,7 @@
 - [如何改造既有功能让它支持多租户功能](Angular/21.Multi-Tenancy.md)
 - [运行应用程序验证多租户下的数据隔离](Angular/22.Running-Application.md)
 - [52ABPPRO源代码下载和总结](Angular/23.Develop-Angular-The-End.md)
+
+
+
+我们需要创建并下载名为**YoyoSoft.PhoneBookDemo**的解决方案，可参考[快速启动52ABP——Pro项目](../Getting-Started-Angular.md)文档。
