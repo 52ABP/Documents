@@ -18,6 +18,8 @@
 您可以根据您的项目类型，参考对应的文档
 
 - [52ABP-PRO ASP.NET Core 和 Angular 前后端分离版本文档](Getting-Started-Angular.md)
+- [52ABP-PRO ASP.NET Core 和 Vue 前后端分离版本文档](Getting-Started-Vue.md)
+
 - [52ABP-PRO ASP.NET Core MVC和 jQuery 多页面版本文档](Getting-Started-Core.md) 
 
 ## 目录
