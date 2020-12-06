@@ -74,7 +74,7 @@
   - [门户网站](Features-Mvc-Core-Web-Portal-Project.md)
   - [Swagger UI](Features-52ABP-NG-Swagger-UI.md)
   <!-- - [GraphQL API](Features-52ABP-NG-GraphQL-API.md) -->
-- **教程--一步步开发实例(推荐)**
+- [教程--一步步开发实例(推荐)](Developing-Step-By-Step/Angular-Introduction.md)
   - [创建并运行一个ABP项目](Developing-Step-By-Step/Angular/1.Creating-Running-Project.md)
   - [Angular应用中添加一个菜单栏](Developing-Step-By-Step/Angular/2.Adding-New-Menu-Item.md)
   - [创建一个前端PhoneBook组件](Developing-Step-By-Step/Angular/3.Creating-PhoneBook-Component.md)

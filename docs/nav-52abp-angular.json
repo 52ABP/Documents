@@ -47,7 +47,7 @@
           "text": "入门开发实例",
           "items": [
             {
-              "text": "开发实例介绍",
+              "text": "多租户开发案例介绍",
               "path": "Developing-Step-By-Step/Angular-Introduction.md"
             },
             {

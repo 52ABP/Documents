@@ -18,12 +18,7 @@
 
  
 ## 开始
-
-[创建并运行一个ABP项目](Angular/1.Creating-Running-Project.md)
-
-
-## 完整目录
-
+ 
 - [创建并运行一个ABP项目](Angular/1.Creating-Running-Project.md)
 - [Angular应用中添加一个菜单栏](Angular/2.Adding-New-Menu-Item.md)
 - [创建一个前端PhoneBook组件](Angular/3.Creating-PhoneBook-Component.md)
@@ -50,4 +45,4 @@
 
 
 
-我们需要创建并下载名为**YoyoSoft.PhoneBookDemo**的解决方案，可参考[快速启动52ABP——Pro项目](../Getting-Started-Angular.md)文档。
+ 
