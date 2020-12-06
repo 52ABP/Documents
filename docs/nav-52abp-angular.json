@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "text": "5分钟快速入门",
+      "text": "5分钟快速启动52ABP框架",
       "path": "Getting-Started-Angular.md"
     },
     {
@@ -13,7 +13,7 @@
       "items": [
         {
           "text": "功能介绍导航",
-          "path": "Features-Angular"
+          "path": "Features/Angular/Features-Angular.md"
         },
         {
           "text": "登录",
@@ -21,19 +21,19 @@
           "items": [
             {
               "text": "社交和外部登录",
-              "path": "Features-Angular-Social-Logins.md"
+              "path": "Features/Angular/NG-Social-Logins.md"
             },
             {
               "text": "双因素身份验证",
-              "path": "Features-Angular-Two-Factor-Authentication.md"
+              "path": "Features/Angular/NG-Two-Factor-Authentication.md"
             },
             {
               "text": "找回密码",
-              "path": "Features-Angular-Forgot-Password.md"
+              "path": "Features/Angular/NG-Forgot-Password.md"
             },
             {
               "text": "基于令牌（Token）的身份验证",
-              "path": "Features-Angular-Token-Based-Authentication.md"
+              "path": "Features/Angular/NG-Token-Based-Authentication.md"
             }
           ]
         }
@@ -45,38 +45,105 @@
       "items": [
         {
           "text": "入门开发实例",
-          "path": "Developing-Step-By-Step/Introduction.md",
           "items": [
             {
               "text": "开发实例介绍",
-              "path": "Developing-Step-By-Step/Introduction.md"
+              "path": "Developing-Step-By-Step/Angular-Introduction.md"
             },
             {
               "text": "创建并运行项目",
               "path": "Developing-Step-By-Step/Angular/1.Creating-Running-Project.md"
             },
             {
-              "text": "添加一个菜单",
-              "path": ""
+              "text": "添加菜单导航",
+              "path": "Developing-Step-By-Step/Angular/2.Adding-New-Menu-Item.md"
             },
             {
-              "text": "创建PhoneBook组件",
+              "text": "添加PhoneBook的组件及服务代码",
               "items": [
                 {
-                  "text": "创建Person实体",
-                  "path": ""
+                  "text": "创建一个前端PhoneBook组件",
+                  "path": "Developing-Step-By-Step/Angular/3.Creating-PhoneBook-Component.md"
                 },
                 {
-                  "text": "Person类的数据库迁移",
-                  "path": ""
+                  "text": "在ABP框架中定义Person实体类",
+                  "path": "Developing-Step-By-Step/Angular/4.Creating-Person-Entity.md"
                 },
                 {
-                  "text": "创建Person服务的单元测试",
-                  "path": ""
+                  "text": "同步Person实体到数据库中创建映射表",
+                  "path": "Developing-Step-By-Step/Angular/5.Database-Migrations-Person-Entity.md"
                 },
                 {
-                  "text": "Using GetPeople Method From Angular Component",
-                  "path": ""
+                  "text": "在ABP框架中创建Person的应用服务",
+                  "path": "Developing-Step-By-Step/Angular/6.Creating-Person-Application-Service.md"
+                },
+                {
+                  "text": "ABP框架中为Person应用服务创建单元测试",
+                  "path": "Developing-Step-By-Step/Angular/7.Creating-Unit-Tests-for-Person-Application-Service.md"
+                },
+                {
+                  "text": "在Angular组件中实现查询People的方法",
+                  "path": "Developing-Step-By-Step/Angular/8.Using-GetPeople-Method-from-Angular.md"
+                },
+                {
+                  "text": "如何在ABP框架中添加一个联系人信息",
+                  "path": "Developing-Step-By-Step/Angular/9.Creating-New-Person-Method.md"
+                },
+                {
+                  "text": "在ABP框架中使用单元测试Xunit测试添加方法",
+                  "path": "Developing-Step-By-Step/Angular/10.Creating-Testing-Create-Person-Method.md"
+                },
+                {
+                  "text": "在Angular客户端创建一个模态框完成添加联系人功能",
+                  "path": "Developing-Step-By-Step/Angular/11.Creating-Testing-Creating-Modal-New-Person.md"
+                },
+                {
+                  "text": "ABP框架中为我们的电话薄应用程序添加权限验证内容",
+                  "path": "Developing-Step-By-Step/Angular/12.Authorization-PhoneBook.md"
+                },
+                {
+                  "text": "在ABP框架中完成删除联系人功能",
+                  "path": "Developing-Step-By-Step/Angular/13.Deleting-Person.md"
+                },
+                {
+                  "text": "模糊搜索联系人信息",
+                  "path": "Developing-Step-By-Step/Angular/14.Filtering-People.md"
+                },
+                {
+                  "text": "在ABP框架中实现一对多的关联关系",
+                  "path": "Developing-Step-By-Step/Angular/15.Creating-Phone-Entity.md"
+                },
+                {
+                  "text": "针对Phone实体信息的数据库迁移",
+                  "path": "Developing-Step-By-Step/Angular/16.Migrations-Phone-Entity.md"
+                },
+                {
+                  "text": "在ABP中的多表联动查询的实现",
+                  "path": "Developing-Step-By-Step/Angular/17.Changing-GetPeople-Method.md"
+                },
+                {
+                  "text": "给PersonApplicatonService应用服务添加电话和删除电话两个方法",
+                  "path": "Developing-Step-By-Step/Angular/18.Adding-AddPhone-DeletePhone-Methods.md"
+                },
+                {
+                  "text": "添加并查看联系人的电话信息",
+                  "path": "Developing-Step-By-Step/Angular/19.Edit-Mode-Phone-Numbers.md"
+                },
+                {
+                  "text": "完成编辑联系人信息",
+                  "path": "Developing-Step-By-Step/Angular/20.Compleate-EditPerson.md"
+                },
+                {
+                  "text": "如何改造既有功能让它支持多租户功能",
+                  "path": "Developing-Step-By-Step/Angular/21.Multi-Tenancy.md"
+                },
+                {
+                  "text": "运行应用程序验证多租户下的数据隔离",
+                  "path": "Developing-Step-By-Step/Angular/22.Running-Application.md"
+                },
+                {
+                  "text": "52ABPPRO源代码下载和总结",
+                  "path": "Developing-Step-By-Step/Angular/23.Develop-Angular-The-End.md"
                 }
               ]
             }
@@ -90,7 +157,7 @@
               "path": ""
             },
             {
-              "text": "将创建/编辑模态窗口转换为页面",
+              "text": "如何将编辑状态的模态窗转换为页面",
               "path": ""
             }
           ]
@@ -99,7 +166,7 @@
     },
     {
       "text": "代码生成器",
-      "isNew": true,
+      "isNew": false,
       "items": [
         {
           "text": "代码生成器介绍",
@@ -110,10 +177,6 @@
           "path": "Development-Guid-52ABP-Power.md"
         }
       ]
-    },
-    {
-      "text": "版本对比表",
-      "path": "Version-Differences.md"
     },
     {
       "text": "路线图",
