@@ -34,7 +34,7 @@
 - 启动项目
   - [5分钟快速入门](Getting-Started-Angular.md)  
   - [52ABP-Pro设计概述](Overview-Angular.md)
-- [功能介绍](Features-Angular.md)
+<!-- - [功能介绍](Features-Angular.md)
   - [登录](Features-52ABP-NG-Login.md)
     - [社交和外部登录](Features-52ABP-NG-Social-Logins.md)
     - [双因素身份验证](Features-52ABP-NG-Two-Factor-Authentication.md)
@@ -52,27 +52,27 @@
   - [角色管理](Features-52ABP-NG-Role-Management.md)
   - [用户管理](Features-52ABP-NG-User-Management.md)
   - [语言管理](Features-52ABP-NG-Language-Management.md)
-  - [审计日志](Features-52ABP-NG-Audit-Logs.md)
+  - [审计日志](Features-52ABP-NG-Audit-Logs.md) -->
   <!-- - [实体历史](Features-52ABP-NG-Entity-History.md) -->
   <!-- - [订阅](Features-52ABP-NG-Subscription.md) -->
   <!-- - 支付
     - [微信支付](Features-52ABP-NG-Subscription-WeChat-Integration.md)
     - [支付宝](Features-52ABP-NG-Subscription-AliPay-Integration.md)  -->
-  - [宿主设置](Features-52ABP-NG-Host-Settings.md)
+  <!-- - [宿主设置](Features-52ABP-NG-Host-Settings.md)
   - [租户设置](Features-52ABP-NG-Tenant-Settings.md)
     - [维护](Features-52ABP-NG-Maintenance.md)
-    - [租户工作台](Features-52ABP-NG-Tenant-Dashboard.md)
+    - [租户工作台](Features-52ABP-NG-Tenant-Dashboard.md) -->
   <!-- - 验证码
     - [谷歌验证码集成](Features-Google-Verification-Code-Integration.md)
     - [极验验证码集成](Features-Jiyan-Verification-Code-Integration.md)
     - [图形验证码集成](Features-GUI-Verification-Code-Integration.md) -->
-  - [通知](Features-52ABP-NG-Notifications.md)
+  <!-- - [通知](Features-52ABP-NG-Notifications.md) -->
   <!-- - [内部通讯聊天](Features-52ABP-NG-Chat.md) -->
   <!-- - [用户菜单](Features-52ABP-NG-User-Menu.md) -->
   <!-- - [安装应用页面](Features-52ABP-NG-Setup-Page.md) -->
   - [迁移数据库控制台](Migrator-Console-Application.md)
-  - [门户网站](Features-Mvc-Core-Web-Portal-Project.md)
-  - [Swagger UI](Features-52ABP-NG-Swagger-UI.md)
+  <!-- - [门户网站](Features-Mvc-Core-Web-Portal-Project.md)
+  - [Swagger UI](Features-52ABP-NG-Swagger-UI.md) -->
   <!-- - [GraphQL API](Features-52ABP-NG-GraphQL-API.md) -->
 - [教程--一步步开发实例(推荐)](Developing-Step-By-Step/Angular-Introduction.md)
   - [创建并运行一个ABP项目](Developing-Step-By-Step/Angular/1.Creating-Running-Project.md)
