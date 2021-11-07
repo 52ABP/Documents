@@ -15,7 +15,7 @@
 52ABP企业版开始改名为52ABP-PRO，并且改名后的版本号为V5.0.0。并且提供CLI工具，可以通过命令行方式进行操作，快速创建业务模块。
 访问地址：https://www.nuget.org/packages/52abp-cli
 
-安装方式
+安装方式，可以查看使用文档[如何使用52ABP-CLI命令行工具](cli/how-to-use-52abp-cli.md)
 
 ```bash
 dotnet tool install --global 52abp-cli --version 0.0.1
