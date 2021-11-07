@@ -10,6 +10,28 @@
 > 企业版仓库地址： https://code.52abp.com/commercial/ultimate
 
 
+## V5.0.0(2021年10月22日)
+
+52ABP企业版开始改名为52ABP-PRO，并且改名后的版本号为V5.0.0。并且提供CLI工具，可以通过命令行方式进行操作，快速创建业务模块。
+访问地址：https://www.nuget.org/packages/52abp-cli
+
+安装方式
+
+```bash
+dotnet tool install --global 52abp-cli --version 0.0.1
+```
+## 更新内容：
+
+- 如果您是低于5.0.0版本的客户，请更新到最新版本。更新文档可以查看升级[文档52ABP V5 升级指南](UpgradeGuide/52AbpV5UpgradeGuide.md)。
+- 增加了模块管理器，可以快速创建业务模块。
+- 增加了52ABP ldentity模块，可以统一适配身份认证内容·完成整套模块化功能的迁移。
+- 增加实体变更历史记录功能。
+- 统一Angular前端代理类·升级ABP版本到6.4.0
+- 删除过期的Angular前端组件。完善SaaS模块·适配VUE模板
+- 前端统一调整。
+- 低版本升级到高版本遇到问题可以，参考升级文档[文档52ABP V5 升级指南](UpgradeGuide/52AbpV5UpgradeGuide.md)
+- 统一处理yarn为npm 考虑到CICD。如果遇到npm加速包还原问题，可参考文档[NPM和Yarn使用国内淘宝镜像源提升各依赖安装速度](https://www.52abp.com/post/yoyomooc/npm-yarn-registry-taobao-mirror):https://www.52abp.com/post/yoyomooc/npm-yarn-registry-taobao-mirror
+
 
 ## V3.9.0 (2021年6月5日)
 

@@ -1,6 +1,6 @@
 # 52ABP V5 升级指南
 
-> 本指南适用于当前版本 52Abp <=4.0的版本；如果在升级过程中遇到问题，欢迎提出。 如果发现本指南存在遗漏/错误，请指出! 或者你遇到了新的问题并解决了，欢迎补充! 如果升级中遇到问题请前往 [52ABP V5 升级指南 Upgrade Guide](https://github.com/52ABP/52ABP.Template/discussions/57) 反馈
+> 本指南适用于当前版本 52Abp <=4.0的版本；如果在升级过程中遇到问题，欢迎提出。 如果发现本指南存在遗漏/错误，请指出! 或者你遇到了新的问题并解决了，欢迎补充! 如果升级中遇到问题请前往github的讨论区 [52ABP V5 升级指南 Upgrade Guide](https://github.com/52ABP/52ABP.Template/discussions/57) 反馈
 
 
 ## 开始之前
@@ -9,7 +9,7 @@
 2. 已经安装.NET 5 版本。
 3. 创建新的分支，或者使用其他方式备份当前项目。
 
-> 52ABP框架不仅仅是一个后端框架，它还包含了前端框架如Angular和Vue。本次的升级包含了52ABP的大量模块变化，本次的升级与以往的升级不同，带有较大的破坏式升级。如果您在升级过程中遇到了问题，请前往 [52ABP V5 升级指南 Upgrade Guide](https://github.com/52ABP/52ABP.Template/discussions/57) 反馈。
+> 52ABP框架不仅仅是一个后端框架，它还包含了前端框架如Angular和Vue。本次的升级包含了52ABP的大量模块变化，本次的升级与以往的升级不同，带有较大的破坏式升级。如果您在升级过程中遇到了问题，请前往github的讨论区 [52ABP V5 升级指南 Upgrade Guide](https://github.com/52ABP/52ABP.Template/discussions/57) 反馈。
 
 
 ## 升级步骤
