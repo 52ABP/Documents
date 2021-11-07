@@ -1,0 +1,179 @@
+{
+  "items": [
+    {
+      "text": "5分钟快速入门",
+      "path": "Getting-Started.md"
+    },
+    {
+      "text": "52ABP-PRO 前后端分离架构概述",
+      "path": "Overview-Angular.md"
+    },
+    {
+      "text": "发布和部署",
+      "path": "",
+      "items": [
+        {
+          "text": "发布到 Azure",
+          "path": ""
+        },
+        {
+          "text": "发布到 IIS",
+          "path": ""
+        },
+        {
+          "text": "发布到 Docker",
+          "path": ""
+        }
+      ]
+    },
+    {
+      "text": "2019年起如何开始学习ABP框架系列文章-开篇有益",
+      "path": "Introduction.md",
+      "isNew": false
+    },
+    {
+      "text": "代码生成器",
+      "isNew": true,
+      "items": [
+        {
+          "text": "代码生成器介绍",
+          "path": "52ABP-Power-Tools-Intro.md"
+        },
+        {
+          "text": "使用 52ABP 代码生成器开发",
+          "path": "Development-Guid-52ABP-Power.md"
+        }
+      ]
+    },
+    {
+      "text": "基础设施和概念",
+      "isNew": false,
+      "items": [
+        {
+          "text": "NPM 包管理",
+          "path": ""
+        },
+        {
+          "text": "Yarn 包管理",
+          "path": ""
+        },
+        {
+          "text": "Angular CLI & WebPack",
+          "path": ""
+        },
+        {
+          "text": "NSwag",
+          "path": ""
+        },
+        {
+          "text": "本地化",
+          "path": ""
+        },
+        {
+          "text": "异常拦截",
+          "path": ""
+        },
+        {
+          "text": "授权",
+          "path": ""
+        },
+        {
+          "text": "产品功能",
+          "path": ""
+        },
+        {
+          "text": "设置",
+          "path": ""
+        },
+        {
+          "text": "SignalR 集成",
+          "path": ""
+        },
+        {
+          "text": "渗透测试报告",
+          "path": ""
+        },
+        {
+          "text": "使用的包和库",
+          "path": ""
+        }
+      ]
+    },
+    {
+      "text": "更新日志",
+      "path": "Change-Logs.md",
+      "isNew": true
+    },
+    {
+      "text": "Free 模板和 52ABP-PRO 的功能对比",
+      "path": "Abp-Template-vs-52ABP-Pro.md",
+      "isNew": true
+    },
+    {
+      "text": "路线图",
+      "path": "Road-Map.md",
+      "isNew": true
+    },
+    {
+      "text": "如何参与 52ABP 贡献",
+      "path": "Contributors-to-52abp.md",
+      "isNew": true
+    },
+    {
+      "text": "扩展链接",
+      "items": [
+        {
+          "text": "Github源代码",
+          "path": "https://github.com/52abp",
+          "isNew": false
+        },
+        {
+          "text": "码云",
+          "path": "https://gitee.com/aiabpedu/",
+          "isNew": false
+        },
+        {
+          "text": "52ABP实训营",
+          "path": "https://www.52abp.com/College",
+          "isNew": false
+        },
+        {
+          "text": "代码生成器下载地址",
+          "path": "https://marketplace.visualstudio.com/items?itemName=werltm.52ABPCodeGenerator",
+          "isNew": false
+        },
+        {
+          "text": "网易云课堂",
+          "path": "https://study.163.com/instructor/1025359868.htm?_trace_c_p_k2_=df4a03dfd0684f7b933fc91fa64a33ec",
+          "isNew": false
+        },
+        {
+          "text": "知乎",
+          "path": "https://www.zhihu.com/people/52abp/activities",
+          "isNew": false
+        },
+        {
+          "text": "B 站",
+          "path": "https://space.bilibili.com/2954671",
+          "isNew": false
+        },
+        {
+          "text": "微信公众号：角落的白板报",
+          "path": "https://weixin.sogou.com/weixin?p=01030402&query=%E8%A7%92%E8%90%BD%E7%9A%84%E7%99%BD%E6%9D%BF%E6%8A%A5&type=2&ie=utf8",
+          "isNew": false
+        },
+        {
+          "text": "52ABP快速创建项目",
+          "path": "https://www.52abp.com/Download",
+          "isNew": false
+        }
+      ],
+      "isNew": false
+    },
+    {
+      "text": "文档汇总目录",
+      "path": "Index-Angular.md",
+      "isNew": true
+    }
+  ]
+}

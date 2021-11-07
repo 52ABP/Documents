@@ -1,0 +1,201 @@
+{
+  "items": [
+    {
+      "text": "ASP.NETCoreMVC目录",
+
+      "items": [
+        {
+          "text": "课程介绍",
+          "path": "1.Intro.md"
+        },
+        {
+          "text": "为您的机器配置开发环境",
+          "path": "2.ConfigMachine.md"
+        },
+        {
+          "text": "VS2019创建ASP.NETCoreWeb程序",
+          "path": "3.2Createprojectby2019.md"
+        },
+        {
+          "text": "VS2017创建ASP.NETCoreWeb程序",
+          "path": "3.1Createprojectby2017.md"
+        },
+        {
+          "text": "ASP.NETCoreWeb项目文件",
+          "path": "4.ProjectFile.md",
+          "isNew": false
+        },
+        {
+          "text": "ASP.NETCore中的Main方法",
+          "path": "5.MainMethod.md",
+          "isNew": false
+        },
+        {
+          "text": "ASP.NETCore进程内(InProcess)托管",
+          "path": "6.In-ProcessHosting.md",
+          "isNew": false
+        },
+        {
+          "text": "ASP.NETCore进程外(out-of-process)托管",
+          "path": "7.Out-of-ProcessHosting.md",
+          "isNew": false
+        },
+        {
+          "text": "ASP.NETCorelaunchsettings.json文件",
+          "path": "8.launchsettingsJsonFile.md",
+          "isNew": false
+        },
+        {
+          "text": "ASP.NETCoreappsettings.json文件",
+          "path": "9.AppsettingsjsonFile.md",
+          "isNew": false
+        },
+        {
+          "text": "ASP.NETCore中的中间件",
+          "path": "10.MiddlewareIntro.md",
+          "isNew": false
+        },
+        {
+          "text": "配置ASP.NETCore请求(Request)处理管道",
+          "path": "11.ConfigRequsetPipeline.md",
+          "isNew": false
+        },
+        {
+          "text": "Asp.Net Core中的静态文件",
+          "path": "12.StaticFile.md",
+          "isNew": false
+        },
+        {
+          "text": "ASP.NET Core开发人员异常页面",
+          "path": "13.DeveloperException.md",
+          "isNew": false
+        },
+        {
+          "text": "Asp.Net Core中的环境变量",
+          "path": "14.EnviromentVariables.md",
+          "isNew": false
+        },
+        {
+          "text": "Asp.Net CoreMVC教程",
+          "path": "15.MVCTurorial.md",
+          "isNew": false
+        },
+        {
+          "text": "在Asp.Net Core中安装MVC",
+          "path": "16.SetupMVC.md",
+          "isNew": false
+        },
+        {
+          "text": "ASP.NET Core中AddMvc与AddMvcCore的区别",
+          "path": "17.AddMvcVsAddMvcCore.md",
+          "isNew": false
+        },
+        {
+          "text": "ASP.NET CoreMVC中的Model",
+          "path": "18.ModelInMVC.md"
+        },
+        {
+          "text": "ASP.NETCore的依赖注入教程",
+          "path": "19.Dependency-Injection.md"
+        },
+        {
+          "text": "ASP.NET CoreMVC中的控制器",
+          "path": "20.ControllerInMVc.md"
+        },
+        {
+          "text": "ASP.NET CoreMVC中的视图",
+          "path": "21.ViewsInMVc.md"
+        },
+        {
+          "text": "在Asp.Net CoreMvc中的自定义视图",
+          "path": "22.CustomizeViewInMVC.md"
+        },
+        {
+          "text": "将数据传递到ASP.NET CoreMVC中展示",
+          "path": "23.PassingDataToView.md"
+        },
+        {
+          "text": "ASP.NET CoreMVC中的ViewBag",
+          "path": "24.ViewBag-in-ASP.NET-Core-MVC.md"
+        },
+        {
+          "text": "ASP.NET CoreMVC中的强类型视图",
+          "path": "25.StronglyTypedView-in-ASP.NET-Core-MVC.md"
+        },
+        {
+          "text": "ASP.NET CoreMVC中的ViewModel",
+          "path": "26.ViewModel-in-ASP.NET-Core-MVC.md"
+        },
+        {
+          "text": "ASP.NET CoreMVC中列表视图",
+          "path": "27.List-view-in-asp.net-core-mvc.md",
+          "isNew": true
+        },
+        {
+          "text": "ASP.NET CoreMVC中的布局视图",
+          "path": "28.Layout-view-in-asp.net-core-mvc.md",
+          "isNew": true
+        },
+        {
+          "text": "ASP.NET CoreMVC中的Layout页面中的局部视图",
+          "path": "29.Sections-in-layout-page-in-ASP.NET-Core-MVC.md",
+          "isNew": true
+        },
+        {
+          "text": "ASP.NET CoreMVCC中的_ViewStart.cshtml",
+          "path": "30.ViewStart.cshtml-in-ASP.NET-Core-MVCC.md",
+          "isNew": true
+        },
+        {
+          "text": "ASP.NET CoreMVC中的_ViewImports.cshtml",
+          "path": "31._ViewImports.cshtml-in-ASP.NET-Core-MVC.md",
+          "isNew": true
+        },
+        {
+          "text": "ASP.NET CoreMVC中的路由",
+          "path": "32.Routing-in-ASP.NET-Core-MVC.md",
+          "isNew": false
+        },
+        {
+          "text": "ASPNETCoreMVC中的属性路由",
+          "path": "33.Attribute-Routing-in-ASP-NET-Core-MVC.md",
+          "isNew": false
+        },
+        {
+          "text": "在ASP.NET Core中安装和使用Bootstrap",
+          "path": "34.Install-and-use-Bootstrap-in-ASP.NET-Core.md",
+          "isNew": false
+        },
+        {
+          "text": "在Asp.Net Core中标记助手(TagHelper)",
+          "path": "35.Tag-helpers-in-asp.net-core.md",
+          "isNew": false
+        },
+        {
+          "text": "为什么要使用标记助手(TagHelper)",
+          "path": "36.Why-use-tag-helpers.md",
+          "isNew": false
+        },
+        {
+          "text": "ASP.NET CoreImage标记助手(TagHelper)",
+          "path": "37.ASP.NET-Core-Image-tag-helper.md",
+          "isNew": false
+        }
+      ]
+    },
+
+    {
+      "text": "参与贡献",
+      "items": [
+        {
+          "text": "参与协同规划",
+          "path": "docs/contributors.md"
+        },
+        {
+          "text": "文档排版规范",
+          "path": "Document-specification.md"
+        }
+      ]
+    }
+  ]
+}
