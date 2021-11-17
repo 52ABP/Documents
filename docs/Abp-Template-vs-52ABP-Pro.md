@@ -7,7 +7,7 @@
 
 
 ## 52ABP和ABP的关系
- 
+
 ASP.NET Boilerplate是一个开源Web应用程序框架，提供了免费的启动模板。
 
 52ABP是一款基于ABP之上开发出来的适用于国内的市场和环境的项目模板。
@@ -16,7 +16,7 @@ ASP.NET Boilerplate是一个开源Web应用程序框架，提供了免费的启�
 
 所以他不会和 ABP 框架冲突，建议大家可以直接使用 52ABP 框架进行开发，因为 52ABP 有一整套的开发设施，项目模板生成器，代码生成器、文档、视频等内容。
 可以节约大家的时间和精力。
- 
+
  ![Abp-Template-vs-52ABP-Pro-1](images/Abp-Template-vs-52ABP-Pro-1.png)
 
 我们在B站也制作了视频，有更加详细的介绍：
@@ -44,7 +44,6 @@ ASP.NET Boilerplate是一个开源Web应用程序框架，提供了免费的启�
         <tr>
         <td colspan="3"><strong>基础设施</strong></td>
         </tr>
-
  <tr>
         <td>Abp框架功能	</td>
         <td><i class="fa fa-check text-success"></i></td><td><i class="fa fa-check text-success"></i></td></tr>
@@ -182,7 +181,7 @@ ASP.NET Boilerplate是一个开源Web应用程序框架，提供了免费的启�
 <td>聊天功能集成 SignalR</td>
 <td><i class="fa fa-minus text-secondary"></i></td>
 <td><i class="fa fa-minus text-success"></i></td>	</tr>
- 
+
 <td>应用程序设置</td>
 <td><i class="fa fa-minus text-secondary"></i></td>
 <td><i class="fa fa-check text-success"></i></td></tr>
@@ -242,8 +241,8 @@ ASP.NET Boilerplate是一个开源Web应用程序框架，提供了免费的启�
 <td><i class="fa fa-check text-success"></i></td></tr>
 <tr>
 <td>&nbsp;</td>
-<td><a class="btn btn-primary text-center  text-white    btn-sm" ref="https://www.52abp.com/Download/Index" target="_blank">下载使用</a></td>
-<td><a class="btn btn-success text-center text-white    btn-sm" ref="https://www.52abp.com/Purchase">价格</a></td>
+<td><a class="btn btn-primary text-center  text-white    btn-sm" href="https://www.52abp.com/Download/Index" target="_blank">下载使用</a></td>
+<td><a class="btn btn-success text-center text-white    btn-sm" href="https://www.52abp.com/Purchase">价格</a></td>
 </tr>
 </tbody>
 </table>

@@ -14,6 +14,16 @@
       "isNew": false
     },
     {
+      "text": "入门教程",
+      "isNew": false,
+      "items":[
+        {
+          "text":"使用52ABP模板开发MVC项目",
+          "path":"../articles/Introduction-With-AspNet-Core-And-Entity-Framework-Core.md"
+        }
+      ]
+    },
+    {
       "text": "代码生成器",
       "isNew": true,
       "items": [
