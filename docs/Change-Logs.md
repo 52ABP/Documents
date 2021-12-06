@@ -9,6 +9,15 @@
 
 > 企业版仓库地址： https://code.52abp.com/commercial/ultimate
 
+## v5.1.0(2021年12月6日)
+
+- 升级了代码生成器支持VS2022，支持更多的编译器，下载地址：https://marketplace.visualstudio.com/items?itemName=werltm.52ABPCodeGenerator。
+- 调整文件管理功能到模块
+- 升级Identity Pro版本内容
+- 升级和适配组织单元移动的前端触发事件
+- 工作流模块支持子节点操作
+- 本地化注册调整为默认为中文，支持自定义语言
+- 修复已知的bug
 
 ## V5.0.0(2021年10月22日)
 
@@ -18,7 +27,7 @@
 安装方式，可以查看使用文档[如何使用52ABP-CLI命令行工具](cli/how-to-use-52abp-cli.md)
 
 ```bash
-dotnet tool install --global 52abp-cli --version 0.0.1
+dotnet tool install --global 52abp-cli 
 ```
 ## 更新内容：
 
