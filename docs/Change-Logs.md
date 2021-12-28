@@ -9,6 +9,13 @@
 
 > 企业版仓库地址： https://code.52abp.com/commercial/ultimate
 
+
+
+## v5.1.1(2021年12月28日)
+
+- 升级代码生成器，增加注释描述字段
+- 修复已知的bug
+
 ## v5.1.0(2021年12月6日)
 
 - 升级了代码生成器支持VS2022，支持更多的编译器，下载地址：https://marketplace.visualstudio.com/items?itemName=werltm.52ABPCodeGenerator。
