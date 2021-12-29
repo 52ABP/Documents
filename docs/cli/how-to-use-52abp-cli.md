@@ -2,6 +2,9 @@
 
 **52abp-cli** 是52abp开发团队开发的一款cli工具，旨在让用户能更好的使用52abp框架创造价值。
 
+可以通过命令行方式进行操作，快速创建业务模块。访问地址：https://www.nuget.org/packages/52abp-cli
+
+
 > TIPS: 为了更好的使用 52abp-cli 工具，请先升级到最新使用 [L.52AbpPro.Identity.Core]() 模块的版本
 
 ## 52abp-cli的维护命令
